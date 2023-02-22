@@ -6,15 +6,15 @@ import App from './App';
 import Dp900 from './Dp900';
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "dp-203/",
     element: <Root />
   },
   {
-    path: "dp-203/",
+    path: "dp-203/dp-203",
     element: <App />
   },
   {
-    path: "dp-900/",
+    path: "dp-203/dp-900",
     element: <Dp900 />
   },
 ]);
