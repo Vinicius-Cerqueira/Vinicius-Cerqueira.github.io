@@ -4,6 +4,7 @@ import { RouterProvider, createHashRouter } from 'react-router-dom'
 import Root from './root';
 import App from './App';
 import Dp900 from './Dp900';
+import Pl300 from './Pl300';
 
 const router = createHashRouter([
   {
@@ -17,6 +18,10 @@ const router = createHashRouter([
   {
     path: "dp-900/",
     element: <Dp900 />
+  },
+  {
+    path: "pl-300/",
+    element: <Pl300 />
   },
 ]);
 
