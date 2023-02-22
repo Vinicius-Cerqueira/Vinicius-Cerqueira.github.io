@@ -1,20 +1,21 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { RouterProvider, createHashRouter } from 'react-router-dom'
 import Root from './root';
 import App from './App';
 import Dp900 from './Dp900';
-const router = createBrowserRouter([
+
+const router = createHashRouter([
   {
-    path: "dp-203/",
+    path: "/",
     element: <Root />
   },
   {
-    path: "dp-203/dp-203",
+    path: "dp-203/",
     element: <App />
   },
   {
-    path: "dp-203/dp-900",
+    path: "dp-900/",
     element: <Dp900 />
   },
 ]);
