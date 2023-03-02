@@ -5,6 +5,7 @@ import Root from './root';
 import App from './App';
 import Dp900 from './Dp900';
 import Pl300 from './Pl300';
+import Az104 from './Az104';
 
 const router = createHashRouter([
   {
@@ -22,6 +23,10 @@ const router = createHashRouter([
   {
     path: "pl-300/",
     element: <Pl300 />
+  },
+  {
+    path: "az-104/",
+    element: <Az104 />
   },
 ]);
 
