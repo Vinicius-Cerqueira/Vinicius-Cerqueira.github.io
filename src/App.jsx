@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import data from './jsonData.json'
 import './App.css'
 
-function App() {
+function App(props) {
+
   const [clicked, setClicked] = useState([])
-  const [notClicked, setNotClicked] = useState(data)
+  const [notClicked, setNotClicked] = useState(props.data)
 
   const removeQuestion = (a) => {
     setNotClicked(notClicked.filter((question) => question.Address != a.Address))
@@ -19,10 +19,7 @@ function App() {
       <div>
 
         <h1>Questões Resolvidas</h1>
-        {clicked.map((a) => {
-          return <a key={a.Address} className='clicked' href={a.Address} target="_blank"> T{a.Topic} Q{a.Question} </a>
-        })
-        }
+        {clicked.map((a) => { return <a key={a.Address} className='clicked' href={a.Address} target="_blank"> T{a.Topic} Q{a.Question} </a> })}
       </div>
     </>
   )

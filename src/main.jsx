@@ -3,9 +3,12 @@ import ReactDOM from 'react-dom/client'
 import { RouterProvider, createHashRouter } from 'react-router-dom'
 import Root from './root';
 import App from './App';
-import Dp900 from './Dp900';
-import Pl300 from './Pl300';
-import Az104 from './Az104';
+
+
+import dp203Data from './data/jsonData.json'
+import dp900Data from './data/jsonDataDp900.json'
+import pl300Data from './data/jsonDataPl300.json'
+import az104Data from './data/jsonDataAz104.json'
 
 const router = createHashRouter([
   {
@@ -14,19 +17,19 @@ const router = createHashRouter([
   },
   {
     path: "dp-203/",
-    element: <App />
+    element: <App data={dp203Data} />
   },
   {
     path: "dp-900/",
-    element: <Dp900 />
+    element: <App data={dp900Data} />
   },
   {
     path: "pl-300/",
-    element: <Pl300 />
+    element: <App data={pl300Data} />
   },
   {
     path: "az-104/",
-    element: <Az104 />
+    element: <App data={az104Data} />
   },
 ]);
 
