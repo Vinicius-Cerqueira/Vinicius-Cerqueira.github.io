@@ -1,0 +1,2773 @@
+{
+    "exam": "az-400",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73884-exam-az-400-topic-1-question-1-discussion/",
+            "number": 73884,
+            "question": "Exam AZ-400 topic 1 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57747-exam-az-400-topic-1-question-10-discussion/",
+            "number": 57747,
+            "question": "Exam AZ-400 topic 1 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73936-exam-az-400-topic-1-question-11-discussion/",
+            "number": 73936,
+            "question": "Exam AZ-400 topic 1 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73986-exam-az-400-topic-1-question-12-discussion/",
+            "number": 73986,
+            "question": "Exam AZ-400 topic 1 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74039-exam-az-400-topic-1-question-13-discussion/",
+            "number": 74039,
+            "question": "Exam AZ-400 topic 1 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73983-exam-az-400-topic-1-question-14-discussion/",
+            "number": 73983,
+            "question": "Exam AZ-400 topic 1 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20519-exam-az-400-topic-1-question-14-discussion/",
+            "number": 20519,
+            "question": "Exam AZ-400 topic 1 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57754-exam-az-400-topic-1-question-15-discussion/",
+            "number": 57754,
+            "question": "Exam AZ-400 topic 1 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53072-exam-az-400-topic-1-question-15-discussion/",
+            "number": 53072,
+            "question": "Exam AZ-400 topic 1 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73885-exam-az-400-topic-1-question-16-discussion/",
+            "number": 73885,
+            "question": "Exam AZ-400 topic 1 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58289-exam-az-400-topic-1-question-17-discussion/",
+            "number": 58289,
+            "question": "Exam AZ-400 topic 1 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74040-exam-az-400-topic-1-question-18-discussion/",
+            "number": 74040,
+            "question": "Exam AZ-400 topic 1 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75626-exam-az-400-topic-1-question-19-discussion/",
+            "number": 75626,
+            "question": "Exam AZ-400 topic 1 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56898-exam-az-400-topic-1-question-2-discussion/",
+            "number": 56898,
+            "question": "Exam AZ-400 topic 1 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20510-exam-az-400-topic-1-question-2-discussion/",
+            "number": 20510,
+            "question": "Exam AZ-400 topic 1 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56900-exam-az-400-topic-1-question-20-discussion/",
+            "number": 56900,
+            "question": "Exam AZ-400 topic 1 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58293-exam-az-400-topic-1-question-21-discussion/",
+            "number": 58293,
+            "question": "Exam AZ-400 topic 1 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57978-exam-az-400-topic-1-question-22-discussion/",
+            "number": 57978,
+            "question": "Exam AZ-400 topic 1 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74041-exam-az-400-topic-1-question-23-discussion/",
+            "number": 74041,
+            "question": "Exam AZ-400 topic 1 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57178-exam-az-400-topic-1-question-24-discussion/",
+            "number": 57178,
+            "question": "Exam AZ-400 topic 1 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57100-exam-az-400-topic-1-question-25-discussion/",
+            "number": 57100,
+            "question": "Exam AZ-400 topic 1 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57110-exam-az-400-topic-1-question-26-discussion/",
+            "number": 57110,
+            "question": "Exam AZ-400 topic 1 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58151-exam-az-400-topic-1-question-27-discussion/",
+            "number": 58151,
+            "question": "Exam AZ-400 topic 1 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56759-exam-az-400-topic-1-question-28-discussion/",
+            "number": 56759,
+            "question": "Exam AZ-400 topic 1 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56595-exam-az-400-topic-1-question-29-discussion/",
+            "number": 56595,
+            "question": "Exam AZ-400 topic 1 question 29 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73950-exam-az-400-topic-1-question-3-discussion/",
+            "number": 73950,
+            "question": "Exam AZ-400 topic 1 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74306-exam-az-400-topic-1-question-30-discussion/",
+            "number": 74306,
+            "question": "Exam AZ-400 topic 1 question 30 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57280-exam-az-400-topic-1-question-31-discussion/",
+            "number": 57280,
+            "question": "Exam AZ-400 topic 1 question 31 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16656-exam-az-400-topic-1-question-4-discussion/",
+            "number": 16656,
+            "question": "Exam AZ-400 topic 1 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75619-exam-az-400-topic-1-question-4-discussion/",
+            "number": 75619,
+            "question": "Exam AZ-400 topic 1 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74077-exam-az-400-topic-1-question-5-discussion/",
+            "number": 74077,
+            "question": "Exam AZ-400 topic 1 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20513-exam-az-400-topic-1-question-5-discussion/",
+            "number": 20513,
+            "question": "Exam AZ-400 topic 1 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74363-exam-az-400-topic-1-question-6-discussion/",
+            "number": 74363,
+            "question": "Exam AZ-400 topic 1 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57052-exam-az-400-topic-1-question-7-discussion/",
+            "number": 57052,
+            "question": "Exam AZ-400 topic 1 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75243-exam-az-400-topic-1-question-8-discussion/",
+            "number": 75243,
+            "question": "Exam AZ-400 topic 1 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57746-exam-az-400-topic-1-question-9-discussion/",
+            "number": 57746,
+            "question": "Exam AZ-400 topic 1 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75207-exam-az-400-topic-10-question-1-discussion/",
+            "number": 75207,
+            "question": "Exam AZ-400 topic 10 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78893-exam-az-400-topic-10-question-2-discussion/",
+            "number": 78893,
+            "question": "Exam AZ-400 topic 10 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50359-exam-az-400-topic-10-question-2-discussion/",
+            "number": 50359,
+            "question": "Exam AZ-400 topic 10 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78895-exam-az-400-topic-10-question-3-discussion/",
+            "number": 78895,
+            "question": "Exam AZ-400 topic 10 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73877-exam-az-400-topic-10-question-3-discussion/",
+            "number": 73877,
+            "question": "Exam AZ-400 topic 10 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/25342-exam-az-400-topic-10-question-3-discussion/",
+            "number": 25342,
+            "question": "Exam AZ-400 topic 10 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20737-exam-az-400-topic-11-question-1-discussion/",
+            "number": 20737,
+            "question": "Exam AZ-400 topic 11 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/29604-exam-az-400-topic-11-question-1-discussion/",
+            "number": 29604,
+            "question": "Exam AZ-400 topic 11 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16721-exam-az-400-topic-11-question-2-discussion/",
+            "number": 16721,
+            "question": "Exam AZ-400 topic 11 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/27078-exam-az-400-topic-11-question-3-discussion/",
+            "number": 27078,
+            "question": "Exam AZ-400 topic 11 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17103-exam-az-400-topic-11-question-4-discussion/",
+            "number": 17103,
+            "question": "Exam AZ-400 topic 11 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/31748-exam-az-400-topic-12-question-1-discussion/",
+            "number": 31748,
+            "question": "Exam AZ-400 topic 12 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57760-exam-az-400-topic-12-question-2-discussion/",
+            "number": 57760,
+            "question": "Exam AZ-400 topic 12 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58477-exam-az-400-topic-12-question-3-discussion/",
+            "number": 58477,
+            "question": "Exam AZ-400 topic 12 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/59349-exam-az-400-topic-13-question-1-discussion/",
+            "number": 59349,
+            "question": "Exam AZ-400 topic 13 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17094-exam-az-400-topic-13-question-2-discussion/",
+            "number": 17094,
+            "question": "Exam AZ-400 topic 13 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17259-exam-az-400-topic-13-question-3-discussion/",
+            "number": 17259,
+            "question": "Exam AZ-400 topic 13 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74016-exam-az-400-topic-14-question-1-discussion/",
+            "number": 74016,
+            "question": "Exam AZ-400 topic 14 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/21846-exam-az-400-topic-14-question-1-discussion/",
+            "number": 21846,
+            "question": "Exam AZ-400 topic 14 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/21226-exam-az-400-topic-14-question-1-discussion/",
+            "number": 21226,
+            "question": "Exam AZ-400 topic 14 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10252-exam-az-400-topic-14-question-10-discussion/",
+            "number": 10252,
+            "question": "Exam AZ-400 topic 14 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23763-exam-az-400-topic-14-question-11-discussion/",
+            "number": 23763,
+            "question": "Exam AZ-400 topic 14 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10255-exam-az-400-topic-14-question-12-discussion/",
+            "number": 10255,
+            "question": "Exam AZ-400 topic 14 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24962-exam-az-400-topic-14-question-13-discussion/",
+            "number": 24962,
+            "question": "Exam AZ-400 topic 14 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24963-exam-az-400-topic-14-question-14-discussion/",
+            "number": 24963,
+            "question": "Exam AZ-400 topic 14 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20077-exam-az-400-topic-14-question-15-discussion/",
+            "number": 20077,
+            "question": "Exam AZ-400 topic 14 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20078-exam-az-400-topic-14-question-16-discussion/",
+            "number": 20078,
+            "question": "Exam AZ-400 topic 14 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/31034-exam-az-400-topic-14-question-17-discussion/",
+            "number": 31034,
+            "question": "Exam AZ-400 topic 14 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20080-exam-az-400-topic-14-question-18-discussion/",
+            "number": 20080,
+            "question": "Exam AZ-400 topic 14 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20079-exam-az-400-topic-14-question-19-discussion/",
+            "number": 20079,
+            "question": "Exam AZ-400 topic 14 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74609-exam-az-400-topic-14-question-2-discussion/",
+            "number": 74609,
+            "question": "Exam AZ-400 topic 14 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/19620-exam-az-400-topic-14-question-2-discussion/",
+            "number": 19620,
+            "question": "Exam AZ-400 topic 14 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20081-exam-az-400-topic-14-question-20-discussion/",
+            "number": 20081,
+            "question": "Exam AZ-400 topic 14 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23760-exam-az-400-topic-14-question-21-discussion/",
+            "number": 23760,
+            "question": "Exam AZ-400 topic 14 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20082-exam-az-400-topic-14-question-23-discussion/",
+            "number": 20082,
+            "question": "Exam AZ-400 topic 14 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24964-exam-az-400-topic-14-question-24-discussion/",
+            "number": 24964,
+            "question": "Exam AZ-400 topic 14 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24019-exam-az-400-topic-14-question-25-discussion/",
+            "number": 24019,
+            "question": "Exam AZ-400 topic 14 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20083-exam-az-400-topic-14-question-26-discussion/",
+            "number": 20083,
+            "question": "Exam AZ-400 topic 14 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/29760-exam-az-400-topic-14-question-27-discussion/",
+            "number": 29760,
+            "question": "Exam AZ-400 topic 14 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20084-exam-az-400-topic-14-question-28-discussion/",
+            "number": 20084,
+            "question": "Exam AZ-400 topic 14 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20085-exam-az-400-topic-14-question-29-discussion/",
+            "number": 20085,
+            "question": "Exam AZ-400 topic 14 question 29 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74533-exam-az-400-topic-14-question-3-discussion/",
+            "number": 74533,
+            "question": "Exam AZ-400 topic 14 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20346-exam-az-400-topic-14-question-3-discussion/",
+            "number": 20346,
+            "question": "Exam AZ-400 topic 14 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20086-exam-az-400-topic-14-question-30-discussion/",
+            "number": 20086,
+            "question": "Exam AZ-400 topic 14 question 30 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20087-exam-az-400-topic-14-question-31-discussion/",
+            "number": 20087,
+            "question": "Exam AZ-400 topic 14 question 31 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/25001-exam-az-400-topic-14-question-32-discussion/",
+            "number": 25001,
+            "question": "Exam AZ-400 topic 14 question 32 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24965-exam-az-400-topic-14-question-33-discussion/",
+            "number": 24965,
+            "question": "Exam AZ-400 topic 14 question 33 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24966-exam-az-400-topic-14-question-37-discussion/",
+            "number": 24966,
+            "question": "Exam AZ-400 topic 14 question 37 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/22449-exam-az-400-topic-14-question-4-discussion/",
+            "number": 22449,
+            "question": "Exam AZ-400 topic 14 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24967-exam-az-400-topic-14-question-40-discussion/",
+            "number": 24967,
+            "question": "Exam AZ-400 topic 14 question 40 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10419-exam-az-400-topic-14-question-41-discussion/",
+            "number": 10419,
+            "question": "Exam AZ-400 topic 14 question 41 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/11660-exam-az-400-topic-14-question-42-discussion/",
+            "number": 11660,
+            "question": "Exam AZ-400 topic 14 question 42 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/14010-exam-az-400-topic-14-question-45-discussion/",
+            "number": 14010,
+            "question": "Exam AZ-400 topic 14 question 45 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24969-exam-az-400-topic-14-question-46-discussion/",
+            "number": 24969,
+            "question": "Exam AZ-400 topic 14 question 46 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/6755-exam-az-400-topic-14-question-47-discussion/",
+            "number": 6755,
+            "question": "Exam AZ-400 topic 14 question 47 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20345-exam-az-400-topic-14-question-5-discussion/",
+            "number": 20345,
+            "question": "Exam AZ-400 topic 14 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34143-exam-az-400-topic-14-question-53-discussion/",
+            "number": 34143,
+            "question": "Exam AZ-400 topic 14 question 53 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39046-exam-az-400-topic-14-question-54-discussion/",
+            "number": 39046,
+            "question": "Exam AZ-400 topic 14 question 54 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39047-exam-az-400-topic-14-question-55-discussion/",
+            "number": 39047,
+            "question": "Exam AZ-400 topic 14 question 55 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30480-exam-az-400-topic-14-question-56-discussion/",
+            "number": 30480,
+            "question": "Exam AZ-400 topic 14 question 56 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10265-exam-az-400-topic-14-question-57-discussion/",
+            "number": 10265,
+            "question": "Exam AZ-400 topic 14 question 57 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39050-exam-az-400-topic-14-question-58-discussion/",
+            "number": 39050,
+            "question": "Exam AZ-400 topic 14 question 58 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30751-exam-az-400-topic-14-question-59-discussion/",
+            "number": 30751,
+            "question": "Exam AZ-400 topic 14 question 59 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10250-exam-az-400-topic-14-question-6-discussion/",
+            "number": 10250,
+            "question": "Exam AZ-400 topic 14 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37409-exam-az-400-topic-14-question-68-discussion/",
+            "number": 37409,
+            "question": "Exam AZ-400 topic 14 question 68 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20347-exam-az-400-topic-14-question-7-discussion/",
+            "number": 20347,
+            "question": "Exam AZ-400 topic 14 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23255-exam-az-400-topic-14-question-8-discussion/",
+            "number": 23255,
+            "question": "Exam AZ-400 topic 14 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35935-exam-az-400-topic-14-question-90-discussion/",
+            "number": 35935,
+            "question": "Exam AZ-400 topic 14 question 90 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37407-exam-az-400-topic-14-question-93-discussion/",
+            "number": 37407,
+            "question": "Exam AZ-400 topic 14 question 93 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35931-exam-az-400-topic-14-question-99-discussion/",
+            "number": 35931,
+            "question": "Exam AZ-400 topic 14 question 99 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74613-exam-az-400-topic-15-question-1-discussion/",
+            "number": 74613,
+            "question": "Exam AZ-400 topic 15 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78896-exam-az-400-topic-15-question-2-discussion/",
+            "number": 78896,
+            "question": "Exam AZ-400 topic 15 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74614-exam-az-400-topic-16-question-1-discussion/",
+            "number": 74614,
+            "question": "Exam AZ-400 topic 16 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57113-exam-az-400-topic-17-question-1-discussion/",
+            "number": 57113,
+            "question": "Exam AZ-400 topic 17 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57282-exam-az-400-topic-17-question-2-discussion/",
+            "number": 57282,
+            "question": "Exam AZ-400 topic 17 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57683-exam-az-400-topic-17-question-3-discussion/",
+            "number": 57683,
+            "question": "Exam AZ-400 topic 17 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/59101-exam-az-400-topic-17-question-4-discussion/",
+            "number": 59101,
+            "question": "Exam AZ-400 topic 17 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58336-exam-az-400-topic-17-question-5-discussion/",
+            "number": 58336,
+            "question": "Exam AZ-400 topic 17 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/19762-exam-az-400-topic-18-question-1-discussion/",
+            "number": 19762,
+            "question": "Exam AZ-400 topic 18 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/22339-exam-az-400-topic-18-question-2-discussion/",
+            "number": 22339,
+            "question": "Exam AZ-400 topic 18 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10425-exam-az-400-topic-18-question-3-discussion/",
+            "number": 10425,
+            "question": "Exam AZ-400 topic 18 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30619-exam-az-400-topic-18-question-4-discussion/",
+            "number": 30619,
+            "question": "Exam AZ-400 topic 18 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17106-exam-az-400-topic-18-question-5-discussion/",
+            "number": 17106,
+            "question": "Exam AZ-400 topic 18 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20511-exam-az-400-topic-2-question-1-discussion/",
+            "number": 20511,
+            "question": "Exam AZ-400 topic 2 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55100-exam-az-400-topic-2-question-10-discussion/",
+            "number": 55100,
+            "question": "Exam AZ-400 topic 2 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/21600-exam-az-400-topic-2-question-10-discussion/",
+            "number": 21600,
+            "question": "Exam AZ-400 topic 2 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/18280-exam-az-400-topic-2-question-10-discussion/",
+            "number": 18280,
+            "question": "Exam AZ-400 topic 2 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26060-exam-az-400-topic-2-question-11-discussion/",
+            "number": 26060,
+            "question": "Exam AZ-400 topic 2 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17061-exam-az-400-topic-2-question-12-discussion/",
+            "number": 17061,
+            "question": "Exam AZ-400 topic 2 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16580-exam-az-400-topic-2-question-13-discussion/",
+            "number": 16580,
+            "question": "Exam AZ-400 topic 2 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17247-exam-az-400-topic-2-question-14-discussion/",
+            "number": 17247,
+            "question": "Exam AZ-400 topic 2 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75423-exam-az-400-topic-2-question-15-discussion/",
+            "number": 75423,
+            "question": "Exam AZ-400 topic 2 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/90217-exam-az-400-topic-2-question-16-discussion/",
+            "number": 90217,
+            "question": "Exam AZ-400 topic 2 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58097-exam-az-400-topic-2-question-16-discussion/",
+            "number": 58097,
+            "question": "Exam AZ-400 topic 2 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57999-exam-az-400-topic-2-question-17-discussion/",
+            "number": 57999,
+            "question": "Exam AZ-400 topic 2 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20799-exam-az-400-topic-2-question-17-discussion/",
+            "number": 20799,
+            "question": "Exam AZ-400 topic 2 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49525-exam-az-400-topic-2-question-18-discussion/",
+            "number": 49525,
+            "question": "Exam AZ-400 topic 2 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16663-exam-az-400-topic-2-question-18-discussion/",
+            "number": 16663,
+            "question": "Exam AZ-400 topic 2 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57162-exam-az-400-topic-2-question-19-discussion/",
+            "number": 57162,
+            "question": "Exam AZ-400 topic 2 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24173-exam-az-400-topic-2-question-19-discussion/",
+            "number": 24173,
+            "question": "Exam AZ-400 topic 2 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48764-exam-az-400-topic-2-question-2-discussion/",
+            "number": 48764,
+            "question": "Exam AZ-400 topic 2 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45570-exam-az-400-topic-2-question-20-discussion/",
+            "number": 45570,
+            "question": "Exam AZ-400 topic 2 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48922-exam-az-400-topic-2-question-21-discussion/",
+            "number": 48922,
+            "question": "Exam AZ-400 topic 2 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54343-exam-az-400-topic-2-question-22-discussion/",
+            "number": 54343,
+            "question": "Exam AZ-400 topic 2 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35955-exam-az-400-topic-2-question-23-discussion/",
+            "number": 35955,
+            "question": "Exam AZ-400 topic 2 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36353-exam-az-400-topic-2-question-24-discussion/",
+            "number": 36353,
+            "question": "Exam AZ-400 topic 2 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49130-exam-az-400-topic-2-question-25-discussion/",
+            "number": 49130,
+            "question": "Exam AZ-400 topic 2 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52925-exam-az-400-topic-2-question-26-discussion/",
+            "number": 52925,
+            "question": "Exam AZ-400 topic 2 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51081-exam-az-400-topic-2-question-27-discussion/",
+            "number": 51081,
+            "question": "Exam AZ-400 topic 2 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78608-exam-az-400-topic-2-question-28-discussion/",
+            "number": 78608,
+            "question": "Exam AZ-400 topic 2 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78607-exam-az-400-topic-2-question-29-discussion/",
+            "number": 78607,
+            "question": "Exam AZ-400 topic 2 question 29 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44296-exam-az-400-topic-2-question-3-discussion/",
+            "number": 44296,
+            "question": "Exam AZ-400 topic 2 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78910-exam-az-400-topic-2-question-30-discussion/",
+            "number": 78910,
+            "question": "Exam AZ-400 topic 2 question 30 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95731-exam-az-400-topic-2-question-31-discussion/",
+            "number": 95731,
+            "question": "Exam AZ-400 topic 2 question 31 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48776-exam-az-400-topic-2-question-31-discussion/",
+            "number": 48776,
+            "question": "Exam AZ-400 topic 2 question 31 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95732-exam-az-400-topic-2-question-32-discussion/",
+            "number": 95732,
+            "question": "Exam AZ-400 topic 2 question 32 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95734-exam-az-400-topic-2-question-33-discussion/",
+            "number": 95734,
+            "question": "Exam AZ-400 topic 2 question 33 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95738-exam-az-400-topic-2-question-34-discussion/",
+            "number": 95738,
+            "question": "Exam AZ-400 topic 2 question 34 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95739-exam-az-400-topic-2-question-35-discussion/",
+            "number": 95739,
+            "question": "Exam AZ-400 topic 2 question 35 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96334-exam-az-400-topic-2-question-36-discussion/",
+            "number": 96334,
+            "question": "Exam AZ-400 topic 2 question 36 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56295-exam-az-400-topic-2-question-4-discussion/",
+            "number": 56295,
+            "question": "Exam AZ-400 topic 2 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57614-exam-az-400-topic-2-question-4-discussion/",
+            "number": 57614,
+            "question": "Exam AZ-400 topic 2 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49699-exam-az-400-topic-2-question-5-discussion/",
+            "number": 49699,
+            "question": "Exam AZ-400 topic 2 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26659-exam-az-400-topic-2-question-6-discussion/",
+            "number": 26659,
+            "question": "Exam AZ-400 topic 2 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35799-exam-az-400-topic-2-question-6-discussion/",
+            "number": 35799,
+            "question": "Exam AZ-400 topic 2 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79976-exam-az-400-topic-2-question-7-discussion/",
+            "number": 79976,
+            "question": "Exam AZ-400 topic 2 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16665-exam-az-400-topic-2-question-7-discussion/",
+            "number": 16665,
+            "question": "Exam AZ-400 topic 2 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17767-exam-az-400-topic-2-question-7-discussion/",
+            "number": 17767,
+            "question": "Exam AZ-400 topic 2 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35611-exam-az-400-topic-2-question-8-discussion/",
+            "number": 35611,
+            "question": "Exam AZ-400 topic 2 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/18625-exam-az-400-topic-2-question-9-discussion/",
+            "number": 18625,
+            "question": "Exam AZ-400 topic 2 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74028-exam-az-400-topic-3-question-1-discussion/",
+            "number": 74028,
+            "question": "Exam AZ-400 topic 3 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44298-exam-az-400-topic-3-question-10-discussion/",
+            "number": 44298,
+            "question": "Exam AZ-400 topic 3 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20531-exam-az-400-topic-3-question-11-discussion/",
+            "number": 20531,
+            "question": "Exam AZ-400 topic 3 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/6751-exam-az-400-topic-3-question-11-discussion/",
+            "number": 6751,
+            "question": "Exam AZ-400 topic 3 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44154-exam-az-400-topic-3-question-12-discussion/",
+            "number": 44154,
+            "question": "Exam AZ-400 topic 3 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44703-exam-az-400-topic-3-question-13-discussion/",
+            "number": 44703,
+            "question": "Exam AZ-400 topic 3 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48663-exam-az-400-topic-3-question-14-discussion/",
+            "number": 48663,
+            "question": "Exam AZ-400 topic 3 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51100-exam-az-400-topic-3-question-15-discussion/",
+            "number": 51100,
+            "question": "Exam AZ-400 topic 3 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35525-exam-az-400-topic-3-question-16-discussion/",
+            "number": 35525,
+            "question": "Exam AZ-400 topic 3 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52677-exam-az-400-topic-3-question-17-discussion/",
+            "number": 52677,
+            "question": "Exam AZ-400 topic 3 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16421-exam-az-400-topic-3-question-17-discussion/",
+            "number": 16421,
+            "question": "Exam AZ-400 topic 3 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35778-exam-az-400-topic-3-question-18-discussion/",
+            "number": 35778,
+            "question": "Exam AZ-400 topic 3 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36309-exam-az-400-topic-3-question-19-discussion/",
+            "number": 36309,
+            "question": "Exam AZ-400 topic 3 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76638-exam-az-400-topic-3-question-2-discussion/",
+            "number": 76638,
+            "question": "Exam AZ-400 topic 3 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33255-exam-az-400-topic-3-question-20-discussion/",
+            "number": 33255,
+            "question": "Exam AZ-400 topic 3 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37488-exam-az-400-topic-3-question-21-discussion/",
+            "number": 37488,
+            "question": "Exam AZ-400 topic 3 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39067-exam-az-400-topic-3-question-22-discussion/",
+            "number": 39067,
+            "question": "Exam AZ-400 topic 3 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57918-exam-az-400-topic-3-question-23-discussion/",
+            "number": 57918,
+            "question": "Exam AZ-400 topic 3 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37404-exam-az-400-topic-3-question-24-discussion/",
+            "number": 37404,
+            "question": "Exam AZ-400 topic 3 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51392-exam-az-400-topic-3-question-25-discussion/",
+            "number": 51392,
+            "question": "Exam AZ-400 topic 3 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74033-exam-az-400-topic-3-question-26-discussion/",
+            "number": 74033,
+            "question": "Exam AZ-400 topic 3 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76884-exam-az-400-topic-3-question-27-discussion/",
+            "number": 76884,
+            "question": "Exam AZ-400 topic 3 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76270-exam-az-400-topic-3-question-28-discussion/",
+            "number": 76270,
+            "question": "Exam AZ-400 topic 3 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76020-exam-az-400-topic-3-question-29-discussion/",
+            "number": 76020,
+            "question": "Exam AZ-400 topic 3 question 29 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74090-exam-az-400-topic-3-question-3-discussion/",
+            "number": 74090,
+            "question": "Exam AZ-400 topic 3 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16974-exam-az-400-topic-3-question-3-discussion/",
+            "number": 16974,
+            "question": "Exam AZ-400 topic 3 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79282-exam-az-400-topic-3-question-30-discussion/",
+            "number": 79282,
+            "question": "Exam AZ-400 topic 3 question 30 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95771-exam-az-400-topic-3-question-32-discussion/",
+            "number": 95771,
+            "question": "Exam AZ-400 topic 3 question 32 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95773-exam-az-400-topic-3-question-34-discussion/",
+            "number": 95773,
+            "question": "Exam AZ-400 topic 3 question 34 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95777-exam-az-400-topic-3-question-35-discussion/",
+            "number": 95777,
+            "question": "Exam AZ-400 topic 3 question 35 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20516-exam-az-400-topic-3-question-4-discussion/",
+            "number": 20516,
+            "question": "Exam AZ-400 topic 3 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16017-exam-az-400-topic-3-question-4-discussion/",
+            "number": 16017,
+            "question": "Exam AZ-400 topic 3 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51759-exam-az-400-topic-3-question-40-discussion/",
+            "number": 51759,
+            "question": "Exam AZ-400 topic 3 question 40 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35448-exam-az-400-topic-3-question-41-discussion/",
+            "number": 35448,
+            "question": "Exam AZ-400 topic 3 question 41 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35529-exam-az-400-topic-3-question-43-discussion/",
+            "number": 35529,
+            "question": "Exam AZ-400 topic 3 question 43 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/22946-exam-az-400-topic-3-question-44-discussion/",
+            "number": 22946,
+            "question": "Exam AZ-400 topic 3 question 44 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51664-exam-az-400-topic-3-question-47-discussion/",
+            "number": 51664,
+            "question": "Exam AZ-400 topic 3 question 47 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36099-exam-az-400-topic-3-question-5-discussion/",
+            "number": 36099,
+            "question": "Exam AZ-400 topic 3 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35946-exam-az-400-topic-3-question-6-discussion/",
+            "number": 35946,
+            "question": "Exam AZ-400 topic 3 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49180-exam-az-400-topic-3-question-6-discussion/",
+            "number": 49180,
+            "question": "Exam AZ-400 topic 3 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50970-exam-az-400-topic-3-question-61-discussion/",
+            "number": 50970,
+            "question": "Exam AZ-400 topic 3 question 61 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/18644-exam-az-400-topic-3-question-7-discussion/",
+            "number": 18644,
+            "question": "Exam AZ-400 topic 3 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/6750-exam-az-400-topic-3-question-7-discussion/",
+            "number": 6750,
+            "question": "Exam AZ-400 topic 3 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36102-exam-az-400-topic-3-question-8-discussion/",
+            "number": 36102,
+            "question": "Exam AZ-400 topic 3 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36092-exam-az-400-topic-3-question-9-discussion/",
+            "number": 36092,
+            "question": "Exam AZ-400 topic 3 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74304-exam-az-400-topic-4-question-1-discussion/",
+            "number": 74304,
+            "question": "Exam AZ-400 topic 4 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56614-exam-az-400-topic-4-question-10-discussion/",
+            "number": 56614,
+            "question": "Exam AZ-400 topic 4 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16256-exam-az-400-topic-4-question-11-discussion/",
+            "number": 16256,
+            "question": "Exam AZ-400 topic 4 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58112-exam-az-400-topic-4-question-11-discussion/",
+            "number": 58112,
+            "question": "Exam AZ-400 topic 4 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20613-exam-az-400-topic-4-question-12-discussion/",
+            "number": 20613,
+            "question": "Exam AZ-400 topic 4 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24850-exam-az-400-topic-4-question-13-discussion/",
+            "number": 24850,
+            "question": "Exam AZ-400 topic 4 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55151-exam-az-400-topic-4-question-14-discussion/",
+            "number": 55151,
+            "question": "Exam AZ-400 topic 4 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/85472-exam-az-400-topic-4-question-15-discussion/",
+            "number": 85472,
+            "question": "Exam AZ-400 topic 4 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55153-exam-az-400-topic-4-question-15-discussion/",
+            "number": 55153,
+            "question": "Exam AZ-400 topic 4 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49038-exam-az-400-topic-4-question-16-discussion/",
+            "number": 49038,
+            "question": "Exam AZ-400 topic 4 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56617-exam-az-400-topic-4-question-17-discussion/",
+            "number": 56617,
+            "question": "Exam AZ-400 topic 4 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35808-exam-az-400-topic-4-question-18-discussion/",
+            "number": 35808,
+            "question": "Exam AZ-400 topic 4 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20530-exam-az-400-topic-4-question-19-discussion/",
+            "number": 20530,
+            "question": "Exam AZ-400 topic 4 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74034-exam-az-400-topic-4-question-2-discussion/",
+            "number": 74034,
+            "question": "Exam AZ-400 topic 4 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/19522-exam-az-400-topic-4-question-2-discussion/",
+            "number": 19522,
+            "question": "Exam AZ-400 topic 4 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35918-exam-az-400-topic-4-question-20-discussion/",
+            "number": 35918,
+            "question": "Exam AZ-400 topic 4 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20532-exam-az-400-topic-4-question-21-discussion/",
+            "number": 20532,
+            "question": "Exam AZ-400 topic 4 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48661-exam-az-400-topic-4-question-22-discussion/",
+            "number": 48661,
+            "question": "Exam AZ-400 topic 4 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20533-exam-az-400-topic-4-question-23-discussion/",
+            "number": 20533,
+            "question": "Exam AZ-400 topic 4 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49151-exam-az-400-topic-4-question-24-discussion/",
+            "number": 49151,
+            "question": "Exam AZ-400 topic 4 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49152-exam-az-400-topic-4-question-25-discussion/",
+            "number": 49152,
+            "question": "Exam AZ-400 topic 4 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49153-exam-az-400-topic-4-question-26-discussion/",
+            "number": 49153,
+            "question": "Exam AZ-400 topic 4 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/31774-exam-az-400-topic-4-question-27-discussion/",
+            "number": 31774,
+            "question": "Exam AZ-400 topic 4 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49194-exam-az-400-topic-4-question-27-discussion/",
+            "number": 49194,
+            "question": "Exam AZ-400 topic 4 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30817-exam-az-400-topic-4-question-28-discussion/",
+            "number": 30817,
+            "question": "Exam AZ-400 topic 4 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49214-exam-az-400-topic-4-question-29-discussion/",
+            "number": 49214,
+            "question": "Exam AZ-400 topic 4 question 29 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35920-exam-az-400-topic-4-question-3-discussion/",
+            "number": 35920,
+            "question": "Exam AZ-400 topic 4 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10262-exam-az-400-topic-4-question-3-discussion/",
+            "number": 10262,
+            "question": "Exam AZ-400 topic 4 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50914-exam-az-400-topic-4-question-30-discussion/",
+            "number": 50914,
+            "question": "Exam AZ-400 topic 4 question 30 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50916-exam-az-400-topic-4-question-31-discussion/",
+            "number": 50916,
+            "question": "Exam AZ-400 topic 4 question 31 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48958-exam-az-400-topic-4-question-32-discussion/",
+            "number": 48958,
+            "question": "Exam AZ-400 topic 4 question 32 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17037-exam-az-400-topic-4-question-33-discussion/",
+            "number": 17037,
+            "question": "Exam AZ-400 topic 4 question 33 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36610-exam-az-400-topic-4-question-34-discussion/",
+            "number": 36610,
+            "question": "Exam AZ-400 topic 4 question 34 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44153-exam-az-400-topic-4-question-35-discussion/",
+            "number": 44153,
+            "question": "Exam AZ-400 topic 4 question 35 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16111-exam-az-400-topic-4-question-36-discussion/",
+            "number": 16111,
+            "question": "Exam AZ-400 topic 4 question 36 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74553-exam-az-400-topic-4-question-37-discussion/",
+            "number": 74553,
+            "question": "Exam AZ-400 topic 4 question 37 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36228-exam-az-400-topic-4-question-38-discussion/",
+            "number": 36228,
+            "question": "Exam AZ-400 topic 4 question 38 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51044-exam-az-400-topic-4-question-39-discussion/",
+            "number": 51044,
+            "question": "Exam AZ-400 topic 4 question 39 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35919-exam-az-400-topic-4-question-4-discussion/",
+            "number": 35919,
+            "question": "Exam AZ-400 topic 4 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/19712-exam-az-400-topic-4-question-4-discussion/",
+            "number": 19712,
+            "question": "Exam AZ-400 topic 4 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49719-exam-az-400-topic-4-question-40-discussion/",
+            "number": 49719,
+            "question": "Exam AZ-400 topic 4 question 40 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75280-exam-az-400-topic-4-question-41-discussion/",
+            "number": 75280,
+            "question": "Exam AZ-400 topic 4 question 41 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/27390-exam-az-400-topic-4-question-42-discussion/",
+            "number": 27390,
+            "question": "Exam AZ-400 topic 4 question 42 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/29724-exam-az-400-topic-4-question-43-discussion/",
+            "number": 29724,
+            "question": "Exam AZ-400 topic 4 question 43 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75281-exam-az-400-topic-4-question-44-discussion/",
+            "number": 75281,
+            "question": "Exam AZ-400 topic 4 question 44 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17060-exam-az-400-topic-4-question-45-discussion/",
+            "number": 17060,
+            "question": "Exam AZ-400 topic 4 question 45 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28872-exam-az-400-topic-4-question-46-discussion/",
+            "number": 28872,
+            "question": "Exam AZ-400 topic 4 question 46 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16452-exam-az-400-topic-4-question-47-discussion/",
+            "number": 16452,
+            "question": "Exam AZ-400 topic 4 question 47 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56805-exam-az-400-topic-4-question-48-discussion/",
+            "number": 56805,
+            "question": "Exam AZ-400 topic 4 question 48 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57255-exam-az-400-topic-4-question-49-discussion/",
+            "number": 57255,
+            "question": "Exam AZ-400 topic 4 question 49 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44299-exam-az-400-topic-4-question-5-discussion/",
+            "number": 44299,
+            "question": "Exam AZ-400 topic 4 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48635-exam-az-400-topic-4-question-50-discussion/",
+            "number": 48635,
+            "question": "Exam AZ-400 topic 4 question 50 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33149-exam-az-400-topic-4-question-51-discussion/",
+            "number": 33149,
+            "question": "Exam AZ-400 topic 4 question 51 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35915-exam-az-400-topic-4-question-52-discussion/",
+            "number": 35915,
+            "question": "Exam AZ-400 topic 4 question 52 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35757-exam-az-400-topic-4-question-53-discussion/",
+            "number": 35757,
+            "question": "Exam AZ-400 topic 4 question 53 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79298-exam-az-400-topic-4-question-54-discussion/",
+            "number": 79298,
+            "question": "Exam AZ-400 topic 4 question 54 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79299-exam-az-400-topic-4-question-55-discussion/",
+            "number": 79299,
+            "question": "Exam AZ-400 topic 4 question 55 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78922-exam-az-400-topic-4-question-56-discussion/",
+            "number": 78922,
+            "question": "Exam AZ-400 topic 4 question 56 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79308-exam-az-400-topic-4-question-57-discussion/",
+            "number": 79308,
+            "question": "Exam AZ-400 topic 4 question 57 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95979-exam-az-400-topic-4-question-58-discussion/",
+            "number": 95979,
+            "question": "Exam AZ-400 topic 4 question 58 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/29727-exam-az-400-topic-4-question-6-discussion/",
+            "number": 29727,
+            "question": "Exam AZ-400 topic 4 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96170-exam-az-400-topic-4-question-60-discussion/",
+            "number": 96170,
+            "question": "Exam AZ-400 topic 4 question 60 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/9791-exam-az-400-topic-4-question-7-discussion/",
+            "number": 9791,
+            "question": "Exam AZ-400 topic 4 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/87016-exam-az-400-topic-4-question-8-discussion/",
+            "number": 87016,
+            "question": "Exam AZ-400 topic 4 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17591-exam-az-400-topic-4-question-8-discussion/",
+            "number": 17591,
+            "question": "Exam AZ-400 topic 4 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23056-exam-az-400-topic-4-question-9-discussion/",
+            "number": 23056,
+            "question": "Exam AZ-400 topic 4 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/31981-exam-az-400-topic-5-question-1-discussion/",
+            "number": 31981,
+            "question": "Exam AZ-400 topic 5 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17043-exam-az-400-topic-5-question-10-discussion/",
+            "number": 17043,
+            "question": "Exam AZ-400 topic 5 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20515-exam-az-400-topic-5-question-11-discussion/",
+            "number": 20515,
+            "question": "Exam AZ-400 topic 5 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20892-exam-az-400-topic-5-question-12-discussion/",
+            "number": 20892,
+            "question": "Exam AZ-400 topic 5 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74555-exam-az-400-topic-5-question-13-discussion/",
+            "number": 74555,
+            "question": "Exam AZ-400 topic 5 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73902-exam-az-400-topic-5-question-14-discussion/",
+            "number": 73902,
+            "question": "Exam AZ-400 topic 5 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20518-exam-az-400-topic-5-question-15-discussion/",
+            "number": 20518,
+            "question": "Exam AZ-400 topic 5 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50224-exam-az-400-topic-5-question-16-discussion/",
+            "number": 50224,
+            "question": "Exam AZ-400 topic 5 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35260-exam-az-400-topic-5-question-17-discussion/",
+            "number": 35260,
+            "question": "Exam AZ-400 topic 5 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39686-exam-az-400-topic-5-question-18-discussion/",
+            "number": 39686,
+            "question": "Exam AZ-400 topic 5 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35948-exam-az-400-topic-5-question-19-discussion/",
+            "number": 35948,
+            "question": "Exam AZ-400 topic 5 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50539-exam-az-400-topic-5-question-2-discussion/",
+            "number": 50539,
+            "question": "Exam AZ-400 topic 5 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10248-exam-az-400-topic-5-question-20-discussion/",
+            "number": 10248,
+            "question": "Exam AZ-400 topic 5 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78924-exam-az-400-topic-5-question-21-discussion/",
+            "number": 78924,
+            "question": "Exam AZ-400 topic 5 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95839-exam-az-400-topic-5-question-22-discussion/",
+            "number": 95839,
+            "question": "Exam AZ-400 topic 5 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95843-exam-az-400-topic-5-question-23-discussion/",
+            "number": 95843,
+            "question": "Exam AZ-400 topic 5 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96638-exam-az-400-topic-5-question-24-discussion/",
+            "number": 96638,
+            "question": "Exam AZ-400 topic 5 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96019-exam-az-400-topic-5-question-25-discussion/",
+            "number": 96019,
+            "question": "Exam AZ-400 topic 5 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95882-exam-az-400-topic-5-question-26-discussion/",
+            "number": 95882,
+            "question": "Exam AZ-400 topic 5 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95986-exam-az-400-topic-5-question-27-discussion/",
+            "number": 95986,
+            "question": "Exam AZ-400 topic 5 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96483-exam-az-400-topic-5-question-28-discussion/",
+            "number": 96483,
+            "question": "Exam AZ-400 topic 5 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96029-exam-az-400-topic-5-question-29-discussion/",
+            "number": 96029,
+            "question": "Exam AZ-400 topic 5 question 29 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23054-exam-az-400-topic-5-question-3-discussion/",
+            "number": 23054,
+            "question": "Exam AZ-400 topic 5 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95879-exam-az-400-topic-5-question-30-discussion/",
+            "number": 95879,
+            "question": "Exam AZ-400 topic 5 question 30 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95999-exam-az-400-topic-5-question-31-discussion/",
+            "number": 95999,
+            "question": "Exam AZ-400 topic 5 question 31 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95982-exam-az-400-topic-5-question-32-discussion/",
+            "number": 95982,
+            "question": "Exam AZ-400 topic 5 question 32 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58111-exam-az-400-topic-5-question-4-discussion/",
+            "number": 58111,
+            "question": "Exam AZ-400 topic 5 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52518-exam-az-400-topic-5-question-4-discussion/",
+            "number": 52518,
+            "question": "Exam AZ-400 topic 5 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80408-exam-az-400-topic-5-question-5-discussion/",
+            "number": 80408,
+            "question": "Exam AZ-400 topic 5 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75282-exam-az-400-topic-5-question-5-discussion/",
+            "number": 75282,
+            "question": "Exam AZ-400 topic 5 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76118-exam-az-400-topic-5-question-6-discussion/",
+            "number": 76118,
+            "question": "Exam AZ-400 topic 5 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35487-exam-az-400-topic-5-question-6-discussion/",
+            "number": 35487,
+            "question": "Exam AZ-400 topic 5 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16981-exam-az-400-topic-5-question-7-discussion/",
+            "number": 16981,
+            "question": "Exam AZ-400 topic 5 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58190-exam-az-400-topic-5-question-8-discussion/",
+            "number": 58190,
+            "question": "Exam AZ-400 topic 5 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23792-exam-az-400-topic-5-question-9-discussion/",
+            "number": 23792,
+            "question": "Exam AZ-400 topic 5 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78941-exam-az-400-topic-6-question-1-discussion/",
+            "number": 78941,
+            "question": "Exam AZ-400 topic 6 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/31555-exam-az-400-topic-6-question-10-discussion/",
+            "number": 31555,
+            "question": "Exam AZ-400 topic 6 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35766-exam-az-400-topic-6-question-11-discussion/",
+            "number": 35766,
+            "question": "Exam AZ-400 topic 6 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16114-exam-az-400-topic-6-question-12-discussion/",
+            "number": 16114,
+            "question": "Exam AZ-400 topic 6 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44471-exam-az-400-topic-6-question-12-discussion/",
+            "number": 44471,
+            "question": "Exam AZ-400 topic 6 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45695-exam-az-400-topic-6-question-13-discussion/",
+            "number": 45695,
+            "question": "Exam AZ-400 topic 6 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23322-exam-az-400-topic-6-question-13-discussion/",
+            "number": 23322,
+            "question": "Exam AZ-400 topic 6 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36493-exam-az-400-topic-6-question-14-discussion/",
+            "number": 36493,
+            "question": "Exam AZ-400 topic 6 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57155-exam-az-400-topic-6-question-16-discussion/",
+            "number": 57155,
+            "question": "Exam AZ-400 topic 6 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48859-exam-az-400-topic-6-question-17-discussion/",
+            "number": 48859,
+            "question": "Exam AZ-400 topic 6 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/9784-exam-az-400-topic-6-question-18-discussion/",
+            "number": 9784,
+            "question": "Exam AZ-400 topic 6 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73972-exam-az-400-topic-6-question-19-discussion/",
+            "number": 73972,
+            "question": "Exam AZ-400 topic 6 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35806-exam-az-400-topic-6-question-2-discussion/",
+            "number": 35806,
+            "question": "Exam AZ-400 topic 6 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30575-exam-az-400-topic-6-question-2-discussion/",
+            "number": 30575,
+            "question": "Exam AZ-400 topic 6 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73973-exam-az-400-topic-6-question-20-discussion/",
+            "number": 73973,
+            "question": "Exam AZ-400 topic 6 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10249-exam-az-400-topic-6-question-21-discussion/",
+            "number": 10249,
+            "question": "Exam AZ-400 topic 6 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49166-exam-az-400-topic-6-question-21-discussion/",
+            "number": 49166,
+            "question": "Exam AZ-400 topic 6 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78675-exam-az-400-topic-6-question-22-discussion/",
+            "number": 78675,
+            "question": "Exam AZ-400 topic 6 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95966-exam-az-400-topic-6-question-23-discussion/",
+            "number": 95966,
+            "question": "Exam AZ-400 topic 6 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95953-exam-az-400-topic-6-question-24-discussion/",
+            "number": 95953,
+            "question": "Exam AZ-400 topic 6 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95835-exam-az-400-topic-6-question-25-discussion/",
+            "number": 95835,
+            "question": "Exam AZ-400 topic 6 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95970-exam-az-400-topic-6-question-26-discussion/",
+            "number": 95970,
+            "question": "Exam AZ-400 topic 6 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36343-exam-az-400-topic-6-question-26-discussion/",
+            "number": 36343,
+            "question": "Exam AZ-400 topic 6 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96173-exam-az-400-topic-6-question-27-discussion/",
+            "number": 96173,
+            "question": "Exam AZ-400 topic 6 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95836-exam-az-400-topic-6-question-28-discussion/",
+            "number": 95836,
+            "question": "Exam AZ-400 topic 6 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35745-exam-az-400-topic-6-question-3-discussion/",
+            "number": 35745,
+            "question": "Exam AZ-400 topic 6 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48639-exam-az-400-topic-6-question-4-discussion/",
+            "number": 48639,
+            "question": "Exam AZ-400 topic 6 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17123-exam-az-400-topic-6-question-4-discussion/",
+            "number": 17123,
+            "question": "Exam AZ-400 topic 6 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54574-exam-az-400-topic-6-question-4-discussion/",
+            "number": 54574,
+            "question": "Exam AZ-400 topic 6 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48642-exam-az-400-topic-6-question-5-discussion/",
+            "number": 48642,
+            "question": "Exam AZ-400 topic 6 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75184-exam-az-400-topic-6-question-6-discussion/",
+            "number": 75184,
+            "question": "Exam AZ-400 topic 6 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24172-exam-az-400-topic-6-question-8-discussion/",
+            "number": 24172,
+            "question": "Exam AZ-400 topic 6 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36373-exam-az-400-topic-6-question-9-discussion/",
+            "number": 36373,
+            "question": "Exam AZ-400 topic 6 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79681-exam-az-400-topic-7-question-1-discussion/",
+            "number": 79681,
+            "question": "Exam AZ-400 topic 7 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49137-exam-az-400-topic-7-question-1-discussion/",
+            "number": 49137,
+            "question": "Exam AZ-400 topic 7 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/18900-exam-az-400-topic-7-question-10-discussion/",
+            "number": 18900,
+            "question": "Exam AZ-400 topic 7 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17874-exam-az-400-topic-7-question-10-discussion/",
+            "number": 17874,
+            "question": "Exam AZ-400 topic 7 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20529-exam-az-400-topic-7-question-11-discussion/",
+            "number": 20529,
+            "question": "Exam AZ-400 topic 7 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48644-exam-az-400-topic-7-question-12-discussion/",
+            "number": 48644,
+            "question": "Exam AZ-400 topic 7 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48645-exam-az-400-topic-7-question-13-discussion/",
+            "number": 48645,
+            "question": "Exam AZ-400 topic 7 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48646-exam-az-400-topic-7-question-14-discussion/",
+            "number": 48646,
+            "question": "Exam AZ-400 topic 7 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48779-exam-az-400-topic-7-question-15-discussion/",
+            "number": 48779,
+            "question": "Exam AZ-400 topic 7 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48778-exam-az-400-topic-7-question-16-discussion/",
+            "number": 48778,
+            "question": "Exam AZ-400 topic 7 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10251-exam-az-400-topic-7-question-17-discussion/",
+            "number": 10251,
+            "question": "Exam AZ-400 topic 7 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44297-exam-az-400-topic-7-question-18-discussion/",
+            "number": 44297,
+            "question": "Exam AZ-400 topic 7 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49157-exam-az-400-topic-7-question-19-discussion/",
+            "number": 49157,
+            "question": "Exam AZ-400 topic 7 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74716-exam-az-400-topic-7-question-2-discussion/",
+            "number": 74716,
+            "question": "Exam AZ-400 topic 7 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74516-exam-az-400-topic-7-question-2-discussion/",
+            "number": 74516,
+            "question": "Exam AZ-400 topic 7 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36244-exam-az-400-topic-7-question-20-discussion/",
+            "number": 36244,
+            "question": "Exam AZ-400 topic 7 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/22452-exam-az-400-topic-7-question-21-discussion/",
+            "number": 22452,
+            "question": "Exam AZ-400 topic 7 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44294-exam-az-400-topic-7-question-22-discussion/",
+            "number": 44294,
+            "question": "Exam AZ-400 topic 7 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50325-exam-az-400-topic-7-question-23-discussion/",
+            "number": 50325,
+            "question": "Exam AZ-400 topic 7 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35261-exam-az-400-topic-7-question-23-discussion/",
+            "number": 35261,
+            "question": "Exam AZ-400 topic 7 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49165-exam-az-400-topic-7-question-24-discussion/",
+            "number": 49165,
+            "question": "Exam AZ-400 topic 7 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74325-exam-az-400-topic-7-question-25-discussion/",
+            "number": 74325,
+            "question": "Exam AZ-400 topic 7 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49179-exam-az-400-topic-7-question-26-discussion/",
+            "number": 49179,
+            "question": "Exam AZ-400 topic 7 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56833-exam-az-400-topic-7-question-27-discussion/",
+            "number": 56833,
+            "question": "Exam AZ-400 topic 7 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30547-exam-az-400-topic-7-question-28-discussion/",
+            "number": 30547,
+            "question": "Exam AZ-400 topic 7 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30548-exam-az-400-topic-7-question-29-discussion/",
+            "number": 30548,
+            "question": "Exam AZ-400 topic 7 question 29 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75095-exam-az-400-topic-7-question-3-discussion/",
+            "number": 75095,
+            "question": "Exam AZ-400 topic 7 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30549-exam-az-400-topic-7-question-30-discussion/",
+            "number": 30549,
+            "question": "Exam AZ-400 topic 7 question 30 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30550-exam-az-400-topic-7-question-31-discussion/",
+            "number": 30550,
+            "question": "Exam AZ-400 topic 7 question 31 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24978-exam-az-400-topic-7-question-32-discussion/",
+            "number": 24978,
+            "question": "Exam AZ-400 topic 7 question 32 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/9785-exam-az-400-topic-7-question-33-discussion/",
+            "number": 9785,
+            "question": "Exam AZ-400 topic 7 question 33 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51184-exam-az-400-topic-7-question-34-discussion/",
+            "number": 51184,
+            "question": "Exam AZ-400 topic 7 question 34 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51150-exam-az-400-topic-7-question-35-discussion/",
+            "number": 51150,
+            "question": "Exam AZ-400 topic 7 question 35 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20364-exam-az-400-topic-7-question-36-discussion/",
+            "number": 20364,
+            "question": "Exam AZ-400 topic 7 question 36 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/22957-exam-az-400-topic-7-question-37-discussion/",
+            "number": 22957,
+            "question": "Exam AZ-400 topic 7 question 37 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17732-exam-az-400-topic-7-question-38-discussion/",
+            "number": 17732,
+            "question": "Exam AZ-400 topic 7 question 38 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35769-exam-az-400-topic-7-question-39-discussion/",
+            "number": 35769,
+            "question": "Exam AZ-400 topic 7 question 39 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74624-exam-az-400-topic-7-question-4-discussion/",
+            "number": 74624,
+            "question": "Exam AZ-400 topic 7 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/25631-exam-az-400-topic-7-question-4-discussion/",
+            "number": 25631,
+            "question": "Exam AZ-400 topic 7 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36127-exam-az-400-topic-7-question-40-discussion/",
+            "number": 36127,
+            "question": "Exam AZ-400 topic 7 question 40 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36084-exam-az-400-topic-7-question-42-discussion/",
+            "number": 36084,
+            "question": "Exam AZ-400 topic 7 question 42 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35824-exam-az-400-topic-7-question-43-discussion/",
+            "number": 35824,
+            "question": "Exam AZ-400 topic 7 question 43 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78735-exam-az-400-topic-7-question-43-discussion/",
+            "number": 78735,
+            "question": "Exam AZ-400 topic 7 question 43 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51082-exam-az-400-topic-7-question-44-discussion/",
+            "number": 51082,
+            "question": "Exam AZ-400 topic 7 question 44 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20898-exam-az-400-topic-7-question-45-discussion/",
+            "number": 20898,
+            "question": "Exam AZ-400 topic 7 question 45 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35455-exam-az-400-topic-7-question-46-discussion/",
+            "number": 35455,
+            "question": "Exam AZ-400 topic 7 question 46 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17857-exam-az-400-topic-7-question-47-discussion/",
+            "number": 17857,
+            "question": "Exam AZ-400 topic 7 question 47 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50979-exam-az-400-topic-7-question-48-discussion/",
+            "number": 50979,
+            "question": "Exam AZ-400 topic 7 question 48 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35805-exam-az-400-topic-7-question-5-discussion/",
+            "number": 35805,
+            "question": "Exam AZ-400 topic 7 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36087-exam-az-400-topic-7-question-50-discussion/",
+            "number": 36087,
+            "question": "Exam AZ-400 topic 7 question 50 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35990-exam-az-400-topic-7-question-51-discussion/",
+            "number": 35990,
+            "question": "Exam AZ-400 topic 7 question 51 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48923-exam-az-400-topic-7-question-52-discussion/",
+            "number": 48923,
+            "question": "Exam AZ-400 topic 7 question 52 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/15958-exam-az-400-topic-7-question-53-discussion/",
+            "number": 15958,
+            "question": "Exam AZ-400 topic 7 question 53 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/7497-exam-az-400-topic-7-question-54-discussion/",
+            "number": 7497,
+            "question": "Exam AZ-400 topic 7 question 54 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16096-exam-az-400-topic-7-question-55-discussion/",
+            "number": 16096,
+            "question": "Exam AZ-400 topic 7 question 55 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24979-exam-az-400-topic-7-question-56-discussion/",
+            "number": 24979,
+            "question": "Exam AZ-400 topic 7 question 56 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16097-exam-az-400-topic-7-question-57-discussion/",
+            "number": 16097,
+            "question": "Exam AZ-400 topic 7 question 57 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48674-exam-az-400-topic-7-question-58-discussion/",
+            "number": 48674,
+            "question": "Exam AZ-400 topic 7 question 58 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16666-exam-az-400-topic-7-question-6-discussion/",
+            "number": 16666,
+            "question": "Exam AZ-400 topic 7 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96950-exam-az-400-topic-7-question-60-discussion/",
+            "number": 96950,
+            "question": "Exam AZ-400 topic 7 question 60 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16986-exam-az-400-topic-7-question-61-discussion/",
+            "number": 16986,
+            "question": "Exam AZ-400 topic 7 question 61 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17615-exam-az-400-topic-7-question-61-discussion/",
+            "number": 17615,
+            "question": "Exam AZ-400 topic 7 question 61 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30573-exam-az-400-topic-7-question-62-discussion/",
+            "number": 30573,
+            "question": "Exam AZ-400 topic 7 question 62 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48983-exam-az-400-topic-7-question-63-discussion/",
+            "number": 48983,
+            "question": "Exam AZ-400 topic 7 question 63 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54689-exam-az-400-topic-7-question-64-discussion/",
+            "number": 54689,
+            "question": "Exam AZ-400 topic 7 question 64 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52902-exam-az-400-topic-7-question-65-discussion/",
+            "number": 52902,
+            "question": "Exam AZ-400 topic 7 question 65 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17036-exam-az-400-topic-7-question-66-discussion/",
+            "number": 17036,
+            "question": "Exam AZ-400 topic 7 question 66 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20684-exam-az-400-topic-7-question-67-discussion/",
+            "number": 20684,
+            "question": "Exam AZ-400 topic 7 question 67 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23590-exam-az-400-topic-7-question-68-discussion/",
+            "number": 23590,
+            "question": "Exam AZ-400 topic 7 question 68 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23401-exam-az-400-topic-7-question-69-discussion/",
+            "number": 23401,
+            "question": "Exam AZ-400 topic 7 question 69 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17122-exam-az-400-topic-7-question-7-discussion/",
+            "number": 17122,
+            "question": "Exam AZ-400 topic 7 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23402-exam-az-400-topic-7-question-70-discussion/",
+            "number": 23402,
+            "question": "Exam AZ-400 topic 7 question 70 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35934-exam-az-400-topic-7-question-71-discussion/",
+            "number": 35934,
+            "question": "Exam AZ-400 topic 7 question 71 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49524-exam-az-400-topic-7-question-72-discussion/",
+            "number": 49524,
+            "question": "Exam AZ-400 topic 7 question 72 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/9787-exam-az-400-topic-7-question-73-discussion/",
+            "number": 9787,
+            "question": "Exam AZ-400 topic 7 question 73 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/9788-exam-az-400-topic-7-question-74-discussion/",
+            "number": 9788,
+            "question": "Exam AZ-400 topic 7 question 74 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53251-exam-az-400-topic-7-question-75-discussion/",
+            "number": 53251,
+            "question": "Exam AZ-400 topic 7 question 75 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/9789-exam-az-400-topic-7-question-76-discussion/",
+            "number": 9789,
+            "question": "Exam AZ-400 topic 7 question 76 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44295-exam-az-400-topic-7-question-77-discussion/",
+            "number": 44295,
+            "question": "Exam AZ-400 topic 7 question 77 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/21072-exam-az-400-topic-7-question-78-discussion/",
+            "number": 21072,
+            "question": "Exam AZ-400 topic 7 question 78 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20512-exam-az-400-topic-7-question-79-discussion/",
+            "number": 20512,
+            "question": "Exam AZ-400 topic 7 question 79 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73929-exam-az-400-topic-7-question-8-discussion/",
+            "number": 73929,
+            "question": "Exam AZ-400 topic 7 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57386-exam-az-400-topic-7-question-80-discussion/",
+            "number": 57386,
+            "question": "Exam AZ-400 topic 7 question 80 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78926-exam-az-400-topic-7-question-81-discussion/",
+            "number": 78926,
+            "question": "Exam AZ-400 topic 7 question 81 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78925-exam-az-400-topic-7-question-82-discussion/",
+            "number": 78925,
+            "question": "Exam AZ-400 topic 7 question 82 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78973-exam-az-400-topic-7-question-83-discussion/",
+            "number": 78973,
+            "question": "Exam AZ-400 topic 7 question 83 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74181-exam-az-400-topic-7-question-84-discussion/",
+            "number": 74181,
+            "question": "Exam AZ-400 topic 7 question 84 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78975-exam-az-400-topic-7-question-85-discussion/",
+            "number": 78975,
+            "question": "Exam AZ-400 topic 7 question 85 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79317-exam-az-400-topic-7-question-86-discussion/",
+            "number": 79317,
+            "question": "Exam AZ-400 topic 7 question 86 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95983-exam-az-400-topic-7-question-87-discussion/",
+            "number": 95983,
+            "question": "Exam AZ-400 topic 7 question 87 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96141-exam-az-400-topic-7-question-88-discussion/",
+            "number": 96141,
+            "question": "Exam AZ-400 topic 7 question 88 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96143-exam-az-400-topic-7-question-89-discussion/",
+            "number": 96143,
+            "question": "Exam AZ-400 topic 7 question 89 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20894-exam-az-400-topic-7-question-9-discussion/",
+            "number": 20894,
+            "question": "Exam AZ-400 topic 7 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48640-exam-az-400-topic-7-question-9-discussion/",
+            "number": 48640,
+            "question": "Exam AZ-400 topic 7 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96494-exam-az-400-topic-7-question-90-discussion/",
+            "number": 96494,
+            "question": "Exam AZ-400 topic 7 question 90 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49768-exam-az-400-topic-8-question-1-discussion/",
+            "number": 49768,
+            "question": "Exam AZ-400 topic 8 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58672-exam-az-400-topic-8-question-1-discussion/",
+            "number": 58672,
+            "question": "Exam AZ-400 topic 8 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48920-exam-az-400-topic-8-question-10-discussion/",
+            "number": 48920,
+            "question": "Exam AZ-400 topic 8 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35765-exam-az-400-topic-8-question-11-discussion/",
+            "number": 35765,
+            "question": "Exam AZ-400 topic 8 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58286-exam-az-400-topic-8-question-11-discussion/",
+            "number": 58286,
+            "question": "Exam AZ-400 topic 8 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49156-exam-az-400-topic-8-question-12-discussion/",
+            "number": 49156,
+            "question": "Exam AZ-400 topic 8 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57076-exam-az-400-topic-8-question-12-discussion/",
+            "number": 57076,
+            "question": "Exam AZ-400 topic 8 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/31239-exam-az-400-topic-8-question-13-discussion/",
+            "number": 31239,
+            "question": "Exam AZ-400 topic 8 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57077-exam-az-400-topic-8-question-13-discussion/",
+            "number": 57077,
+            "question": "Exam AZ-400 topic 8 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48936-exam-az-400-topic-8-question-14-discussion/",
+            "number": 48936,
+            "question": "Exam AZ-400 topic 8 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57107-exam-az-400-topic-8-question-14-discussion/",
+            "number": 57107,
+            "question": "Exam AZ-400 topic 8 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48949-exam-az-400-topic-8-question-15-discussion/",
+            "number": 48949,
+            "question": "Exam AZ-400 topic 8 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57090-exam-az-400-topic-8-question-15-discussion/",
+            "number": 57090,
+            "question": "Exam AZ-400 topic 8 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56339-exam-az-400-topic-8-question-16-discussion/",
+            "number": 56339,
+            "question": "Exam AZ-400 topic 8 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49051-exam-az-400-topic-8-question-16-discussion/",
+            "number": 49051,
+            "question": "Exam AZ-400 topic 8 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/88199-exam-az-400-topic-8-question-17-discussion/",
+            "number": 88199,
+            "question": "Exam AZ-400 topic 8 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73875-exam-az-400-topic-8-question-17-discussion/",
+            "number": 73875,
+            "question": "Exam AZ-400 topic 8 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24981-exam-az-400-topic-8-question-18-discussion/",
+            "number": 24981,
+            "question": "Exam AZ-400 topic 8 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64525-exam-az-400-topic-8-question-18-discussion/",
+            "number": 64525,
+            "question": "Exam AZ-400 topic 8 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57015-exam-az-400-topic-8-question-18-discussion/",
+            "number": 57015,
+            "question": "Exam AZ-400 topic 8 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58287-exam-az-400-topic-8-question-19-discussion/",
+            "number": 58287,
+            "question": "Exam AZ-400 topic 8 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17871-exam-az-400-topic-8-question-19-discussion/",
+            "number": 17871,
+            "question": "Exam AZ-400 topic 8 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37479-exam-az-400-topic-8-question-2-discussion/",
+            "number": 37479,
+            "question": "Exam AZ-400 topic 8 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57074-exam-az-400-topic-8-question-2-discussion/",
+            "number": 57074,
+            "question": "Exam AZ-400 topic 8 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/16425-exam-az-400-topic-8-question-20-discussion/",
+            "number": 16425,
+            "question": "Exam AZ-400 topic 8 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57094-exam-az-400-topic-8-question-20-discussion/",
+            "number": 57094,
+            "question": "Exam AZ-400 topic 8 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58288-exam-az-400-topic-8-question-21-discussion/",
+            "number": 58288,
+            "question": "Exam AZ-400 topic 8 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57696-exam-az-400-topic-8-question-21-discussion/",
+            "number": 57696,
+            "question": "Exam AZ-400 topic 8 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74988-exam-az-400-topic-8-question-22-discussion/",
+            "number": 74988,
+            "question": "Exam AZ-400 topic 8 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57039-exam-az-400-topic-8-question-22-discussion/",
+            "number": 57039,
+            "question": "Exam AZ-400 topic 8 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94812-exam-az-400-topic-8-question-23-discussion/",
+            "number": 94812,
+            "question": "Exam AZ-400 topic 8 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52162-exam-az-400-topic-8-question-24-discussion/",
+            "number": 52162,
+            "question": "Exam AZ-400 topic 8 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/59732-exam-az-400-topic-8-question-24-discussion/",
+            "number": 59732,
+            "question": "Exam AZ-400 topic 8 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58290-exam-az-400-topic-8-question-24-discussion/",
+            "number": 58290,
+            "question": "Exam AZ-400 topic 8 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48908-exam-az-400-topic-8-question-25-discussion/",
+            "number": 48908,
+            "question": "Exam AZ-400 topic 8 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58291-exam-az-400-topic-8-question-25-discussion/",
+            "number": 58291,
+            "question": "Exam AZ-400 topic 8 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50322-exam-az-400-topic-8-question-26-discussion/",
+            "number": 50322,
+            "question": "Exam AZ-400 topic 8 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58292-exam-az-400-topic-8-question-26-discussion/",
+            "number": 58292,
+            "question": "Exam AZ-400 topic 8 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49107-exam-az-400-topic-8-question-27-discussion/",
+            "number": 49107,
+            "question": "Exam AZ-400 topic 8 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57084-exam-az-400-topic-8-question-27-discussion/",
+            "number": 57084,
+            "question": "Exam AZ-400 topic 8 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10261-exam-az-400-topic-8-question-28-discussion/",
+            "number": 10261,
+            "question": "Exam AZ-400 topic 8 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57977-exam-az-400-topic-8-question-28-discussion/",
+            "number": 57977,
+            "question": "Exam AZ-400 topic 8 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/6822-exam-az-400-topic-8-question-29-discussion/",
+            "number": 6822,
+            "question": "Exam AZ-400 topic 8 question 29 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60305-exam-az-400-topic-8-question-29-discussion/",
+            "number": 60305,
+            "question": "Exam AZ-400 topic 8 question 29 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94802-exam-az-400-topic-8-question-3-discussion/",
+            "number": 94802,
+            "question": "Exam AZ-400 topic 8 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17035-exam-az-400-topic-8-question-30-discussion/",
+            "number": 17035,
+            "question": "Exam AZ-400 topic 8 question 30 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57584-exam-az-400-topic-8-question-30-discussion/",
+            "number": 57584,
+            "question": "Exam AZ-400 topic 8 question 30 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17038-exam-az-400-topic-8-question-31-discussion/",
+            "number": 17038,
+            "question": "Exam AZ-400 topic 8 question 31 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35523-exam-az-400-topic-8-question-32-discussion/",
+            "number": 35523,
+            "question": "Exam AZ-400 topic 8 question 32 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48821-exam-az-400-topic-8-question-33-discussion/",
+            "number": 48821,
+            "question": "Exam AZ-400 topic 8 question 33 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48973-exam-az-400-topic-8-question-34-discussion/",
+            "number": 48973,
+            "question": "Exam AZ-400 topic 8 question 34 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57099-exam-az-400-topic-8-question-34-discussion/",
+            "number": 57099,
+            "question": "Exam AZ-400 topic 8 question 34 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94816-exam-az-400-topic-8-question-35-discussion/",
+            "number": 94816,
+            "question": "Exam AZ-400 topic 8 question 35 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20475-exam-az-400-topic-8-question-36-discussion/",
+            "number": 20475,
+            "question": "Exam AZ-400 topic 8 question 36 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35622-exam-az-400-topic-8-question-36-discussion/",
+            "number": 35622,
+            "question": "Exam AZ-400 topic 8 question 36 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58934-exam-az-400-topic-8-question-36-discussion/",
+            "number": 58934,
+            "question": "Exam AZ-400 topic 8 question 36 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62557-exam-az-400-topic-8-question-37-discussion/",
+            "number": 62557,
+            "question": "Exam AZ-400 topic 8 question 37 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20313-exam-az-400-topic-8-question-37-discussion/",
+            "number": 20313,
+            "question": "Exam AZ-400 topic 8 question 37 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/11446-exam-az-400-topic-8-question-38-discussion/",
+            "number": 11446,
+            "question": "Exam AZ-400 topic 8 question 38 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58935-exam-az-400-topic-8-question-38-discussion/",
+            "number": 58935,
+            "question": "Exam AZ-400 topic 8 question 38 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37406-exam-az-400-topic-8-question-39-discussion/",
+            "number": 37406,
+            "question": "Exam AZ-400 topic 8 question 39 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57406-exam-az-400-topic-8-question-39-discussion/",
+            "number": 57406,
+            "question": "Exam AZ-400 topic 8 question 39 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57075-exam-az-400-topic-8-question-4-discussion/",
+            "number": 57075,
+            "question": "Exam AZ-400 topic 8 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35773-exam-az-400-topic-8-question-4-discussion/",
+            "number": 35773,
+            "question": "Exam AZ-400 topic 8 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10950-exam-az-400-topic-8-question-40-discussion/",
+            "number": 10950,
+            "question": "Exam AZ-400 topic 8 question 40 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/22442-exam-az-400-topic-8-question-41-discussion/",
+            "number": 22442,
+            "question": "Exam AZ-400 topic 8 question 41 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57990-exam-az-400-topic-8-question-42-discussion/",
+            "number": 57990,
+            "question": "Exam AZ-400 topic 8 question 42 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57576-exam-az-400-topic-8-question-42-discussion/",
+            "number": 57576,
+            "question": "Exam AZ-400 topic 8 question 42 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10511-exam-az-400-topic-8-question-44-discussion/",
+            "number": 10511,
+            "question": "Exam AZ-400 topic 8 question 44 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73133-exam-az-400-topic-8-question-44-discussion/",
+            "number": 73133,
+            "question": "Exam AZ-400 topic 8 question 44 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50001-exam-az-400-topic-8-question-45-discussion/",
+            "number": 50001,
+            "question": "Exam AZ-400 topic 8 question 45 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74767-exam-az-400-topic-8-question-46-discussion/",
+            "number": 74767,
+            "question": "Exam AZ-400 topic 8 question 46 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57086-exam-az-400-topic-8-question-46-discussion/",
+            "number": 57086,
+            "question": "Exam AZ-400 topic 8 question 46 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74855-exam-az-400-topic-8-question-47-discussion/",
+            "number": 74855,
+            "question": "Exam AZ-400 topic 8 question 47 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74410-exam-az-400-topic-8-question-48-discussion/",
+            "number": 74410,
+            "question": "Exam AZ-400 topic 8 question 48 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75928-exam-az-400-topic-8-question-49-discussion/",
+            "number": 75928,
+            "question": "Exam AZ-400 topic 8 question 49 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23761-exam-az-400-topic-8-question-5-discussion/",
+            "number": 23761,
+            "question": "Exam AZ-400 topic 8 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57051-exam-az-400-topic-8-question-5-discussion/",
+            "number": 57051,
+            "question": "Exam AZ-400 topic 8 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74560-exam-az-400-topic-8-question-50-discussion/",
+            "number": 74560,
+            "question": "Exam AZ-400 topic 8 question 50 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82874-exam-az-400-topic-8-question-51-discussion/",
+            "number": 82874,
+            "question": "Exam AZ-400 topic 8 question 51 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79255-exam-az-400-topic-8-question-52-discussion/",
+            "number": 79255,
+            "question": "Exam AZ-400 topic 8 question 52 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79257-exam-az-400-topic-8-question-53-discussion/",
+            "number": 79257,
+            "question": "Exam AZ-400 topic 8 question 53 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82875-exam-az-400-topic-8-question-54-discussion/",
+            "number": 82875,
+            "question": "Exam AZ-400 topic 8 question 54 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35914-exam-az-400-topic-8-question-55-discussion/",
+            "number": 35914,
+            "question": "Exam AZ-400 topic 8 question 55 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79000-exam-az-400-topic-8-question-56-discussion/",
+            "number": 79000,
+            "question": "Exam AZ-400 topic 8 question 56 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79008-exam-az-400-topic-8-question-57-discussion/",
+            "number": 79008,
+            "question": "Exam AZ-400 topic 8 question 57 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79010-exam-az-400-topic-8-question-58-discussion/",
+            "number": 79010,
+            "question": "Exam AZ-400 topic 8 question 58 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79011-exam-az-400-topic-8-question-59-discussion/",
+            "number": 79011,
+            "question": "Exam AZ-400 topic 8 question 59 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/20895-exam-az-400-topic-8-question-6-discussion/",
+            "number": 20895,
+            "question": "Exam AZ-400 topic 8 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56344-exam-az-400-topic-8-question-6-discussion/",
+            "number": 56344,
+            "question": "Exam AZ-400 topic 8 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79016-exam-az-400-topic-8-question-60-discussion/",
+            "number": 79016,
+            "question": "Exam AZ-400 topic 8 question 60 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79332-exam-az-400-topic-8-question-61-discussion/",
+            "number": 79332,
+            "question": "Exam AZ-400 topic 8 question 61 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79338-exam-az-400-topic-8-question-62-discussion/",
+            "number": 79338,
+            "question": "Exam AZ-400 topic 8 question 62 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79020-exam-az-400-topic-8-question-63-discussion/",
+            "number": 79020,
+            "question": "Exam AZ-400 topic 8 question 63 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79022-exam-az-400-topic-8-question-64-discussion/",
+            "number": 79022,
+            "question": "Exam AZ-400 topic 8 question 64 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79341-exam-az-400-topic-8-question-65-discussion/",
+            "number": 79341,
+            "question": "Exam AZ-400 topic 8 question 65 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96016-exam-az-400-topic-8-question-66-discussion/",
+            "number": 96016,
+            "question": "Exam AZ-400 topic 8 question 66 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96015-exam-az-400-topic-8-question-67-discussion/",
+            "number": 96015,
+            "question": "Exam AZ-400 topic 8 question 67 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96017-exam-az-400-topic-8-question-68-discussion/",
+            "number": 96017,
+            "question": "Exam AZ-400 topic 8 question 68 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95996-exam-az-400-topic-8-question-69-discussion/",
+            "number": 95996,
+            "question": "Exam AZ-400 topic 8 question 69 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/87249-exam-az-400-topic-8-question-7-discussion/",
+            "number": 87249,
+            "question": "Exam AZ-400 topic 8 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96018-exam-az-400-topic-8-question-70-discussion/",
+            "number": 96018,
+            "question": "Exam AZ-400 topic 8 question 70 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95985-exam-az-400-topic-8-question-71-discussion/",
+            "number": 95985,
+            "question": "Exam AZ-400 topic 8 question 71 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96179-exam-az-400-topic-8-question-72-discussion/",
+            "number": 96179,
+            "question": "Exam AZ-400 topic 8 question 72 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96180-exam-az-400-topic-8-question-73-discussion/",
+            "number": 96180,
+            "question": "Exam AZ-400 topic 8 question 73 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95964-exam-az-400-topic-8-question-74-discussion/",
+            "number": 95964,
+            "question": "Exam AZ-400 topic 8 question 74 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96185-exam-az-400-topic-8-question-75-discussion/",
+            "number": 96185,
+            "question": "Exam AZ-400 topic 8 question 75 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/19000-exam-az-400-topic-8-question-8-discussion/",
+            "number": 19000,
+            "question": "Exam AZ-400 topic 8 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57745-exam-az-400-topic-8-question-8-discussion/",
+            "number": 57745,
+            "question": "Exam AZ-400 topic 8 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35917-exam-az-400-topic-8-question-9-discussion/",
+            "number": 35917,
+            "question": "Exam AZ-400 topic 8 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74707-exam-az-400-topic-9-question-1-discussion/",
+            "number": 74707,
+            "question": "Exam AZ-400 topic 9 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/17095-exam-az-400-topic-9-question-2-discussion/",
+            "number": 17095,
+            "question": "Exam AZ-400 topic 9 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/18333-exam-az-400-topic-9-question-4-discussion/",
+            "number": 18333,
+            "question": "Exam AZ-400 topic 9 question 4 discussion"
+        }
+    ]
+}

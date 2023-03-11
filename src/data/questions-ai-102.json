@@ -1,0 +1,853 @@
+{
+    "exam": "ai-102",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54103-exam-ai-102-topic-1-question-1-discussion/",
+            "number": 54103,
+            "question": "Exam AI-102 topic 1 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54752-exam-ai-102-topic-1-question-10-discussion/",
+            "number": 54752,
+            "question": "Exam AI-102 topic 1 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75686-exam-ai-102-topic-1-question-11-discussion/",
+            "number": 75686,
+            "question": "Exam AI-102 topic 1 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54828-exam-ai-102-topic-1-question-11-discussion/",
+            "number": 54828,
+            "question": "Exam AI-102 topic 1 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60024-exam-ai-102-topic-1-question-12-discussion/",
+            "number": 60024,
+            "question": "Exam AI-102 topic 1 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60125-exam-ai-102-topic-1-question-13-discussion/",
+            "number": 60125,
+            "question": "Exam AI-102 topic 1 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60131-exam-ai-102-topic-1-question-14-discussion/",
+            "number": 60131,
+            "question": "Exam AI-102 topic 1 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61294-exam-ai-102-topic-1-question-15-discussion/",
+            "number": 61294,
+            "question": "Exam AI-102 topic 1 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62211-exam-ai-102-topic-1-question-16-discussion/",
+            "number": 62211,
+            "question": "Exam AI-102 topic 1 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75106-exam-ai-102-topic-1-question-17-discussion/",
+            "number": 75106,
+            "question": "Exam AI-102 topic 1 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61509-exam-ai-102-topic-1-question-17-discussion/",
+            "number": 61509,
+            "question": "Exam AI-102 topic 1 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62494-exam-ai-102-topic-1-question-18-discussion/",
+            "number": 62494,
+            "question": "Exam AI-102 topic 1 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62493-exam-ai-102-topic-1-question-19-discussion/",
+            "number": 62493,
+            "question": "Exam AI-102 topic 1 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74339-exam-ai-102-topic-1-question-2-discussion/",
+            "number": 74339,
+            "question": "Exam AI-102 topic 1 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54104-exam-ai-102-topic-1-question-2-discussion/",
+            "number": 54104,
+            "question": "Exam AI-102 topic 1 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61023-exam-ai-102-topic-1-question-20-discussion/",
+            "number": 61023,
+            "question": "Exam AI-102 topic 1 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86971-exam-ai-102-topic-1-question-21-discussion/",
+            "number": 86971,
+            "question": "Exam AI-102 topic 1 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61101-exam-ai-102-topic-1-question-21-discussion/",
+            "number": 61101,
+            "question": "Exam AI-102 topic 1 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74847-exam-ai-102-topic-1-question-22-discussion/",
+            "number": 74847,
+            "question": "Exam AI-102 topic 1 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76149-exam-ai-102-topic-1-question-23-discussion/",
+            "number": 76149,
+            "question": "Exam AI-102 topic 1 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74350-exam-ai-102-topic-1-question-24-discussion/",
+            "number": 74350,
+            "question": "Exam AI-102 topic 1 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75221-exam-ai-102-topic-1-question-25-discussion/",
+            "number": 75221,
+            "question": "Exam AI-102 topic 1 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77572-exam-ai-102-topic-1-question-26-discussion/",
+            "number": 77572,
+            "question": "Exam AI-102 topic 1 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77540-exam-ai-102-topic-1-question-27-discussion/",
+            "number": 77540,
+            "question": "Exam AI-102 topic 1 question 27 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77541-exam-ai-102-topic-1-question-28-discussion/",
+            "number": 77541,
+            "question": "Exam AI-102 topic 1 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75222-exam-ai-102-topic-1-question-29-discussion/",
+            "number": 75222,
+            "question": "Exam AI-102 topic 1 question 29 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54105-exam-ai-102-topic-1-question-3-discussion/",
+            "number": 54105,
+            "question": "Exam AI-102 topic 1 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80844-exam-ai-102-topic-1-question-30-discussion/",
+            "number": 80844,
+            "question": "Exam AI-102 topic 1 question 30 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82100-exam-ai-102-topic-1-question-31-discussion/",
+            "number": 82100,
+            "question": "Exam AI-102 topic 1 question 31 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82535-exam-ai-102-topic-1-question-32-discussion/",
+            "number": 82535,
+            "question": "Exam AI-102 topic 1 question 32 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/84645-exam-ai-102-topic-1-question-33-discussion/",
+            "number": 84645,
+            "question": "Exam AI-102 topic 1 question 33 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82103-exam-ai-102-topic-1-question-35-discussion/",
+            "number": 82103,
+            "question": "Exam AI-102 topic 1 question 35 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82105-exam-ai-102-topic-1-question-37-discussion/",
+            "number": 82105,
+            "question": "Exam AI-102 topic 1 question 37 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80176-exam-ai-102-topic-1-question-38-discussion/",
+            "number": 80176,
+            "question": "Exam AI-102 topic 1 question 38 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96461-exam-ai-102-topic-1-question-39-discussion/",
+            "number": 96461,
+            "question": "Exam AI-102 topic 1 question 39 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76962-exam-ai-102-topic-1-question-4-discussion/",
+            "number": 76962,
+            "question": "Exam AI-102 topic 1 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55184-exam-ai-102-topic-1-question-4-discussion/",
+            "number": 55184,
+            "question": "Exam AI-102 topic 1 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/87191-exam-ai-102-topic-1-question-40-discussion/",
+            "number": 87191,
+            "question": "Exam AI-102 topic 1 question 40 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/91127-exam-ai-102-topic-1-question-43-discussion/",
+            "number": 91127,
+            "question": "Exam AI-102 topic 1 question 43 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54748-exam-ai-102-topic-1-question-5-discussion/",
+            "number": 54748,
+            "question": "Exam AI-102 topic 1 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74870-exam-ai-102-topic-1-question-6-discussion/",
+            "number": 74870,
+            "question": "Exam AI-102 topic 1 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54749-exam-ai-102-topic-1-question-6-discussion/",
+            "number": 54749,
+            "question": "Exam AI-102 topic 1 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74867-exam-ai-102-topic-1-question-7-discussion/",
+            "number": 74867,
+            "question": "Exam AI-102 topic 1 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56003-exam-ai-102-topic-1-question-7-discussion/",
+            "number": 56003,
+            "question": "Exam AI-102 topic 1 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54790-exam-ai-102-topic-1-question-8-discussion/",
+            "number": 54790,
+            "question": "Exam AI-102 topic 1 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57153-exam-ai-102-topic-1-question-9-discussion/",
+            "number": 57153,
+            "question": "Exam AI-102 topic 1 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77636-exam-ai-102-topic-10-question-1-discussion/",
+            "number": 77636,
+            "question": "Exam AI-102 topic 10 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76783-exam-ai-102-topic-10-question-2-discussion/",
+            "number": 76783,
+            "question": "Exam AI-102 topic 10 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60817-exam-ai-102-topic-11-question-1-discussion/",
+            "number": 60817,
+            "question": "Exam AI-102 topic 11 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76784-exam-ai-102-topic-12-question-1-discussion/",
+            "number": 76784,
+            "question": "Exam AI-102 topic 12 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66853-exam-ai-102-topic-13-question-1-discussion/",
+            "number": 66853,
+            "question": "Exam AI-102 topic 13 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76535-exam-ai-102-topic-14-question-1-discussion/",
+            "number": 76535,
+            "question": "Exam AI-102 topic 14 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77702-exam-ai-102-topic-14-question-2-discussion/",
+            "number": 77702,
+            "question": "Exam AI-102 topic 14 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75979-exam-ai-102-topic-14-question-3-discussion/",
+            "number": 75979,
+            "question": "Exam AI-102 topic 14 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77728-exam-ai-102-topic-14-question-4-discussion/",
+            "number": 77728,
+            "question": "Exam AI-102 topic 14 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/89941-exam-ai-102-topic-15-question-1-discussion/",
+            "number": 89941,
+            "question": "Exam AI-102 topic 15 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57607-exam-ai-102-topic-15-question-2-discussion/",
+            "number": 57607,
+            "question": "Exam AI-102 topic 15 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77001-exam-ai-102-topic-15-question-3-discussion/",
+            "number": 77001,
+            "question": "Exam AI-102 topic 15 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54796-exam-ai-102-topic-2-question-1-discussion/",
+            "number": 54796,
+            "question": "Exam AI-102 topic 2 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55438-exam-ai-102-topic-2-question-1-discussion/",
+            "number": 55438,
+            "question": "Exam AI-102 topic 2 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75691-exam-ai-102-topic-2-question-10-discussion/",
+            "number": 75691,
+            "question": "Exam AI-102 topic 2 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60381-exam-ai-102-topic-2-question-10-discussion/",
+            "number": 60381,
+            "question": "Exam AI-102 topic 2 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75223-exam-ai-102-topic-2-question-11-discussion/",
+            "number": 75223,
+            "question": "Exam AI-102 topic 2 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55440-exam-ai-102-topic-2-question-12-discussion/",
+            "number": 55440,
+            "question": "Exam AI-102 topic 2 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60341-exam-ai-102-topic-2-question-12-discussion/",
+            "number": 60341,
+            "question": "Exam AI-102 topic 2 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54793-exam-ai-102-topic-2-question-13-discussion/",
+            "number": 54793,
+            "question": "Exam AI-102 topic 2 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/84342-exam-ai-102-topic-2-question-14-discussion/",
+            "number": 84342,
+            "question": "Exam AI-102 topic 2 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55050-exam-ai-102-topic-2-question-14-discussion/",
+            "number": 55050,
+            "question": "Exam AI-102 topic 2 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54794-exam-ai-102-topic-2-question-15-discussion/",
+            "number": 54794,
+            "question": "Exam AI-102 topic 2 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77610-exam-ai-102-topic-2-question-16-discussion/",
+            "number": 77610,
+            "question": "Exam AI-102 topic 2 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81643-exam-ai-102-topic-2-question-17-discussion/",
+            "number": 81643,
+            "question": "Exam AI-102 topic 2 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81861-exam-ai-102-topic-2-question-18-discussion/",
+            "number": 81861,
+            "question": "Exam AI-102 topic 2 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83146-exam-ai-102-topic-2-question-19-discussion/",
+            "number": 83146,
+            "question": "Exam AI-102 topic 2 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74739-exam-ai-102-topic-2-question-2-discussion/",
+            "number": 74739,
+            "question": "Exam AI-102 topic 2 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55211-exam-ai-102-topic-2-question-2-discussion/",
+            "number": 55211,
+            "question": "Exam AI-102 topic 2 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/91092-exam-ai-102-topic-2-question-20-discussion/",
+            "number": 91092,
+            "question": "Exam AI-102 topic 2 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60330-exam-ai-102-topic-2-question-3-discussion/",
+            "number": 60330,
+            "question": "Exam AI-102 topic 2 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77130-exam-ai-102-topic-2-question-4-discussion/",
+            "number": 77130,
+            "question": "Exam AI-102 topic 2 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60335-exam-ai-102-topic-2-question-5-discussion/",
+            "number": 60335,
+            "question": "Exam AI-102 topic 2 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82128-exam-ai-102-topic-2-question-6-discussion/",
+            "number": 82128,
+            "question": "Exam AI-102 topic 2 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74740-exam-ai-102-topic-2-question-6-discussion/",
+            "number": 74740,
+            "question": "Exam AI-102 topic 2 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62223-exam-ai-102-topic-2-question-7-discussion/",
+            "number": 62223,
+            "question": "Exam AI-102 topic 2 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74355-exam-ai-102-topic-2-question-8-discussion/",
+            "number": 74355,
+            "question": "Exam AI-102 topic 2 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56386-exam-ai-102-topic-2-question-8-discussion/",
+            "number": 56386,
+            "question": "Exam AI-102 topic 2 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74741-exam-ai-102-topic-2-question-9-discussion/",
+            "number": 74741,
+            "question": "Exam AI-102 topic 2 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55511-exam-ai-102-topic-3-question-1-discussion/",
+            "number": 55511,
+            "question": "Exam AI-102 topic 3 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75998-exam-ai-102-topic-3-question-10-discussion/",
+            "number": 75998,
+            "question": "Exam AI-102 topic 3 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75377-exam-ai-102-topic-3-question-11-discussion/",
+            "number": 75377,
+            "question": "Exam AI-102 topic 3 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80189-exam-ai-102-topic-3-question-11-discussion/",
+            "number": 80189,
+            "question": "Exam AI-102 topic 3 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54402-exam-ai-102-topic-3-question-12-discussion/",
+            "number": 54402,
+            "question": "Exam AI-102 topic 3 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77612-exam-ai-102-topic-3-question-13-discussion/",
+            "number": 77612,
+            "question": "Exam AI-102 topic 3 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77617-exam-ai-102-topic-3-question-14-discussion/",
+            "number": 77617,
+            "question": "Exam AI-102 topic 3 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75236-exam-ai-102-topic-3-question-15-discussion/",
+            "number": 75236,
+            "question": "Exam AI-102 topic 3 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77618-exam-ai-102-topic-3-question-16-discussion/",
+            "number": 77618,
+            "question": "Exam AI-102 topic 3 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75237-exam-ai-102-topic-3-question-17-discussion/",
+            "number": 75237,
+            "question": "Exam AI-102 topic 3 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54520-exam-ai-102-topic-3-question-18-discussion/",
+            "number": 54520,
+            "question": "Exam AI-102 topic 3 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60794-exam-ai-102-topic-3-question-18-discussion/",
+            "number": 60794,
+            "question": "Exam AI-102 topic 3 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74742-exam-ai-102-topic-3-question-19-discussion/",
+            "number": 74742,
+            "question": "Exam AI-102 topic 3 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56451-exam-ai-102-topic-3-question-2-discussion/",
+            "number": 56451,
+            "question": "Exam AI-102 topic 3 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55251-exam-ai-102-topic-3-question-2-discussion/",
+            "number": 55251,
+            "question": "Exam AI-102 topic 3 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76239-exam-ai-102-topic-3-question-20-discussion/",
+            "number": 76239,
+            "question": "Exam AI-102 topic 3 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77006-exam-ai-102-topic-3-question-21-discussion/",
+            "number": 77006,
+            "question": "Exam AI-102 topic 3 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75322-exam-ai-102-topic-3-question-22-discussion/",
+            "number": 75322,
+            "question": "Exam AI-102 topic 3 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/85823-exam-ai-102-topic-3-question-23-discussion/",
+            "number": 85823,
+            "question": "Exam AI-102 topic 3 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77619-exam-ai-102-topic-3-question-23-discussion/",
+            "number": 77619,
+            "question": "Exam AI-102 topic 3 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/87857-exam-ai-102-topic-3-question-24-discussion/",
+            "number": 87857,
+            "question": "Exam AI-102 topic 3 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/88019-exam-ai-102-topic-3-question-26-discussion/",
+            "number": 88019,
+            "question": "Exam AI-102 topic 3 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/88194-exam-ai-102-topic-3-question-28-discussion/",
+            "number": 88194,
+            "question": "Exam AI-102 topic 3 question 28 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83483-exam-ai-102-topic-3-question-29-discussion/",
+            "number": 83483,
+            "question": "Exam AI-102 topic 3 question 29 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56452-exam-ai-102-topic-3-question-3-discussion/",
+            "number": 56452,
+            "question": "Exam AI-102 topic 3 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56391-exam-ai-102-topic-3-question-3-discussion/",
+            "number": 56391,
+            "question": "Exam AI-102 topic 3 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/88196-exam-ai-102-topic-3-question-30-discussion/",
+            "number": 88196,
+            "question": "Exam AI-102 topic 3 question 30 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56454-exam-ai-102-topic-3-question-4-discussion/",
+            "number": 56454,
+            "question": "Exam AI-102 topic 3 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56390-exam-ai-102-topic-3-question-4-discussion/",
+            "number": 56390,
+            "question": "Exam AI-102 topic 3 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56455-exam-ai-102-topic-3-question-5-discussion/",
+            "number": 56455,
+            "question": "Exam AI-102 topic 3 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55309-exam-ai-102-topic-3-question-5-discussion/",
+            "number": 55309,
+            "question": "Exam AI-102 topic 3 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60473-exam-ai-102-topic-3-question-6-discussion/",
+            "number": 60473,
+            "question": "Exam AI-102 topic 3 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62095-exam-ai-102-topic-3-question-6-discussion/",
+            "number": 62095,
+            "question": "Exam AI-102 topic 3 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55502-exam-ai-102-topic-3-question-6-discussion/",
+            "number": 55502,
+            "question": "Exam AI-102 topic 3 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80186-exam-ai-102-topic-3-question-7-discussion/",
+            "number": 80186,
+            "question": "Exam AI-102 topic 3 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60239-exam-ai-102-topic-3-question-7-discussion/",
+            "number": 60239,
+            "question": "Exam AI-102 topic 3 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60238-exam-ai-102-topic-3-question-8-discussion/",
+            "number": 60238,
+            "question": "Exam AI-102 topic 3 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60466-exam-ai-102-topic-3-question-8-discussion/",
+            "number": 60466,
+            "question": "Exam AI-102 topic 3 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55508-exam-ai-102-topic-3-question-8-discussion/",
+            "number": 55508,
+            "question": "Exam AI-102 topic 3 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60311-exam-ai-102-topic-3-question-9-discussion/",
+            "number": 60311,
+            "question": "Exam AI-102 topic 3 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60962-exam-ai-102-topic-3-question-9-discussion/",
+            "number": 60962,
+            "question": "Exam AI-102 topic 3 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55451-exam-ai-102-topic-4-question-1-discussion/",
+            "number": 55451,
+            "question": "Exam AI-102 topic 4 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77927-exam-ai-102-topic-4-question-10-discussion/",
+            "number": 77927,
+            "question": "Exam AI-102 topic 4 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81122-exam-ai-102-topic-4-question-11-discussion/",
+            "number": 81122,
+            "question": "Exam AI-102 topic 4 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54888-exam-ai-102-topic-4-question-2-discussion/",
+            "number": 54888,
+            "question": "Exam AI-102 topic 4 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56501-exam-ai-102-topic-4-question-3-discussion/",
+            "number": 56501,
+            "question": "Exam AI-102 topic 4 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75329-exam-ai-102-topic-4-question-4-discussion/",
+            "number": 75329,
+            "question": "Exam AI-102 topic 4 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56509-exam-ai-102-topic-4-question-4-discussion/",
+            "number": 56509,
+            "question": "Exam AI-102 topic 4 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56510-exam-ai-102-topic-4-question-5-discussion/",
+            "number": 56510,
+            "question": "Exam AI-102 topic 4 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78061-exam-ai-102-topic-4-question-6-discussion/",
+            "number": 78061,
+            "question": "Exam AI-102 topic 4 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57672-exam-ai-102-topic-4-question-6-discussion/",
+            "number": 57672,
+            "question": "Exam AI-102 topic 4 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77620-exam-ai-102-topic-4-question-7-discussion/",
+            "number": 77620,
+            "question": "Exam AI-102 topic 4 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56517-exam-ai-102-topic-4-question-7-discussion/",
+            "number": 56517,
+            "question": "Exam AI-102 topic 4 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60582-exam-ai-102-topic-4-question-8-discussion/",
+            "number": 60582,
+            "question": "Exam AI-102 topic 4 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60820-exam-ai-102-topic-4-question-9-discussion/",
+            "number": 60820,
+            "question": "Exam AI-102 topic 4 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61688-exam-ai-102-topic-5-question-1-discussion/",
+            "number": 61688,
+            "question": "Exam AI-102 topic 5 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55594-exam-ai-102-topic-5-question-1-discussion/",
+            "number": 55594,
+            "question": "Exam AI-102 topic 5 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66453-exam-ai-102-topic-5-question-10-discussion/",
+            "number": 66453,
+            "question": "Exam AI-102 topic 5 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54965-exam-ai-102-topic-5-question-11-discussion/",
+            "number": 54965,
+            "question": "Exam AI-102 topic 5 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62325-exam-ai-102-topic-5-question-12-discussion/",
+            "number": 62325,
+            "question": "Exam AI-102 topic 5 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62268-exam-ai-102-topic-5-question-13-discussion/",
+            "number": 62268,
+            "question": "Exam AI-102 topic 5 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75647-exam-ai-102-topic-5-question-14-discussion/",
+            "number": 75647,
+            "question": "Exam AI-102 topic 5 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77633-exam-ai-102-topic-5-question-15-discussion/",
+            "number": 77633,
+            "question": "Exam AI-102 topic 5 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77634-exam-ai-102-topic-5-question-16-discussion/",
+            "number": 77634,
+            "question": "Exam AI-102 topic 5 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80793-exam-ai-102-topic-5-question-17-discussion/",
+            "number": 80793,
+            "question": "Exam AI-102 topic 5 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56834-exam-ai-102-topic-5-question-2-discussion/",
+            "number": 56834,
+            "question": "Exam AI-102 topic 5 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54883-exam-ai-102-topic-5-question-2-discussion/",
+            "number": 54883,
+            "question": "Exam AI-102 topic 5 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/91978-exam-ai-102-topic-5-question-3-discussion/",
+            "number": 91978,
+            "question": "Exam AI-102 topic 5 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77624-exam-ai-102-topic-5-question-3-discussion/",
+            "number": 77624,
+            "question": "Exam AI-102 topic 5 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76495-exam-ai-102-topic-5-question-4-discussion/",
+            "number": 76495,
+            "question": "Exam AI-102 topic 5 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57673-exam-ai-102-topic-5-question-4-discussion/",
+            "number": 57673,
+            "question": "Exam AI-102 topic 5 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56546-exam-ai-102-topic-5-question-5-discussion/",
+            "number": 56546,
+            "question": "Exam AI-102 topic 5 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75984-exam-ai-102-topic-5-question-6-discussion/",
+            "number": 75984,
+            "question": "Exam AI-102 topic 5 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57089-exam-ai-102-topic-5-question-7-discussion/",
+            "number": 57089,
+            "question": "Exam AI-102 topic 5 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57093-exam-ai-102-topic-5-question-8-discussion/",
+            "number": 57093,
+            "question": "Exam AI-102 topic 5 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55006-exam-ai-102-topic-5-question-9-discussion/",
+            "number": 55006,
+            "question": "Exam AI-102 topic 5 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81465-exam-ai-102-topic-6-question-1-discussion/",
+            "number": 81465,
+            "question": "Exam AI-102 topic 6 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58613-exam-ai-102-topic-6-question-1-discussion/",
+            "number": 58613,
+            "question": "Exam AI-102 topic 6 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75514-exam-ai-102-topic-7-question-1-discussion/",
+            "number": 75514,
+            "question": "Exam AI-102 topic 7 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57566-exam-ai-102-topic-7-question-1-discussion/",
+            "number": 57566,
+            "question": "Exam AI-102 topic 7 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75955-exam-ai-102-topic-7-question-2-discussion/",
+            "number": 75955,
+            "question": "Exam AI-102 topic 7 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78040-exam-ai-102-topic-8-question-1-discussion/",
+            "number": 78040,
+            "question": "Exam AI-102 topic 8 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78075-exam-ai-102-topic-9-question-1-discussion/",
+            "number": 78075,
+            "question": "Exam AI-102 topic 9 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62731-exam-ai-102-topic-9-question-2-discussion/",
+            "number": 62731,
+            "question": "Exam AI-102 topic 9 question 2 discussion"
+        }
+    ]
+}

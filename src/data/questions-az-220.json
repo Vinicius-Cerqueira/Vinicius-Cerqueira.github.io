@@ -1,0 +1,633 @@
+{
+    "exam": "az-220",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37453-exam-az-220-topic-1-question-1-discussion/",
+            "number": 37453,
+            "question": "Exam AZ-220 topic 1 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36052-exam-az-220-topic-1-question-10-discussion/",
+            "number": 36052,
+            "question": "Exam AZ-220 topic 1 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36054-exam-az-220-topic-1-question-11-discussion/",
+            "number": 36054,
+            "question": "Exam AZ-220 topic 1 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48101-exam-az-220-topic-1-question-12-discussion/",
+            "number": 48101,
+            "question": "Exam AZ-220 topic 1 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37457-exam-az-220-topic-1-question-12-discussion/",
+            "number": 37457,
+            "question": "Exam AZ-220 topic 1 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48102-exam-az-220-topic-1-question-13-discussion/",
+            "number": 48102,
+            "question": "Exam AZ-220 topic 1 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68857-exam-az-220-topic-1-question-14-discussion/",
+            "number": 68857,
+            "question": "Exam AZ-220 topic 1 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69118-exam-az-220-topic-1-question-15-discussion/",
+            "number": 69118,
+            "question": "Exam AZ-220 topic 1 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37454-exam-az-220-topic-1-question-2-discussion/",
+            "number": 37454,
+            "question": "Exam AZ-220 topic 1 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37455-exam-az-220-topic-1-question-3-discussion/",
+            "number": 37455,
+            "question": "Exam AZ-220 topic 1 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36672-exam-az-220-topic-1-question-4-discussion/",
+            "number": 36672,
+            "question": "Exam AZ-220 topic 1 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26283-exam-az-220-topic-1-question-5-discussion/",
+            "number": 26283,
+            "question": "Exam AZ-220 topic 1 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26506-exam-az-220-topic-1-question-6-discussion/",
+            "number": 26506,
+            "question": "Exam AZ-220 topic 1 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37456-exam-az-220-topic-1-question-7-discussion/",
+            "number": 37456,
+            "question": "Exam AZ-220 topic 1 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26507-exam-az-220-topic-1-question-8-discussion/",
+            "number": 26507,
+            "question": "Exam AZ-220 topic 1 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26206-exam-az-220-topic-1-question-9-discussion/",
+            "number": 26206,
+            "question": "Exam AZ-220 topic 1 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55425-exam-az-220-topic-10-question-1-discussion/",
+            "number": 55425,
+            "question": "Exam AZ-220 topic 10 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48126-exam-az-220-topic-10-question-2-discussion/",
+            "number": 48126,
+            "question": "Exam AZ-220 topic 10 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55432-exam-az-220-topic-10-question-2-discussion/",
+            "number": 55432,
+            "question": "Exam AZ-220 topic 10 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53018-exam-az-220-topic-10-question-3-discussion/",
+            "number": 53018,
+            "question": "Exam AZ-220 topic 10 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55553-exam-az-220-topic-10-question-3-discussion/",
+            "number": 55553,
+            "question": "Exam AZ-220 topic 10 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55555-exam-az-220-topic-10-question-4-discussion/",
+            "number": 55555,
+            "question": "Exam AZ-220 topic 10 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55559-exam-az-220-topic-10-question-5-discussion/",
+            "number": 55559,
+            "question": "Exam AZ-220 topic 10 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24131-exam-az-220-topic-11-question-1-discussion/",
+            "number": 24131,
+            "question": "Exam AZ-220 topic 11 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23813-exam-az-220-topic-11-question-2-discussion/",
+            "number": 23813,
+            "question": "Exam AZ-220 topic 11 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24132-exam-az-220-topic-11-question-3-discussion/",
+            "number": 24132,
+            "question": "Exam AZ-220 topic 11 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61994-exam-az-220-topic-13-question-1-discussion/",
+            "number": 61994,
+            "question": "Exam AZ-220 topic 13 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/22206-exam-az-220-topic-2-question-1-discussion/",
+            "number": 22206,
+            "question": "Exam AZ-220 topic 2 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26373-exam-az-220-topic-2-question-10-discussion/",
+            "number": 26373,
+            "question": "Exam AZ-220 topic 2 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24436-exam-az-220-topic-2-question-11-discussion/",
+            "number": 24436,
+            "question": "Exam AZ-220 topic 2 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54912-exam-az-220-topic-2-question-12-discussion/",
+            "number": 54912,
+            "question": "Exam AZ-220 topic 2 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48105-exam-az-220-topic-2-question-13-discussion/",
+            "number": 48105,
+            "question": "Exam AZ-220 topic 2 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26337-exam-az-220-topic-2-question-13-discussion/",
+            "number": 26337,
+            "question": "Exam AZ-220 topic 2 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48106-exam-az-220-topic-2-question-14-discussion/",
+            "number": 48106,
+            "question": "Exam AZ-220 topic 2 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48104-exam-az-220-topic-2-question-14-discussion/",
+            "number": 48104,
+            "question": "Exam AZ-220 topic 2 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48107-exam-az-220-topic-2-question-15-discussion/",
+            "number": 48107,
+            "question": "Exam AZ-220 topic 2 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48108-exam-az-220-topic-2-question-16-discussion/",
+            "number": 48108,
+            "question": "Exam AZ-220 topic 2 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48109-exam-az-220-topic-2-question-17-discussion/",
+            "number": 48109,
+            "question": "Exam AZ-220 topic 2 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48110-exam-az-220-topic-2-question-18-discussion/",
+            "number": 48110,
+            "question": "Exam AZ-220 topic 2 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48248-exam-az-220-topic-2-question-19-discussion/",
+            "number": 48248,
+            "question": "Exam AZ-220 topic 2 question 19 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24675-exam-az-220-topic-2-question-2-discussion/",
+            "number": 24675,
+            "question": "Exam AZ-220 topic 2 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48632-exam-az-220-topic-2-question-20-discussion/",
+            "number": 48632,
+            "question": "Exam AZ-220 topic 2 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57047-exam-az-220-topic-2-question-21-discussion/",
+            "number": 57047,
+            "question": "Exam AZ-220 topic 2 question 21 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68635-exam-az-220-topic-2-question-22-discussion/",
+            "number": 68635,
+            "question": "Exam AZ-220 topic 2 question 22 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/22771-exam-az-220-topic-2-question-23-discussion/",
+            "number": 22771,
+            "question": "Exam AZ-220 topic 2 question 23 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37459-exam-az-220-topic-2-question-24-discussion/",
+            "number": 37459,
+            "question": "Exam AZ-220 topic 2 question 24 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69122-exam-az-220-topic-2-question-25-discussion/",
+            "number": 69122,
+            "question": "Exam AZ-220 topic 2 question 25 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68706-exam-az-220-topic-2-question-26-discussion/",
+            "number": 68706,
+            "question": "Exam AZ-220 topic 2 question 26 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54044-exam-az-220-topic-2-question-3-discussion/",
+            "number": 54044,
+            "question": "Exam AZ-220 topic 2 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23031-exam-az-220-topic-2-question-4-discussion/",
+            "number": 23031,
+            "question": "Exam AZ-220 topic 2 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54861-exam-az-220-topic-2-question-5-discussion/",
+            "number": 54861,
+            "question": "Exam AZ-220 topic 2 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48103-exam-az-220-topic-2-question-5-discussion/",
+            "number": 48103,
+            "question": "Exam AZ-220 topic 2 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37461-exam-az-220-topic-2-question-6-discussion/",
+            "number": 37461,
+            "question": "Exam AZ-220 topic 2 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24732-exam-az-220-topic-2-question-7-discussion/",
+            "number": 24732,
+            "question": "Exam AZ-220 topic 2 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24781-exam-az-220-topic-2-question-7-discussion/",
+            "number": 24781,
+            "question": "Exam AZ-220 topic 2 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26585-exam-az-220-topic-2-question-7-discussion/",
+            "number": 26585,
+            "question": "Exam AZ-220 topic 2 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24849-exam-az-220-topic-2-question-8-discussion/",
+            "number": 24849,
+            "question": "Exam AZ-220 topic 2 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49601-exam-az-220-topic-2-question-9-discussion/",
+            "number": 49601,
+            "question": "Exam AZ-220 topic 2 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47162-exam-az-220-topic-3-question-1-discussion/",
+            "number": 47162,
+            "question": "Exam AZ-220 topic 3 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68713-exam-az-220-topic-3-question-10-discussion/",
+            "number": 68713,
+            "question": "Exam AZ-220 topic 3 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69128-exam-az-220-topic-3-question-11-discussion/",
+            "number": 69128,
+            "question": "Exam AZ-220 topic 3 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69130-exam-az-220-topic-3-question-12-discussion/",
+            "number": 69130,
+            "question": "Exam AZ-220 topic 3 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69131-exam-az-220-topic-3-question-13-discussion/",
+            "number": 69131,
+            "question": "Exam AZ-220 topic 3 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69132-exam-az-220-topic-3-question-14-discussion/",
+            "number": 69132,
+            "question": "Exam AZ-220 topic 3 question 14 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69429-exam-az-220-topic-3-question-15-discussion/",
+            "number": 69429,
+            "question": "Exam AZ-220 topic 3 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/70233-exam-az-220-topic-3-question-16-discussion/",
+            "number": 70233,
+            "question": "Exam AZ-220 topic 3 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73157-exam-az-220-topic-3-question-18-discussion/",
+            "number": 73157,
+            "question": "Exam AZ-220 topic 3 question 18 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48112-exam-az-220-topic-3-question-2-discussion/",
+            "number": 48112,
+            "question": "Exam AZ-220 topic 3 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/70234-exam-az-220-topic-3-question-20-discussion/",
+            "number": 70234,
+            "question": "Exam AZ-220 topic 3 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48113-exam-az-220-topic-3-question-3-discussion/",
+            "number": 48113,
+            "question": "Exam AZ-220 topic 3 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26523-exam-az-220-topic-3-question-4-discussion/",
+            "number": 26523,
+            "question": "Exam AZ-220 topic 3 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26524-exam-az-220-topic-3-question-5-discussion/",
+            "number": 26524,
+            "question": "Exam AZ-220 topic 3 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26249-exam-az-220-topic-3-question-6-discussion/",
+            "number": 26249,
+            "question": "Exam AZ-220 topic 3 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26315-exam-az-220-topic-3-question-7-discussion/",
+            "number": 26315,
+            "question": "Exam AZ-220 topic 3 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48111-exam-az-220-topic-3-question-8-discussion/",
+            "number": 48111,
+            "question": "Exam AZ-220 topic 3 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69123-exam-az-220-topic-3-question-9-discussion/",
+            "number": 69123,
+            "question": "Exam AZ-220 topic 3 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69430-exam-az-220-topic-4-question-1-discussion/",
+            "number": 69430,
+            "question": "Exam AZ-220 topic 4 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48355-exam-az-220-topic-4-question-10-discussion/",
+            "number": 48355,
+            "question": "Exam AZ-220 topic 4 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69435-exam-az-220-topic-4-question-11-discussion/",
+            "number": 69435,
+            "question": "Exam AZ-220 topic 4 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76329-exam-az-220-topic-4-question-12-discussion/",
+            "number": 76329,
+            "question": "Exam AZ-220 topic 4 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82615-exam-az-220-topic-4-question-13-discussion/",
+            "number": 82615,
+            "question": "Exam AZ-220 topic 4 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53888-exam-az-220-topic-4-question-2-discussion/",
+            "number": 53888,
+            "question": "Exam AZ-220 topic 4 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48114-exam-az-220-topic-4-question-3-discussion/",
+            "number": 48114,
+            "question": "Exam AZ-220 topic 4 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37762-exam-az-220-topic-4-question-4-discussion/",
+            "number": 37762,
+            "question": "Exam AZ-220 topic 4 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69431-exam-az-220-topic-4-question-5-discussion/",
+            "number": 69431,
+            "question": "Exam AZ-220 topic 4 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48116-exam-az-220-topic-4-question-6-discussion/",
+            "number": 48116,
+            "question": "Exam AZ-220 topic 4 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48117-exam-az-220-topic-4-question-7-discussion/",
+            "number": 48117,
+            "question": "Exam AZ-220 topic 4 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52729-exam-az-220-topic-4-question-8-discussion/",
+            "number": 52729,
+            "question": "Exam AZ-220 topic 4 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47023-exam-az-220-topic-4-question-9-discussion/",
+            "number": 47023,
+            "question": "Exam AZ-220 topic 4 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26252-exam-az-220-topic-5-question-1-discussion/",
+            "number": 26252,
+            "question": "Exam AZ-220 topic 5 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48120-exam-az-220-topic-5-question-10-discussion/",
+            "number": 48120,
+            "question": "Exam AZ-220 topic 5 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48121-exam-az-220-topic-5-question-11-discussion/",
+            "number": 48121,
+            "question": "Exam AZ-220 topic 5 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56993-exam-az-220-topic-5-question-13-discussion/",
+            "number": 56993,
+            "question": "Exam AZ-220 topic 5 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96482-exam-az-220-topic-5-question-15-discussion/",
+            "number": 96482,
+            "question": "Exam AZ-220 topic 5 question 15 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/71125-exam-az-220-topic-5-question-16-discussion/",
+            "number": 71125,
+            "question": "Exam AZ-220 topic 5 question 16 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/71127-exam-az-220-topic-5-question-17-discussion/",
+            "number": 71127,
+            "question": "Exam AZ-220 topic 5 question 17 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/23808-exam-az-220-topic-5-question-2-discussion/",
+            "number": 23808,
+            "question": "Exam AZ-220 topic 5 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69133-exam-az-220-topic-5-question-2-discussion/",
+            "number": 69133,
+            "question": "Exam AZ-220 topic 5 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47983-exam-az-220-topic-5-question-2-discussion/",
+            "number": 47983,
+            "question": "Exam AZ-220 topic 5 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/71129-exam-az-220-topic-5-question-20-discussion/",
+            "number": 71129,
+            "question": "Exam AZ-220 topic 5 question 20 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48118-exam-az-220-topic-5-question-3-discussion/",
+            "number": 48118,
+            "question": "Exam AZ-220 topic 5 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38913-exam-az-220-topic-5-question-4-discussion/",
+            "number": 38913,
+            "question": "Exam AZ-220 topic 5 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/22126-exam-az-220-topic-5-question-6-discussion/",
+            "number": 22126,
+            "question": "Exam AZ-220 topic 5 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/22084-exam-az-220-topic-5-question-7-discussion/",
+            "number": 22084,
+            "question": "Exam AZ-220 topic 5 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26528-exam-az-220-topic-5-question-8-discussion/",
+            "number": 26528,
+            "question": "Exam AZ-220 topic 5 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66561-exam-az-220-topic-5-question-9-discussion/",
+            "number": 66561,
+            "question": "Exam AZ-220 topic 5 question 9 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64369-exam-az-220-topic-6-question-10-discussion/",
+            "number": 64369,
+            "question": "Exam AZ-220 topic 6 question 10 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43199-exam-az-220-topic-6-question-11-discussion/",
+            "number": 43199,
+            "question": "Exam AZ-220 topic 6 question 11 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77506-exam-az-220-topic-6-question-12-discussion/",
+            "number": 77506,
+            "question": "Exam AZ-220 topic 6 question 12 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77507-exam-az-220-topic-6-question-13-discussion/",
+            "number": 77507,
+            "question": "Exam AZ-220 topic 6 question 13 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38686-exam-az-220-topic-6-question-2-discussion/",
+            "number": 38686,
+            "question": "Exam AZ-220 topic 6 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50996-exam-az-220-topic-6-question-3-discussion/",
+            "number": 50996,
+            "question": "Exam AZ-220 topic 6 question 3 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56267-exam-az-220-topic-6-question-4-discussion/",
+            "number": 56267,
+            "question": "Exam AZ-220 topic 6 question 4 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56268-exam-az-220-topic-6-question-5-discussion/",
+            "number": 56268,
+            "question": "Exam AZ-220 topic 6 question 5 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/46744-exam-az-220-topic-6-question-6-discussion/",
+            "number": 46744,
+            "question": "Exam AZ-220 topic 6 question 6 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37528-exam-az-220-topic-6-question-7-discussion/",
+            "number": 37528,
+            "question": "Exam AZ-220 topic 6 question 7 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56269-exam-az-220-topic-6-question-8-discussion/",
+            "number": 56269,
+            "question": "Exam AZ-220 topic 6 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38800-exam-az-220-topic-6-question-8-discussion/",
+            "number": 38800,
+            "question": "Exam AZ-220 topic 6 question 8 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56171-exam-az-220-topic-7-question-1-discussion/",
+            "number": 56171,
+            "question": "Exam AZ-220 topic 7 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47864-exam-az-220-topic-7-question-1-discussion/",
+            "number": 47864,
+            "question": "Exam AZ-220 topic 7 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43200-exam-az-220-topic-7-question-1-discussion/",
+            "number": 43200,
+            "question": "Exam AZ-220 topic 7 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75382-exam-az-220-topic-8-question-1-discussion/",
+            "number": 75382,
+            "question": "Exam AZ-220 topic 8 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26587-exam-az-220-topic-9-question-1-discussion/",
+            "number": 26587,
+            "question": "Exam AZ-220 topic 9 question 1 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48124-exam-az-220-topic-9-question-2-discussion/",
+            "number": 48124,
+            "question": "Exam AZ-220 topic 9 question 2 discussion"
+        },
+        {
+            "link": "https://www.examtopics.com/discussions/microsoft/view/22894-exam-az-220-topic-9-question-3-discussion/",
+            "number": 22894,
+            "question": "Exam AZ-220 topic 9 question 3 discussion"
+        }
+    ]
+}

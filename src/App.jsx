@@ -4,10 +4,10 @@ import './App.css'
 function App(props) {
 
   const [clicked, setClicked] = useState([])
-  const [notClicked, setNotClicked] = useState(props.data)
+  const [notClicked, setNotClicked] = useState(props.data.questions)
 
   const removeQuestion = (a) => {
-    setNotClicked(notClicked.filter((question) => question.Address != a.Address))
+    setNotClicked(notClicked.filter((question) => question.link != a.link))
   }
   return (
     <>
@@ -18,22 +18,22 @@ function App(props) {
         </tr>
 
         {notClicked.map((a) => {
-          return <tr key={a.Address} className='not-clicked'>
-            <td>Topic {a.Topic} Question {a.Question}</td>
-            <td><a href={a.Address} target="_blank" onClick={() => { setClicked([...clicked, a]); removeQuestion(a) }} > {a.Address} </a></td>
+          return <tr key={a.link} className='not-clicked'>
+            <td>{a.question}</td>
+            <td><a href={a.link} target="_blank" onClick={() => { setClicked([...clicked, a]); removeQuestion(a) }} > {a.link} </a></td>
           </tr>
         })}
 
       </table>
       {/* <div className="App">
         {notClicked.map((a) => {
-          return <a key={a.Address} className='not-clicked' href={a.Address} target="_blank" onClick={() => { setClicked([...clicked, a]); removeQuestion(a) }}> T{a.Topic} Q{a.Question} </a>
+          return <a key={a.link} className='not-clicked' href={a.link} target="_blank" onClick={() => { setClicked([...clicked, a]); removeQuestion(a) }}> T{a.Topic} Q{a.Question} </a>
         })}
       </div>
       <div>
 
         <h1>Questões Resolvidas</h1>
-        {clicked.map((a) => { return <a key={a.Address} className='clicked' href={a.Address} target="_blank"> T{a.Topic} Q{a.Question} </a> })}
+        {clicked.map((a) => { return <a key={a.link} className='clicked' href={a.link} target="_blank"> T{a.Topic} Q{a.Question} </a> })}
       </div> */}
     </>
   )
