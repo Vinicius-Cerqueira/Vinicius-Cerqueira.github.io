@@ -1,18 +1,17 @@
 .container {
-    height: 100vh;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
 }
 
-.test {
-    padding: 5rem;
-    font-size: 2rem;
+.exam {
+    padding: 1rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    color: black;
 }
 
-.test:hover {
-    font-size: 4rem;
-    background-color: rgb(89, 142, 255);
-    padding: 5.5rem;
-
+.exam:hover {
+    transition: 0.2s;
+    background-color: rgb(126, 204, 255);
 }

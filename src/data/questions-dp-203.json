@@ -5,1439 +5,1720 @@
     },
     "questions": [
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67437-exam-dp-203-topic-1-question-1-discussion/",
-            "number": 67437,
-            "question": "Exam DP-203 topic 1 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/53711-exam-dp-203-topic-1-question-10-discussion/",
-            "number": 53711,
-            "question": "Exam DP-203 topic 1 question 10 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54529-exam-dp-203-topic-1-question-11-discussion/",
-            "number": 54529,
-            "question": "Exam DP-203 topic 1 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/53662-exam-dp-203-topic-1-question-11-discussion/",
-            "number": 53662,
-            "question": "Exam DP-203 topic 1 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/53664-exam-dp-203-topic-1-question-12-discussion/",
-            "number": 53664,
-            "question": "Exam DP-203 topic 1 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52121-exam-dp-203-topic-1-question-13-discussion/",
-            "number": 52121,
-            "question": "Exam DP-203 topic 1 question 13 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60686-exam-dp-203-topic-1-question-14-discussion/",
-            "number": 60686,
-            "question": "Exam DP-203 topic 1 question 14 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61286-exam-dp-203-topic-1-question-15-discussion/",
-            "number": 61286,
-            "question": "Exam DP-203 topic 1 question 15 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60780-exam-dp-203-topic-1-question-16-discussion/",
-            "number": 60780,
-            "question": "Exam DP-203 topic 1 question 16 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60427-exam-dp-203-topic-1-question-17-discussion/",
-            "number": 60427,
-            "question": "Exam DP-203 topic 1 question 17 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60376-exam-dp-203-topic-1-question-18-discussion/",
-            "number": 60376,
-            "question": "Exam DP-203 topic 1 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60369-exam-dp-203-topic-1-question-19-discussion/",
-            "number": 60369,
-            "question": "Exam DP-203 topic 1 question 19 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/79349-exam-dp-203-topic-1-question-2-discussion/",
-            "number": 79349,
-            "question": "Exam DP-203 topic 1 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/51988-exam-dp-203-topic-1-question-2-discussion/",
-            "number": 51988,
-            "question": "Exam DP-203 topic 1 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74225-exam-dp-203-topic-1-question-2-discussion/",
-            "number": 74225,
-            "question": "Exam DP-203 topic 1 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61794-exam-dp-203-topic-1-question-20-discussion/",
-            "number": 61794,
-            "question": "Exam DP-203 topic 1 question 20 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60955-exam-dp-203-topic-1-question-21-discussion/",
-            "number": 60955,
-            "question": "Exam DP-203 topic 1 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62349-exam-dp-203-topic-1-question-22-discussion/",
-            "number": 62349,
-            "question": "Exam DP-203 topic 1 question 22 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61378-exam-dp-203-topic-1-question-23-discussion/",
-            "number": 61378,
-            "question": "Exam DP-203 topic 1 question 23 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62031-exam-dp-203-topic-1-question-24-discussion/",
-            "number": 62031,
-            "question": "Exam DP-203 topic 1 question 24 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67460-exam-dp-203-topic-1-question-25-discussion/",
-            "number": 67460,
-            "question": "Exam DP-203 topic 1 question 25 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67459-exam-dp-203-topic-1-question-26-discussion/",
-            "number": 67459,
-            "question": "Exam DP-203 topic 1 question 26 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67461-exam-dp-203-topic-1-question-27-discussion/",
-            "number": 67461,
-            "question": "Exam DP-203 topic 1 question 27 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67462-exam-dp-203-topic-1-question-28-discussion/",
-            "number": 67462,
-            "question": "Exam DP-203 topic 1 question 28 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67463-exam-dp-203-topic-1-question-29-discussion/",
-            "number": 67463,
-            "question": "Exam DP-203 topic 1 question 29 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52163-exam-dp-203-topic-1-question-3-discussion/",
-            "number": 52163,
-            "question": "Exam DP-203 topic 1 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/51818-exam-dp-203-topic-1-question-3-discussion/",
-            "number": 51818,
-            "question": "Exam DP-203 topic 1 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67536-exam-dp-203-topic-1-question-30-discussion/",
-            "number": 67536,
-            "question": "Exam DP-203 topic 1 question 30 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67538-exam-dp-203-topic-1-question-31-discussion/",
-            "number": 67538,
-            "question": "Exam DP-203 topic 1 question 31 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67454-exam-dp-203-topic-1-question-32-discussion/",
-            "number": 67454,
-            "question": "Exam DP-203 topic 1 question 32 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67455-exam-dp-203-topic-1-question-33-discussion/",
-            "number": 67455,
-            "question": "Exam DP-203 topic 1 question 33 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67557-exam-dp-203-topic-1-question-34-discussion/",
-            "number": 67557,
-            "question": "Exam DP-203 topic 1 question 34 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67637-exam-dp-203-topic-1-question-35-discussion/",
-            "number": 67637,
-            "question": "Exam DP-203 topic 1 question 35 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67646-exam-dp-203-topic-1-question-36-discussion/",
-            "number": 67646,
-            "question": "Exam DP-203 topic 1 question 36 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67647-exam-dp-203-topic-1-question-37-discussion/",
-            "number": 67647,
-            "question": "Exam DP-203 topic 1 question 37 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/51384-exam-dp-203-topic-1-question-38-discussion/",
-            "number": 51384,
-            "question": "Exam DP-203 topic 1 question 38 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52251-exam-dp-203-topic-1-question-39-discussion/",
-            "number": 52251,
-            "question": "Exam DP-203 topic 1 question 39 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/51494-exam-dp-203-topic-1-question-4-discussion/",
-            "number": 51494,
-            "question": "Exam DP-203 topic 1 question 4 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74227-exam-dp-203-topic-1-question-4-discussion/",
-            "number": 74227,
-            "question": "Exam DP-203 topic 1 question 4 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67468-exam-dp-203-topic-1-question-40-discussion/",
-            "number": 67468,
-            "question": "Exam DP-203 topic 1 question 40 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67532-exam-dp-203-topic-1-question-41-discussion/",
-            "number": 67532,
-            "question": "Exam DP-203 topic 1 question 41 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67533-exam-dp-203-topic-1-question-42-discussion/",
-            "number": 67533,
-            "question": "Exam DP-203 topic 1 question 42 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67534-exam-dp-203-topic-1-question-43-discussion/",
-            "number": 67534,
-            "question": "Exam DP-203 topic 1 question 43 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/82714-exam-dp-203-topic-1-question-44-discussion/",
-            "number": 82714,
-            "question": "Exam DP-203 topic 1 question 44 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67469-exam-dp-203-topic-1-question-44-discussion/",
-            "number": 67469,
-            "question": "Exam DP-203 topic 1 question 44 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67531-exam-dp-203-topic-1-question-45-discussion/",
-            "number": 67531,
-            "question": "Exam DP-203 topic 1 question 45 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67530-exam-dp-203-topic-1-question-46-discussion/",
-            "number": 67530,
-            "question": "Exam DP-203 topic 1 question 46 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74667-exam-dp-203-topic-1-question-47-discussion/",
-            "number": 74667,
-            "question": "Exam DP-203 topic 1 question 47 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74417-exam-dp-203-topic-1-question-48-discussion/",
-            "number": 74417,
-            "question": "Exam DP-203 topic 1 question 48 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74669-exam-dp-203-topic-1-question-49-discussion/",
-            "number": 74669,
-            "question": "Exam DP-203 topic 1 question 49 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52254-exam-dp-203-topic-1-question-5-discussion/",
-            "number": 52254,
-            "question": "Exam DP-203 topic 1 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74670-exam-dp-203-topic-1-question-50-discussion/",
-            "number": 74670,
-            "question": "Exam DP-203 topic 1 question 50 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74291-exam-dp-203-topic-1-question-51-discussion/",
-            "number": 74291,
-            "question": "Exam DP-203 topic 1 question 51 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75015-exam-dp-203-topic-1-question-52-discussion/",
-            "number": 75015,
-            "question": "Exam DP-203 topic 1 question 52 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75193-exam-dp-203-topic-1-question-53-discussion/",
-            "number": 75193,
-            "question": "Exam DP-203 topic 1 question 53 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74671-exam-dp-203-topic-1-question-54-discussion/",
-            "number": 74671,
-            "question": "Exam DP-203 topic 1 question 54 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75450-exam-dp-203-topic-1-question-55-discussion/",
-            "number": 75450,
-            "question": "Exam DP-203 topic 1 question 55 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74340-exam-dp-203-topic-1-question-56-discussion/",
-            "number": 74340,
-            "question": "Exam DP-203 topic 1 question 56 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/73989-exam-dp-203-topic-1-question-57-discussion/",
-            "number": 73989,
-            "question": "Exam DP-203 topic 1 question 57 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80300-exam-dp-203-topic-1-question-58-discussion/",
-            "number": 80300,
-            "question": "Exam DP-203 topic 1 question 58 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/79019-exam-dp-203-topic-1-question-59-discussion/",
-            "number": 79019,
-            "question": "Exam DP-203 topic 1 question 59 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52149-exam-dp-203-topic-1-question-6-discussion/",
-            "number": 52149,
-            "question": "Exam DP-203 topic 1 question 6 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80428-exam-dp-203-topic-1-question-60-discussion/",
-            "number": 80428,
-            "question": "Exam DP-203 topic 1 question 60 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80470-exam-dp-203-topic-1-question-61-discussion/",
-            "number": 80470,
-            "question": "Exam DP-203 topic 1 question 61 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80469-exam-dp-203-topic-1-question-62-discussion/",
-            "number": 80469,
-            "question": "Exam DP-203 topic 1 question 62 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80467-exam-dp-203-topic-1-question-63-discussion/",
-            "number": 80467,
-            "question": "Exam DP-203 topic 1 question 63 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80471-exam-dp-203-topic-1-question-64-discussion/",
-            "number": 80471,
-            "question": "Exam DP-203 topic 1 question 64 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/79463-exam-dp-203-topic-1-question-65-discussion/",
-            "number": 79463,
-            "question": "Exam DP-203 topic 1 question 65 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80472-exam-dp-203-topic-1-question-66-discussion/",
-            "number": 80472,
-            "question": "Exam DP-203 topic 1 question 66 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80473-exam-dp-203-topic-1-question-67-discussion/",
-            "number": 80473,
-            "question": "Exam DP-203 topic 1 question 67 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/95005-exam-dp-203-topic-1-question-68-discussion/",
-            "number": 95005,
-            "question": "Exam DP-203 topic 1 question 68 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/95064-exam-dp-203-topic-1-question-69-discussion/",
-            "number": 95064,
-            "question": "Exam DP-203 topic 1 question 69 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67438-exam-dp-203-topic-1-question-7-discussion/",
-            "number": 67438,
-            "question": "Exam DP-203 topic 1 question 7 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/94993-exam-dp-203-topic-1-question-70-discussion/",
-            "number": 94993,
-            "question": "Exam DP-203 topic 1 question 70 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/95066-exam-dp-203-topic-1-question-71-discussion/",
-            "number": 95066,
-            "question": "Exam DP-203 topic 1 question 71 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/53010-exam-dp-203-topic-1-question-8-discussion/",
-            "number": 53010,
-            "question": "Exam DP-203 topic 1 question 8 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62129-exam-dp-203-topic-1-question-9-discussion/",
-            "number": 62129,
-            "question": "Exam DP-203 topic 1 question 9 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55639-exam-dp-203-topic-1-question-9-discussion/",
-            "number": 55639,
-            "question": "Exam DP-203 topic 1 question 9 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60716-exam-dp-203-topic-10-question-1-discussion/",
-            "number": 60716,
-            "question": "Exam DP-203 topic 10 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62034-exam-dp-203-topic-2-question-1-discussion/",
-            "number": 62034,
-            "question": "Exam DP-203 topic 2 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62528-exam-dp-203-topic-2-question-10-discussion/",
-            "number": 62528,
-            "question": "Exam DP-203 topic 2 question 10 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61879-exam-dp-203-topic-2-question-11-discussion/",
-            "number": 61879,
-            "question": "Exam DP-203 topic 2 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/56169-exam-dp-203-topic-2-question-11-discussion/",
-            "number": 56169,
-            "question": "Exam DP-203 topic 2 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60391-exam-dp-203-topic-2-question-12-discussion/",
-            "number": 60391,
-            "question": "Exam DP-203 topic 2 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60470-exam-dp-203-topic-2-question-13-discussion/",
-            "number": 60470,
-            "question": "Exam DP-203 topic 2 question 13 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67477-exam-dp-203-topic-2-question-14-discussion/",
-            "number": 67477,
-            "question": "Exam DP-203 topic 2 question 14 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61856-exam-dp-203-topic-2-question-15-discussion/",
-            "number": 61856,
-            "question": "Exam DP-203 topic 2 question 15 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60551-exam-dp-203-topic-2-question-16-discussion/",
-            "number": 60551,
-            "question": "Exam DP-203 topic 2 question 16 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55003-exam-dp-203-topic-2-question-17-discussion/",
-            "number": 55003,
-            "question": "Exam DP-203 topic 2 question 17 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54890-exam-dp-203-topic-2-question-18-discussion/",
-            "number": 54890,
-            "question": "Exam DP-203 topic 2 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55434-exam-dp-203-topic-2-question-19-discussion/",
-            "number": 55434,
-            "question": "Exam DP-203 topic 2 question 19 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60832-exam-dp-203-topic-2-question-2-discussion/",
-            "number": 60832,
-            "question": "Exam DP-203 topic 2 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54230-exam-dp-203-topic-2-question-20-discussion/",
-            "number": 54230,
-            "question": "Exam DP-203 topic 2 question 20 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52573-exam-dp-203-topic-2-question-21-discussion/",
-            "number": 52573,
-            "question": "Exam DP-203 topic 2 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55302-exam-dp-203-topic-2-question-22-discussion/",
-            "number": 55302,
-            "question": "Exam DP-203 topic 2 question 22 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54741-exam-dp-203-topic-2-question-23-discussion/",
-            "number": 54741,
-            "question": "Exam DP-203 topic 2 question 23 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55087-exam-dp-203-topic-2-question-24-discussion/",
-            "number": 55087,
-            "question": "Exam DP-203 topic 2 question 24 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54531-exam-dp-203-topic-2-question-25-discussion/",
-            "number": 54531,
-            "question": "Exam DP-203 topic 2 question 25 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54533-exam-dp-203-topic-2-question-26-discussion/",
-            "number": 54533,
-            "question": "Exam DP-203 topic 2 question 26 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55088-exam-dp-203-topic-2-question-27-discussion/",
-            "number": 55088,
-            "question": "Exam DP-203 topic 2 question 27 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68346-exam-dp-203-topic-2-question-28-discussion/",
-            "number": 68346,
-            "question": "Exam DP-203 topic 2 question 28 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54902-exam-dp-203-topic-2-question-29-discussion/",
-            "number": 54902,
-            "question": "Exam DP-203 topic 2 question 29 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61523-exam-dp-203-topic-2-question-3-discussion/",
-            "number": 61523,
-            "question": "Exam DP-203 topic 2 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55089-exam-dp-203-topic-2-question-30-discussion/",
-            "number": 55089,
-            "question": "Exam DP-203 topic 2 question 30 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55510-exam-dp-203-topic-2-question-31-discussion/",
-            "number": 55510,
-            "question": "Exam DP-203 topic 2 question 31 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74092-exam-dp-203-topic-2-question-32-discussion/",
-            "number": 74092,
-            "question": "Exam DP-203 topic 2 question 32 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52650-exam-dp-203-topic-2-question-33-discussion/",
-            "number": 52650,
-            "question": "Exam DP-203 topic 2 question 33 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/53677-exam-dp-203-topic-2-question-34-discussion/",
-            "number": 53677,
-            "question": "Exam DP-203 topic 2 question 34 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52123-exam-dp-203-topic-2-question-34-discussion/",
-            "number": 52123,
-            "question": "Exam DP-203 topic 2 question 34 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52539-exam-dp-203-topic-2-question-35-discussion/",
-            "number": 52539,
-            "question": "Exam DP-203 topic 2 question 35 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54675-exam-dp-203-topic-2-question-36-discussion/",
-            "number": 54675,
-            "question": "Exam DP-203 topic 2 question 36 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54801-exam-dp-203-topic-2-question-37-discussion/",
-            "number": 54801,
-            "question": "Exam DP-203 topic 2 question 37 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55002-exam-dp-203-topic-2-question-38-discussion/",
-            "number": 55002,
-            "question": "Exam DP-203 topic 2 question 38 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67583-exam-dp-203-topic-2-question-39-discussion/",
-            "number": 67583,
-            "question": "Exam DP-203 topic 2 question 39 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60550-exam-dp-203-topic-2-question-39-discussion/",
-            "number": 60550,
-            "question": "Exam DP-203 topic 2 question 39 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61345-exam-dp-203-topic-2-question-4-discussion/",
-            "number": 61345,
-            "question": "Exam DP-203 topic 2 question 4 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68627-exam-dp-203-topic-2-question-40-discussion/",
-            "number": 68627,
-            "question": "Exam DP-203 topic 2 question 40 discussion"
-        },
-        {
+            "code": 68090,
             "link": "https://www.examtopics.com/discussions/microsoft/view/68090-exam-dp-203-topic-2-question-41-discussion/",
-            "number": 68090,
+            "number": 1,
             "question": "Exam DP-203 topic 2 question 41 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67825-exam-dp-203-topic-2-question-42-discussion/",
-            "number": 67825,
-            "question": "Exam DP-203 topic 2 question 42 discussion"
+            "code": 67532,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67532-exam-dp-203-topic-1-question-41-discussion/",
+            "number": 2,
+            "question": "Exam DP-203 topic 1 question 41 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67703-exam-dp-203-topic-2-question-43-discussion/",
-            "number": 67703,
-            "question": "Exam DP-203 topic 2 question 43 discussion"
+            "code": 74667,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74667-exam-dp-203-topic-1-question-47-discussion/",
+            "number": 3,
+            "question": "Exam DP-203 topic 1 question 47 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67483-exam-dp-203-topic-2-question-44-discussion/",
-            "number": 67483,
-            "question": "Exam DP-203 topic 2 question 44 discussion"
+            "code": 67468,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67468-exam-dp-203-topic-1-question-40-discussion/",
+            "number": 4,
+            "question": "Exam DP-203 topic 1 question 40 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67965-exam-dp-203-topic-2-question-45-discussion/",
-            "number": 67965,
-            "question": "Exam DP-203 topic 2 question 45 discussion"
+            "code": 51384,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51384-exam-dp-203-topic-1-question-38-discussion/",
+            "number": 5,
+            "question": "Exam DP-203 topic 1 question 38 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67485-exam-dp-203-topic-2-question-46-discussion/",
-            "number": 67485,
-            "question": "Exam DP-203 topic 2 question 46 discussion"
+            "code": 67557,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67557-exam-dp-203-topic-1-question-34-discussion/",
+            "number": 6,
+            "question": "Exam DP-203 topic 1 question 34 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68629-exam-dp-203-topic-2-question-47-discussion/",
-            "number": 68629,
-            "question": "Exam DP-203 topic 2 question 47 discussion"
+            "code": 67455,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67455-exam-dp-203-topic-1-question-33-discussion/",
+            "number": 7,
+            "question": "Exam DP-203 topic 1 question 33 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67487-exam-dp-203-topic-2-question-48-discussion/",
-            "number": 67487,
-            "question": "Exam DP-203 topic 2 question 48 discussion"
+            "code": 67462,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67462-exam-dp-203-topic-1-question-28-discussion/",
+            "number": 8,
+            "question": "Exam DP-203 topic 1 question 28 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68237-exam-dp-203-topic-2-question-49-discussion/",
-            "number": 68237,
-            "question": "Exam DP-203 topic 2 question 49 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61527-exam-dp-203-topic-2-question-5-discussion/",
-            "number": 61527,
-            "question": "Exam DP-203 topic 2 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52911-exam-dp-203-topic-2-question-50-discussion/",
-            "number": 52911,
-            "question": "Exam DP-203 topic 2 question 50 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68447-exam-dp-203-topic-2-question-51-discussion/",
-            "number": 68447,
-            "question": "Exam DP-203 topic 2 question 51 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67969-exam-dp-203-topic-2-question-52-discussion/",
-            "number": 67969,
-            "question": "Exam DP-203 topic 2 question 52 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67521-exam-dp-203-topic-2-question-53-discussion/",
-            "number": 67521,
-            "question": "Exam DP-203 topic 2 question 53 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68068-exam-dp-203-topic-2-question-54-discussion/",
-            "number": 68068,
-            "question": "Exam DP-203 topic 2 question 54 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68281-exam-dp-203-topic-2-question-55-discussion/",
-            "number": 68281,
-            "question": "Exam DP-203 topic 2 question 55 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68558-exam-dp-203-topic-2-question-56-discussion/",
-            "number": 68558,
-            "question": "Exam DP-203 topic 2 question 56 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69388-exam-dp-203-topic-2-question-57-discussion/",
-            "number": 69388,
-            "question": "Exam DP-203 topic 2 question 57 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68821-exam-dp-203-topic-2-question-58-discussion/",
-            "number": 68821,
-            "question": "Exam DP-203 topic 2 question 58 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68835-exam-dp-203-topic-2-question-59-discussion/",
-            "number": 68835,
-            "question": "Exam DP-203 topic 2 question 59 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60393-exam-dp-203-topic-2-question-6-discussion/",
-            "number": 60393,
-            "question": "Exam DP-203 topic 2 question 6 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68559-exam-dp-203-topic-2-question-60-discussion/",
-            "number": 68559,
-            "question": "Exam DP-203 topic 2 question 60 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69389-exam-dp-203-topic-2-question-61-discussion/",
-            "number": 69389,
-            "question": "Exam DP-203 topic 2 question 61 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/73939-exam-dp-203-topic-2-question-62-discussion/",
-            "number": 73939,
-            "question": "Exam DP-203 topic 2 question 62 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74332-exam-dp-203-topic-2-question-63-discussion/",
-            "number": 74332,
-            "question": "Exam DP-203 topic 2 question 63 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74334-exam-dp-203-topic-2-question-64-discussion/",
-            "number": 74334,
-            "question": "Exam DP-203 topic 2 question 64 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74335-exam-dp-203-topic-2-question-65-discussion/",
-            "number": 74335,
-            "question": "Exam DP-203 topic 2 question 65 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74336-exam-dp-203-topic-2-question-66-discussion/",
-            "number": 74336,
-            "question": "Exam DP-203 topic 2 question 66 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74446-exam-dp-203-topic-2-question-67-discussion/",
-            "number": 74446,
-            "question": "Exam DP-203 topic 2 question 67 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74226-exam-dp-203-topic-2-question-68-discussion/",
-            "number": 74226,
-            "question": "Exam DP-203 topic 2 question 68 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74724-exam-dp-203-topic-2-question-69-discussion/",
-            "number": 74724,
-            "question": "Exam DP-203 topic 2 question 69 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62041-exam-dp-203-topic-2-question-7-discussion/",
-            "number": 62041,
-            "question": "Exam DP-203 topic 2 question 7 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/76198-exam-dp-203-topic-2-question-70-discussion/",
-            "number": 76198,
-            "question": "Exam DP-203 topic 2 question 70 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/76457-exam-dp-203-topic-2-question-71-discussion/",
-            "number": 76457,
-            "question": "Exam DP-203 topic 2 question 71 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/76974-exam-dp-203-topic-2-question-72-discussion/",
-            "number": 76974,
-            "question": "Exam DP-203 topic 2 question 72 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/76468-exam-dp-203-topic-2-question-73-discussion/",
-            "number": 76468,
-            "question": "Exam DP-203 topic 2 question 73 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/73955-exam-dp-203-topic-2-question-74-discussion/",
-            "number": 73955,
-            "question": "Exam DP-203 topic 2 question 74 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/73956-exam-dp-203-topic-2-question-75-discussion/",
-            "number": 73956,
-            "question": "Exam DP-203 topic 2 question 75 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/76623-exam-dp-203-topic-2-question-76-discussion/",
-            "number": 76623,
-            "question": "Exam DP-203 topic 2 question 76 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75204-exam-dp-203-topic-2-question-77-discussion/",
-            "number": 75204,
-            "question": "Exam DP-203 topic 2 question 77 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80665-exam-dp-203-topic-2-question-78-discussion/",
-            "number": 80665,
-            "question": "Exam DP-203 topic 2 question 78 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80719-exam-dp-203-topic-2-question-79-discussion/",
-            "number": 80719,
-            "question": "Exam DP-203 topic 2 question 79 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60484-exam-dp-203-topic-2-question-8-discussion/",
-            "number": 60484,
-            "question": "Exam DP-203 topic 2 question 8 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/79639-exam-dp-203-topic-2-question-80-discussion/",
-            "number": 79639,
-            "question": "Exam DP-203 topic 2 question 80 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/78654-exam-dp-203-topic-2-question-81-discussion/",
-            "number": 78654,
-            "question": "Exam DP-203 topic 2 question 81 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/83033-exam-dp-203-topic-2-question-82-discussion/",
-            "number": 83033,
-            "question": "Exam DP-203 topic 2 question 82 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80722-exam-dp-203-topic-2-question-83-discussion/",
-            "number": 80722,
-            "question": "Exam DP-203 topic 2 question 83 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/79113-exam-dp-203-topic-2-question-84-discussion/",
-            "number": 79113,
-            "question": "Exam DP-203 topic 2 question 84 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/81557-exam-dp-203-topic-2-question-85-discussion/",
-            "number": 81557,
-            "question": "Exam DP-203 topic 2 question 85 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80744-exam-dp-203-topic-2-question-86-discussion/",
-            "number": 80744,
-            "question": "Exam DP-203 topic 2 question 86 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52912-exam-dp-203-topic-2-question-87-discussion/",
-            "number": 52912,
-            "question": "Exam DP-203 topic 2 question 87 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/53073-exam-dp-203-topic-2-question-88-discussion/",
-            "number": 53073,
-            "question": "Exam DP-203 topic 2 question 88 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80747-exam-dp-203-topic-2-question-89-discussion/",
-            "number": 80747,
-            "question": "Exam DP-203 topic 2 question 89 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61795-exam-dp-203-topic-2-question-9-discussion/",
-            "number": 61795,
-            "question": "Exam DP-203 topic 2 question 9 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80750-exam-dp-203-topic-2-question-90-discussion/",
-            "number": 80750,
-            "question": "Exam DP-203 topic 2 question 90 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/95404-exam-dp-203-topic-2-question-91-discussion/",
-            "number": 95404,
-            "question": "Exam DP-203 topic 2 question 91 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/95362-exam-dp-203-topic-2-question-92-discussion/",
-            "number": 95362,
-            "question": "Exam DP-203 topic 2 question 92 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/95363-exam-dp-203-topic-2-question-93-discussion/",
-            "number": 95363,
-            "question": "Exam DP-203 topic 2 question 93 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52952-exam-dp-203-topic-3-question-1-discussion/",
-            "number": 52952,
-            "question": "Exam DP-203 topic 3 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63170-exam-dp-203-topic-3-question-10-discussion/",
-            "number": 63170,
-            "question": "Exam DP-203 topic 3 question 10 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61988-exam-dp-203-topic-3-question-11-discussion/",
-            "number": 61988,
-            "question": "Exam DP-203 topic 3 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62215-exam-dp-203-topic-3-question-12-discussion/",
-            "number": 62215,
-            "question": "Exam DP-203 topic 3 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/79440-exam-dp-203-topic-3-question-13-discussion/",
-            "number": 79440,
-            "question": "Exam DP-203 topic 3 question 13 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60600-exam-dp-203-topic-3-question-14-discussion/",
-            "number": 60600,
-            "question": "Exam DP-203 topic 3 question 14 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67667-exam-dp-203-topic-3-question-15-discussion/",
-            "number": 67667,
-            "question": "Exam DP-203 topic 3 question 15 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68438-exam-dp-203-topic-3-question-16-discussion/",
-            "number": 68438,
-            "question": "Exam DP-203 topic 3 question 16 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61989-exam-dp-203-topic-3-question-16-discussion/",
-            "number": 61989,
-            "question": "Exam DP-203 topic 3 question 16 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68572-exam-dp-203-topic-3-question-17-discussion/",
-            "number": 68572,
-            "question": "Exam DP-203 topic 3 question 17 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67744-exam-dp-203-topic-3-question-18-discussion/",
-            "number": 67744,
-            "question": "Exam DP-203 topic 3 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68958-exam-dp-203-topic-3-question-19-discussion/",
-            "number": 68958,
-            "question": "Exam DP-203 topic 3 question 19 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52954-exam-dp-203-topic-3-question-2-discussion/",
-            "number": 52954,
-            "question": "Exam DP-203 topic 3 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69575-exam-dp-203-topic-3-question-20-discussion/",
-            "number": 69575,
-            "question": "Exam DP-203 topic 3 question 20 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68573-exam-dp-203-topic-3-question-21-discussion/",
-            "number": 68573,
-            "question": "Exam DP-203 topic 3 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67845-exam-dp-203-topic-3-question-22-discussion/",
-            "number": 67845,
-            "question": "Exam DP-203 topic 3 question 22 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69577-exam-dp-203-topic-3-question-23-discussion/",
-            "number": 69577,
-            "question": "Exam DP-203 topic 3 question 23 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74500-exam-dp-203-topic-3-question-24-discussion/",
-            "number": 74500,
-            "question": "Exam DP-203 topic 3 question 24 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74501-exam-dp-203-topic-3-question-25-discussion/",
-            "number": 74501,
-            "question": "Exam DP-203 topic 3 question 25 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68731-exam-dp-203-topic-3-question-26-discussion/",
-            "number": 68731,
-            "question": "Exam DP-203 topic 3 question 26 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52742-exam-dp-203-topic-3-question-27-discussion/",
-            "number": 52742,
-            "question": "Exam DP-203 topic 3 question 27 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55467-exam-dp-203-topic-3-question-28-discussion/",
-            "number": 55467,
-            "question": "Exam DP-203 topic 3 question 28 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80798-exam-dp-203-topic-3-question-29-discussion/",
-            "number": 80798,
-            "question": "Exam DP-203 topic 3 question 29 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55525-exam-dp-203-topic-3-question-3-discussion/",
-            "number": 55525,
-            "question": "Exam DP-203 topic 3 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80883-exam-dp-203-topic-3-question-30-discussion/",
-            "number": 80883,
-            "question": "Exam DP-203 topic 3 question 30 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/81625-exam-dp-203-topic-3-question-31-discussion/",
-            "number": 81625,
-            "question": "Exam DP-203 topic 3 question 31 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/79373-exam-dp-203-topic-3-question-32-discussion/",
-            "number": 79373,
-            "question": "Exam DP-203 topic 3 question 32 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/95364-exam-dp-203-topic-3-question-33-discussion/",
-            "number": 95364,
-            "question": "Exam DP-203 topic 3 question 33 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52626-exam-dp-203-topic-3-question-4-discussion/",
-            "number": 52626,
-            "question": "Exam DP-203 topic 3 question 4 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62048-exam-dp-203-topic-3-question-5-discussion/",
-            "number": 62048,
-            "question": "Exam DP-203 topic 3 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61695-exam-dp-203-topic-3-question-6-discussion/",
-            "number": 61695,
-            "question": "Exam DP-203 topic 3 question 6 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62049-exam-dp-203-topic-3-question-7-discussion/",
-            "number": 62049,
-            "question": "Exam DP-203 topic 3 question 7 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62050-exam-dp-203-topic-3-question-8-discussion/",
-            "number": 62050,
-            "question": "Exam DP-203 topic 3 question 8 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60567-exam-dp-203-topic-3-question-9-discussion/",
-            "number": 60567,
-            "question": "Exam DP-203 topic 3 question 9 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54544-exam-dp-203-topic-4-question-1-discussion/",
-            "number": 54544,
-            "question": "Exam DP-203 topic 4 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68574-exam-dp-203-topic-4-question-1-discussion/",
-            "number": 68574,
-            "question": "Exam DP-203 topic 4 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62063-exam-dp-203-topic-4-question-10-discussion/",
-            "number": 62063,
-            "question": "Exam DP-203 topic 4 question 10 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62386-exam-dp-203-topic-4-question-11-discussion/",
-            "number": 62386,
-            "question": "Exam DP-203 topic 4 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62369-exam-dp-203-topic-4-question-12-discussion/",
-            "number": 62369,
-            "question": "Exam DP-203 topic 4 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60841-exam-dp-203-topic-4-question-13-discussion/",
-            "number": 60841,
-            "question": "Exam DP-203 topic 4 question 13 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69121-exam-dp-203-topic-4-question-14-discussion/",
-            "number": 69121,
-            "question": "Exam DP-203 topic 4 question 14 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69247-exam-dp-203-topic-4-question-15-discussion/",
-            "number": 69247,
-            "question": "Exam DP-203 topic 4 question 15 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69248-exam-dp-203-topic-4-question-16-discussion/",
-            "number": 69248,
-            "question": "Exam DP-203 topic 4 question 16 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67733-exam-dp-203-topic-4-question-17-discussion/",
-            "number": 67733,
-            "question": "Exam DP-203 topic 4 question 17 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68471-exam-dp-203-topic-4-question-18-discussion/",
-            "number": 68471,
-            "question": "Exam DP-203 topic 4 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69251-exam-dp-203-topic-4-question-19-discussion/",
-            "number": 69251,
-            "question": "Exam DP-203 topic 4 question 19 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54909-exam-dp-203-topic-4-question-2-discussion/",
-            "number": 54909,
-            "question": "Exam DP-203 topic 4 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69803-exam-dp-203-topic-4-question-20-discussion/",
-            "number": 69803,
-            "question": "Exam DP-203 topic 4 question 20 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68634-exam-dp-203-topic-4-question-21-discussion/",
-            "number": 68634,
-            "question": "Exam DP-203 topic 4 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67642-exam-dp-203-topic-4-question-22-discussion/",
-            "number": 67642,
-            "question": "Exam DP-203 topic 4 question 22 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67680-exam-dp-203-topic-4-question-23-discussion/",
-            "number": 67680,
-            "question": "Exam DP-203 topic 4 question 23 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74281-exam-dp-203-topic-4-question-24-discussion/",
-            "number": 74281,
-            "question": "Exam DP-203 topic 4 question 24 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74509-exam-dp-203-topic-4-question-25-discussion/",
-            "number": 74509,
-            "question": "Exam DP-203 topic 4 question 25 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74510-exam-dp-203-topic-4-question-26-discussion/",
-            "number": 74510,
-            "question": "Exam DP-203 topic 4 question 26 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/89228-exam-dp-203-topic-4-question-27-discussion/",
-            "number": 89228,
-            "question": "Exam DP-203 topic 4 question 27 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80943-exam-dp-203-topic-4-question-28-discussion/",
-            "number": 80943,
-            "question": "Exam DP-203 topic 4 question 28 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68653-exam-dp-203-topic-4-question-28-discussion/",
-            "number": 68653,
-            "question": "Exam DP-203 topic 4 question 28 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/81913-exam-dp-203-topic-4-question-29-discussion/",
-            "number": 81913,
-            "question": "Exam DP-203 topic 4 question 29 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/56279-exam-dp-203-topic-4-question-3-discussion/",
-            "number": 56279,
-            "question": "Exam DP-203 topic 4 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/86576-exam-dp-203-topic-4-question-30-discussion/",
-            "number": 86576,
-            "question": "Exam DP-203 topic 4 question 30 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/53900-exam-dp-203-topic-4-question-31-discussion/",
-            "number": 53900,
-            "question": "Exam DP-203 topic 4 question 31 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52955-exam-dp-203-topic-4-question-32-discussion/",
-            "number": 52955,
-            "question": "Exam DP-203 topic 4 question 32 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55298-exam-dp-203-topic-4-question-33-discussion/",
-            "number": 55298,
-            "question": "Exam DP-203 topic 4 question 33 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/86591-exam-dp-203-topic-4-question-34-discussion/",
-            "number": 86591,
-            "question": "Exam DP-203 topic 4 question 34 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80948-exam-dp-203-topic-4-question-35-discussion/",
-            "number": 80948,
-            "question": "Exam DP-203 topic 4 question 35 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/81097-exam-dp-203-topic-4-question-36-discussion/",
-            "number": 81097,
-            "question": "Exam DP-203 topic 4 question 36 discussion"
-        },
-        {
+            "code": 93637,
             "link": "https://www.examtopics.com/discussions/microsoft/view/93637-exam-dp-203-topic-4-question-37-discussion/",
-            "number": 93637,
+            "number": 9,
             "question": "Exam DP-203 topic 4 question 37 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/95047-exam-dp-203-topic-4-question-38-discussion/",
-            "number": 95047,
-            "question": "Exam DP-203 topic 4 question 38 discussion"
+            "code": 56279,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56279-exam-dp-203-topic-4-question-3-discussion/",
+            "number": 10,
+            "question": "Exam DP-203 topic 4 question 3 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/95330-exam-dp-203-topic-4-question-39-discussion/",
-            "number": 95330,
-            "question": "Exam DP-203 topic 4 question 39 discussion"
+            "code": 74501,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74501-exam-dp-203-topic-3-question-25-discussion/",
+            "number": 11,
+            "question": "Exam DP-203 topic 3 question 25 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55538-exam-dp-203-topic-4-question-4-discussion/",
-            "number": 55538,
-            "question": "Exam DP-203 topic 4 question 4 discussion"
+            "code": 67667,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67667-exam-dp-203-topic-3-question-15-discussion/",
+            "number": 12,
+            "question": "Exam DP-203 topic 3 question 15 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/95331-exam-dp-203-topic-4-question-40-discussion/",
-            "number": 95331,
-            "question": "Exam DP-203 topic 4 question 40 discussion"
+            "code": 62215,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62215-exam-dp-203-topic-3-question-12-discussion/",
+            "number": 13,
+            "question": "Exam DP-203 topic 3 question 12 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/57163-exam-dp-203-topic-4-question-5-discussion/",
-            "number": 57163,
-            "question": "Exam DP-203 topic 4 question 5 discussion"
+            "code": 60567,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60567-exam-dp-203-topic-3-question-9-discussion/",
+            "number": 14,
+            "question": "Exam DP-203 topic 3 question 9 discussion"
         },
         {
+            "code": 67461,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67461-exam-dp-203-topic-1-question-27-discussion/",
+            "number": 15,
+            "question": "Exam DP-203 topic 1 question 27 discussion"
+        },
+        {
+            "code": 74671,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74671-exam-dp-203-topic-1-question-54-discussion/",
+            "number": 16,
+            "question": "Exam DP-203 topic 1 question 54 discussion"
+        },
+        {
+            "code": 62056,
             "link": "https://www.examtopics.com/discussions/microsoft/view/62056-exam-dp-203-topic-4-question-6-discussion/",
-            "number": 62056,
+            "number": 17,
             "question": "Exam DP-203 topic 4 question 6 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62062-exam-dp-203-topic-4-question-7-discussion/",
-            "number": 62062,
-            "question": "Exam DP-203 topic 4 question 7 discussion"
+            "code": 95363,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95363-exam-dp-203-topic-2-question-93-discussion/",
+            "number": 18,
+            "question": "Exam DP-203 topic 2 question 93 discussion"
         },
         {
+            "code": 80750,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80750-exam-dp-203-topic-2-question-90-discussion/",
+            "number": 19,
+            "question": "Exam DP-203 topic 2 question 90 discussion"
+        },
+        {
+            "code": 73956,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73956-exam-dp-203-topic-2-question-75-discussion/",
+            "number": 20,
+            "question": "Exam DP-203 topic 2 question 75 discussion"
+        },
+        {
+            "code": 78654,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78654-exam-dp-203-topic-2-question-81-discussion/",
+            "number": 21,
+            "question": "Exam DP-203 topic 2 question 81 discussion"
+        },
+        {
+            "code": 80665,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80665-exam-dp-203-topic-2-question-78-discussion/",
+            "number": 22,
+            "question": "Exam DP-203 topic 2 question 78 discussion"
+        },
+        {
+            "code": 95404,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95404-exam-dp-203-topic-2-question-91-discussion/",
+            "number": 23,
+            "question": "Exam DP-203 topic 2 question 91 discussion"
+        },
+        {
+            "code": 74226,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74226-exam-dp-203-topic-2-question-68-discussion/",
+            "number": 24,
+            "question": "Exam DP-203 topic 2 question 68 discussion"
+        },
+        {
+            "code": 74335,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74335-exam-dp-203-topic-2-question-65-discussion/",
+            "number": 25,
+            "question": "Exam DP-203 topic 2 question 65 discussion"
+        },
+        {
+            "code": 74332,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74332-exam-dp-203-topic-2-question-63-discussion/",
+            "number": 26,
+            "question": "Exam DP-203 topic 2 question 63 discussion"
+        },
+        {
+            "code": 73939,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73939-exam-dp-203-topic-2-question-62-discussion/",
+            "number": 27,
+            "question": "Exam DP-203 topic 2 question 62 discussion"
+        },
+        {
+            "code": 67485,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67485-exam-dp-203-topic-2-question-46-discussion/",
+            "number": 28,
+            "question": "Exam DP-203 topic 2 question 46 discussion"
+        },
+        {
+            "code": 54531,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54531-exam-dp-203-topic-2-question-25-discussion/",
+            "number": 29,
+            "question": "Exam DP-203 topic 2 question 25 discussion"
+        },
+        {
+            "code": 55087,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55087-exam-dp-203-topic-2-question-24-discussion/",
+            "number": 30,
+            "question": "Exam DP-203 topic 2 question 24 discussion"
+        },
+        {
+            "code": 60551,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60551-exam-dp-203-topic-2-question-16-discussion/",
+            "number": 31,
+            "question": "Exam DP-203 topic 2 question 16 discussion"
+        },
+        {
+            "code": 61856,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61856-exam-dp-203-topic-2-question-15-discussion/",
+            "number": 32,
+            "question": "Exam DP-203 topic 2 question 15 discussion"
+        },
+        {
+            "code": 60470,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60470-exam-dp-203-topic-2-question-13-discussion/",
+            "number": 33,
+            "question": "Exam DP-203 topic 2 question 13 discussion"
+        },
+        {
+            "code": 61879,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61879-exam-dp-203-topic-2-question-11-discussion/",
+            "number": 34,
+            "question": "Exam DP-203 topic 2 question 11 discussion"
+        },
+        {
+            "code": 61523,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61523-exam-dp-203-topic-2-question-3-discussion/",
+            "number": 35,
+            "question": "Exam DP-203 topic 2 question 3 discussion"
+        },
+        {
+            "code": 60832,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60832-exam-dp-203-topic-2-question-2-discussion/",
+            "number": 36,
+            "question": "Exam DP-203 topic 2 question 2 discussion"
+        },
+        {
+            "code": 79463,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79463-exam-dp-203-topic-1-question-65-discussion/",
+            "number": 37,
+            "question": "Exam DP-203 topic 1 question 65 discussion"
+        },
+        {
+            "code": 80469,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80469-exam-dp-203-topic-1-question-62-discussion/",
+            "number": 38,
+            "question": "Exam DP-203 topic 1 question 62 discussion"
+        },
+        {
+            "code": 68237,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68237-exam-dp-203-topic-2-question-49-discussion/",
+            "number": 39,
+            "question": "Exam DP-203 topic 2 question 49 discussion"
+        },
+        {
+            "code": 79349,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79349-exam-dp-203-topic-1-question-2-discussion/",
+            "number": 40,
+            "question": "Exam DP-203 topic 1 question 2 discussion"
+        },
+        {
+            "code": 95330,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95330-exam-dp-203-topic-4-question-39-discussion/",
+            "number": 41,
+            "question": "Exam DP-203 topic 4 question 39 discussion"
+        },
+        {
+            "code": 87183,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/87183-exam-dp-203-topic-5-question-7-discussion/",
+            "number": 42,
+            "question": "Exam DP-203 topic 5 question 7 discussion"
+        },
+        {
+            "code": 67733,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67733-exam-dp-203-topic-4-question-17-discussion/",
+            "number": 43,
+            "question": "Exam DP-203 topic 4 question 17 discussion"
+        },
+        {
+            "code": 52912,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52912-exam-dp-203-topic-2-question-87-discussion/",
+            "number": 44,
+            "question": "Exam DP-203 topic 2 question 87 discussion"
+        },
+        {
+            "code": 67536,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67536-exam-dp-203-topic-1-question-30-discussion/",
+            "number": 45,
+            "question": "Exam DP-203 topic 1 question 30 discussion"
+        },
+        {
+            "code": 79373,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79373-exam-dp-203-topic-3-question-32-discussion/",
+            "number": 46,
+            "question": "Exam DP-203 topic 3 question 32 discussion"
+        },
+        {
+            "code": 63170,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63170-exam-dp-203-topic-3-question-10-discussion/",
+            "number": 47,
+            "question": "Exam DP-203 topic 3 question 10 discussion"
+        },
+        {
+            "code": 80948,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80948-exam-dp-203-topic-4-question-35-discussion/",
+            "number": 48,
+            "question": "Exam DP-203 topic 4 question 35 discussion"
+        },
+        {
+            "code": 80300,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80300-exam-dp-203-topic-1-question-58-discussion/",
+            "number": 49,
+            "question": "Exam DP-203 topic 1 question 58 discussion"
+        },
+        {
+            "code": 82714,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82714-exam-dp-203-topic-1-question-44-discussion/",
+            "number": 50,
+            "question": "Exam DP-203 topic 1 question 44 discussion"
+        },
+        {
+            "code": 51494,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51494-exam-dp-203-topic-1-question-4-discussion/",
+            "number": 51,
+            "question": "Exam DP-203 topic 1 question 4 discussion"
+        },
+        {
+            "code": 68634,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68634-exam-dp-203-topic-4-question-21-discussion/",
+            "number": 52,
+            "question": "Exam DP-203 topic 4 question 21 discussion"
+        },
+        {
+            "code": 95005,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95005-exam-dp-203-topic-1-question-68-discussion/",
+            "number": 53,
+            "question": "Exam DP-203 topic 1 question 68 discussion"
+        },
+        {
+            "code": 74227,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74227-exam-dp-203-topic-1-question-4-discussion/",
+            "number": 54,
+            "question": "Exam DP-203 topic 1 question 4 discussion"
+        },
+        {
+            "code": 67538,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67538-exam-dp-203-topic-1-question-31-discussion/",
+            "number": 55,
+            "question": "Exam DP-203 topic 1 question 31 discussion"
+        },
+        {
+            "code": 74340,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74340-exam-dp-203-topic-1-question-56-discussion/",
+            "number": 56,
+            "question": "Exam DP-203 topic 1 question 56 discussion"
+        },
+        {
+            "code": 74669,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74669-exam-dp-203-topic-1-question-49-discussion/",
+            "number": 57,
+            "question": "Exam DP-203 topic 1 question 49 discussion"
+        },
+        {
+            "code": 61286,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61286-exam-dp-203-topic-1-question-15-discussion/",
+            "number": 58,
+            "question": "Exam DP-203 topic 1 question 15 discussion"
+        },
+        {
+            "code": 60427,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60427-exam-dp-203-topic-1-question-17-discussion/",
+            "number": 59,
+            "question": "Exam DP-203 topic 1 question 17 discussion"
+        },
+        {
+            "code": 53711,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53711-exam-dp-203-topic-1-question-10-discussion/",
+            "number": 60,
+            "question": "Exam DP-203 topic 1 question 10 discussion"
+        },
+        {
+            "code": 62692,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62692-exam-dp-203-topic-6-question-1-discussion/",
+            "number": 61,
+            "question": "Exam DP-203 topic 6 question 1 discussion"
+        },
+        {
+            "code": 83272,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83272-exam-dp-203-topic-5-question-2-discussion/",
+            "number": 62,
+            "question": "Exam DP-203 topic 5 question 2 discussion"
+        },
+        {
+            "code": 74291,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74291-exam-dp-203-topic-1-question-51-discussion/",
+            "number": 63,
+            "question": "Exam DP-203 topic 1 question 51 discussion"
+        },
+        {
+            "code": 80719,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80719-exam-dp-203-topic-2-question-79-discussion/",
+            "number": 64,
+            "question": "Exam DP-203 topic 2 question 79 discussion"
+        },
+        {
+            "code": 67487,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67487-exam-dp-203-topic-2-question-48-discussion/",
+            "number": 65,
+            "question": "Exam DP-203 topic 2 question 48 discussion"
+        },
+        {
+            "code": 53677,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53677-exam-dp-203-topic-2-question-34-discussion/",
+            "number": 66,
+            "question": "Exam DP-203 topic 2 question 34 discussion"
+        },
+        {
+            "code": 69577,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69577-exam-dp-203-topic-3-question-23-discussion/",
+            "number": 67,
+            "question": "Exam DP-203 topic 3 question 23 discussion"
+        },
+        {
+            "code": 67744,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67744-exam-dp-203-topic-3-question-18-discussion/",
+            "number": 68,
+            "question": "Exam DP-203 topic 3 question 18 discussion"
+        },
+        {
+            "code": 53664,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53664-exam-dp-203-topic-1-question-12-discussion/",
+            "number": 69,
+            "question": "Exam DP-203 topic 1 question 12 discussion"
+        },
+        {
+            "code": 68068,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68068-exam-dp-203-topic-2-question-54-discussion/",
+            "number": 70,
+            "question": "Exam DP-203 topic 2 question 54 discussion"
+        },
+        {
+            "code": 67647,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67647-exam-dp-203-topic-1-question-37-discussion/",
+            "number": 71,
+            "question": "Exam DP-203 topic 1 question 37 discussion"
+        },
+        {
+            "code": 67825,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67825-exam-dp-203-topic-2-question-42-discussion/",
+            "number": 72,
+            "question": "Exam DP-203 topic 2 question 42 discussion"
+        },
+        {
+            "code": 76623,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76623-exam-dp-203-topic-2-question-76-discussion/",
+            "number": 73,
+            "question": "Exam DP-203 topic 2 question 76 discussion"
+        },
+        {
+            "code": 67521,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67521-exam-dp-203-topic-2-question-53-discussion/",
+            "number": 74,
+            "question": "Exam DP-203 topic 2 question 53 discussion"
+        },
+        {
+            "code": 53010,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53010-exam-dp-203-topic-1-question-8-discussion/",
+            "number": 75,
+            "question": "Exam DP-203 topic 1 question 8 discussion"
+        },
+        {
+            "code": 67438,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67438-exam-dp-203-topic-1-question-7-discussion/",
+            "number": 76,
+            "question": "Exam DP-203 topic 1 question 7 discussion"
+        },
+        {
+            "code": 52254,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52254-exam-dp-203-topic-1-question-5-discussion/",
+            "number": 77,
+            "question": "Exam DP-203 topic 1 question 5 discussion"
+        },
+        {
+            "code": 67530,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67530-exam-dp-203-topic-1-question-46-discussion/",
+            "number": 78,
+            "question": "Exam DP-203 topic 1 question 46 discussion"
+        },
+        {
+            "code": 54909,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54909-exam-dp-203-topic-4-question-2-discussion/",
+            "number": 79,
+            "question": "Exam DP-203 topic 4 question 2 discussion"
+        },
+        {
+            "code": 60376,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60376-exam-dp-203-topic-1-question-18-discussion/",
+            "number": 80,
+            "question": "Exam DP-203 topic 1 question 18 discussion"
+        },
+        {
+            "code": 94993,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94993-exam-dp-203-topic-1-question-70-discussion/",
+            "number": 81,
+            "question": "Exam DP-203 topic 1 question 70 discussion"
+        },
+        {
+            "code": 80428,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80428-exam-dp-203-topic-1-question-60-discussion/",
+            "number": 82,
+            "question": "Exam DP-203 topic 1 question 60 discussion"
+        },
+        {
+            "code": 54230,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54230-exam-dp-203-topic-2-question-20-discussion/",
+            "number": 83,
+            "question": "Exam DP-203 topic 2 question 20 discussion"
+        },
+        {
+            "code": 95064,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95064-exam-dp-203-topic-1-question-69-discussion/",
+            "number": 84,
+            "question": "Exam DP-203 topic 1 question 69 discussion"
+        },
+        {
+            "code": 74670,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74670-exam-dp-203-topic-1-question-50-discussion/",
+            "number": 85,
+            "question": "Exam DP-203 topic 1 question 50 discussion"
+        },
+        {
+            "code": 67533,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67533-exam-dp-203-topic-1-question-42-discussion/",
+            "number": 86,
+            "question": "Exam DP-203 topic 1 question 42 discussion"
+        },
+        {
+            "code": 52251,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52251-exam-dp-203-topic-1-question-39-discussion/",
+            "number": 87,
+            "question": "Exam DP-203 topic 1 question 39 discussion"
+        },
+        {
+            "code": 67637,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67637-exam-dp-203-topic-1-question-35-discussion/",
+            "number": 88,
+            "question": "Exam DP-203 topic 1 question 35 discussion"
+        },
+        {
+            "code": 75015,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75015-exam-dp-203-topic-1-question-52-discussion/",
+            "number": 89,
+            "question": "Exam DP-203 topic 1 question 52 discussion"
+        },
+        {
+            "code": 62349,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62349-exam-dp-203-topic-1-question-22-discussion/",
+            "number": 90,
+            "question": "Exam DP-203 topic 1 question 22 discussion"
+        },
+        {
+            "code": 60955,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60955-exam-dp-203-topic-1-question-21-discussion/",
+            "number": 91,
+            "question": "Exam DP-203 topic 1 question 21 discussion"
+        },
+        {
+            "code": 61794,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61794-exam-dp-203-topic-1-question-20-discussion/",
+            "number": 92,
+            "question": "Exam DP-203 topic 1 question 20 discussion"
+        },
+        {
+            "code": 60369,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60369-exam-dp-203-topic-1-question-19-discussion/",
+            "number": 93,
+            "question": "Exam DP-203 topic 1 question 19 discussion"
+        },
+        {
+            "code": 60637,
             "link": "https://www.examtopics.com/discussions/microsoft/view/60637-exam-dp-203-topic-4-question-8-discussion/",
-            "number": 60637,
+            "number": 94,
             "question": "Exam DP-203 topic 4 question 8 discussion"
         },
         {
+            "code": 95066,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95066-exam-dp-203-topic-1-question-71-discussion/",
+            "number": 95,
+            "question": "Exam DP-203 topic 1 question 71 discussion"
+        },
+        {
+            "code": 80722,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80722-exam-dp-203-topic-2-question-83-discussion/",
+            "number": 96,
+            "question": "Exam DP-203 topic 2 question 83 discussion"
+        },
+        {
+            "code": 62369,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62369-exam-dp-203-topic-4-question-12-discussion/",
+            "number": 97,
+            "question": "Exam DP-203 topic 4 question 12 discussion"
+        },
+        {
+            "code": 52626,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52626-exam-dp-203-topic-3-question-4-discussion/",
+            "number": 98,
+            "question": "Exam DP-203 topic 3 question 4 discussion"
+        },
+        {
+            "code": 54902,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54902-exam-dp-203-topic-2-question-29-discussion/",
+            "number": 99,
+            "question": "Exam DP-203 topic 2 question 29 discussion"
+        },
+        {
+            "code": 60484,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60484-exam-dp-203-topic-2-question-8-discussion/",
+            "number": 100,
+            "question": "Exam DP-203 topic 2 question 8 discussion"
+        },
+        {
+            "code": 61527,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61527-exam-dp-203-topic-2-question-5-discussion/",
+            "number": 101,
+            "question": "Exam DP-203 topic 2 question 5 discussion"
+        },
+        {
+            "code": 80472,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80472-exam-dp-203-topic-1-question-66-discussion/",
+            "number": 102,
+            "question": "Exam DP-203 topic 1 question 66 discussion"
+        },
+        {
+            "code": 80471,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80471-exam-dp-203-topic-1-question-64-discussion/",
+            "number": 103,
+            "question": "Exam DP-203 topic 1 question 64 discussion"
+        },
+        {
+            "code": 73989,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73989-exam-dp-203-topic-1-question-57-discussion/",
+            "number": 104,
+            "question": "Exam DP-203 topic 1 question 57 discussion"
+        },
+        {
+            "code": 67437,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67437-exam-dp-203-topic-1-question-1-discussion/",
+            "number": 105,
+            "question": "Exam DP-203 topic 1 question 1 discussion"
+        },
+        {
+            "code": 67845,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67845-exam-dp-203-topic-3-question-22-discussion/",
+            "number": 106,
+            "question": "Exam DP-203 topic 3 question 22 discussion"
+        },
+        {
+            "code": 52123,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52123-exam-dp-203-topic-2-question-34-discussion/",
+            "number": 107,
+            "question": "Exam DP-203 topic 2 question 34 discussion"
+        },
+        {
+            "code": 67531,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67531-exam-dp-203-topic-1-question-45-discussion/",
+            "number": 108,
+            "question": "Exam DP-203 topic 1 question 45 discussion"
+        },
+        {
+            "code": 67534,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67534-exam-dp-203-topic-1-question-43-discussion/",
+            "number": 109,
+            "question": "Exam DP-203 topic 1 question 43 discussion"
+        },
+        {
+            "code": 95364,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95364-exam-dp-203-topic-3-question-33-discussion/",
+            "number": 110,
+            "question": "Exam DP-203 topic 3 question 33 discussion"
+        },
+        {
+            "code": 61345,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61345-exam-dp-203-topic-2-question-4-discussion/",
+            "number": 111,
+            "question": "Exam DP-203 topic 2 question 4 discussion"
+        },
+        {
+            "code": 80470,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80470-exam-dp-203-topic-1-question-61-discussion/",
+            "number": 112,
+            "question": "Exam DP-203 topic 1 question 61 discussion"
+        },
+        {
+            "code": 81139,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81139-exam-dp-203-topic-5-question-1-discussion/",
+            "number": 113,
+            "question": "Exam DP-203 topic 5 question 1 discussion"
+        },
+        {
+            "code": 68137,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68137-exam-dp-203-topic-7-question-1-discussion/",
+            "number": 114,
+            "question": "Exam DP-203 topic 7 question 1 discussion"
+        },
+        {
+            "code": 74510,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74510-exam-dp-203-topic-4-question-26-discussion/",
+            "number": 115,
+            "question": "Exam DP-203 topic 4 question 26 discussion"
+        },
+        {
+            "code": 69575,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69575-exam-dp-203-topic-3-question-20-discussion/",
+            "number": 116,
+            "question": "Exam DP-203 topic 3 question 20 discussion"
+        },
+        {
+            "code": 80996,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80996-exam-dp-203-topic-5-question-5-discussion/",
+            "number": 117,
+            "question": "Exam DP-203 topic 5 question 5 discussion"
+        },
+        {
+            "code": 86790,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86790-exam-dp-203-topic-5-question-3-discussion/",
+            "number": 118,
+            "question": "Exam DP-203 topic 5 question 3 discussion"
+        },
+        {
+            "code": 95047,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95047-exam-dp-203-topic-4-question-38-discussion/",
+            "number": 119,
+            "question": "Exam DP-203 topic 4 question 38 discussion"
+        },
+        {
+            "code": 62386,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62386-exam-dp-203-topic-4-question-11-discussion/",
+            "number": 120,
+            "question": "Exam DP-203 topic 4 question 11 discussion"
+        },
+        {
+            "code": 62063,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62063-exam-dp-203-topic-4-question-10-discussion/",
+            "number": 121,
+            "question": "Exam DP-203 topic 4 question 10 discussion"
+        },
+        {
+            "code": 62048,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62048-exam-dp-203-topic-3-question-5-discussion/",
+            "number": 122,
+            "question": "Exam DP-203 topic 3 question 5 discussion"
+        },
+        {
+            "code": 61378,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61378-exam-dp-203-topic-1-question-23-discussion/",
+            "number": 123,
+            "question": "Exam DP-203 topic 1 question 23 discussion"
+        },
+        {
+            "code": 68835,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68835-exam-dp-203-topic-2-question-59-discussion/",
+            "number": 124,
+            "question": "Exam DP-203 topic 2 question 59 discussion"
+        },
+        {
+            "code": 52163,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52163-exam-dp-203-topic-1-question-3-discussion/",
+            "number": 125,
+            "question": "Exam DP-203 topic 1 question 3 discussion"
+        },
+        {
+            "code": 55003,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55003-exam-dp-203-topic-2-question-17-discussion/",
+            "number": 126,
+            "question": "Exam DP-203 topic 2 question 17 discussion"
+        },
+        {
+            "code": 52149,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52149-exam-dp-203-topic-1-question-6-discussion/",
+            "number": 127,
+            "question": "Exam DP-203 topic 1 question 6 discussion"
+        },
+        {
+            "code": 69247,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69247-exam-dp-203-topic-4-question-15-discussion/",
+            "number": 128,
+            "question": "Exam DP-203 topic 4 question 15 discussion"
+        },
+        {
+            "code": 67459,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67459-exam-dp-203-topic-1-question-26-discussion/",
+            "number": 129,
+            "question": "Exam DP-203 topic 1 question 26 discussion"
+        },
+        {
+            "code": 81097,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81097-exam-dp-203-topic-4-question-36-discussion/",
+            "number": 130,
+            "question": "Exam DP-203 topic 4 question 36 discussion"
+        },
+        {
+            "code": 76457,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76457-exam-dp-203-topic-2-question-71-discussion/",
+            "number": 131,
+            "question": "Exam DP-203 topic 2 question 71 discussion"
+        },
+        {
+            "code": 67680,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67680-exam-dp-203-topic-4-question-23-discussion/",
+            "number": 132,
+            "question": "Exam DP-203 topic 4 question 23 discussion"
+        },
+        {
+            "code": 67642,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67642-exam-dp-203-topic-4-question-22-discussion/",
+            "number": 133,
+            "question": "Exam DP-203 topic 4 question 22 discussion"
+        },
+        {
+            "code": 60686,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60686-exam-dp-203-topic-1-question-14-discussion/",
+            "number": 134,
+            "question": "Exam DP-203 topic 1 question 14 discussion"
+        },
+        {
+            "code": 74724,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74724-exam-dp-203-topic-2-question-69-discussion/",
+            "number": 135,
+            "question": "Exam DP-203 topic 2 question 69 discussion"
+        },
+        {
+            "code": 95362,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95362-exam-dp-203-topic-2-question-92-discussion/",
+            "number": 136,
+            "question": "Exam DP-203 topic 2 question 92 discussion"
+        },
+        {
+            "code": 95331,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95331-exam-dp-203-topic-4-question-40-discussion/",
+            "number": 137,
+            "question": "Exam DP-203 topic 4 question 40 discussion"
+        },
+        {
+            "code": 89228,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/89228-exam-dp-203-topic-4-question-27-discussion/",
+            "number": 138,
+            "question": "Exam DP-203 topic 4 question 27 discussion"
+        },
+        {
+            "code": 60780,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60780-exam-dp-203-topic-1-question-16-discussion/",
+            "number": 139,
+            "question": "Exam DP-203 topic 1 question 16 discussion"
+        },
+        {
+            "code": 69121,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69121-exam-dp-203-topic-4-question-14-discussion/",
+            "number": 140,
+            "question": "Exam DP-203 topic 4 question 14 discussion"
+        },
+        {
+            "code": 52539,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52539-exam-dp-203-topic-2-question-35-discussion/",
+            "number": 141,
+            "question": "Exam DP-203 topic 2 question 35 discussion"
+        },
+        {
+            "code": 80473,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80473-exam-dp-203-topic-1-question-67-discussion/",
+            "number": 142,
+            "question": "Exam DP-203 topic 1 question 67 discussion"
+        },
+        {
+            "code": 62034,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62034-exam-dp-203-topic-2-question-1-discussion/",
+            "number": 143,
+            "question": "Exam DP-203 topic 2 question 1 discussion"
+        },
+        {
+            "code": 69388,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69388-exam-dp-203-topic-2-question-57-discussion/",
+            "number": 144,
+            "question": "Exam DP-203 topic 2 question 57 discussion"
+        },
+        {
+            "code": 74500,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74500-exam-dp-203-topic-3-question-24-discussion/",
+            "number": 145,
+            "question": "Exam DP-203 topic 3 question 24 discussion"
+        },
+        {
+            "code": 79639,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79639-exam-dp-203-topic-2-question-80-discussion/",
+            "number": 146,
+            "question": "Exam DP-203 topic 2 question 80 discussion"
+        },
+        {
+            "code": 68985,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68985-exam-dp-203-topic-5-question-5-discussion/",
+            "number": 147,
+            "question": "Exam DP-203 topic 5 question 5 discussion"
+        },
+        {
+            "code": 68572,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68572-exam-dp-203-topic-3-question-17-discussion/",
+            "number": 148,
+            "question": "Exam DP-203 topic 3 question 17 discussion"
+        },
+        {
+            "code": 80467,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80467-exam-dp-203-topic-1-question-63-discussion/",
+            "number": 149,
+            "question": "Exam DP-203 topic 1 question 63 discussion"
+        },
+        {
+            "code": 68346,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68346-exam-dp-203-topic-2-question-28-discussion/",
+            "number": 150,
+            "question": "Exam DP-203 topic 2 question 28 discussion"
+        },
+        {
+            "code": 75204,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75204-exam-dp-203-topic-2-question-77-discussion/",
+            "number": 151,
+            "question": "Exam DP-203 topic 2 question 77 discussion"
+        },
+        {
+            "code": 52650,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52650-exam-dp-203-topic-2-question-33-discussion/",
+            "number": 152,
+            "question": "Exam DP-203 topic 2 question 33 discussion"
+        },
+        {
+            "code": 67460,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67460-exam-dp-203-topic-1-question-25-discussion/",
+            "number": 153,
+            "question": "Exam DP-203 topic 1 question 25 discussion"
+        },
+        {
+            "code": 61695,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61695-exam-dp-203-topic-3-question-6-discussion/",
+            "number": 154,
+            "question": "Exam DP-203 topic 3 question 6 discussion"
+        },
+        {
+            "code": 81557,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81557-exam-dp-203-topic-2-question-85-discussion/",
+            "number": 155,
+            "question": "Exam DP-203 topic 2 question 85 discussion"
+        },
+        {
+            "code": 68821,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68821-exam-dp-203-topic-2-question-58-discussion/",
+            "number": 156,
+            "question": "Exam DP-203 topic 2 question 58 discussion"
+        },
+        {
+            "code": 54741,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54741-exam-dp-203-topic-2-question-23-discussion/",
+            "number": 157,
+            "question": "Exam DP-203 topic 2 question 23 discussion"
+        },
+        {
+            "code": 55002,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55002-exam-dp-203-topic-2-question-38-discussion/",
+            "number": 158,
+            "question": "Exam DP-203 topic 2 question 38 discussion"
+        },
+        {
+            "code": 73955,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73955-exam-dp-203-topic-2-question-74-discussion/",
+            "number": 159,
+            "question": "Exam DP-203 topic 2 question 74 discussion"
+        },
+        {
+            "code": 81625,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81625-exam-dp-203-topic-3-question-31-discussion/",
+            "number": 160,
+            "question": "Exam DP-203 topic 3 question 31 discussion"
+        },
+        {
+            "code": 67703,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67703-exam-dp-203-topic-2-question-43-discussion/",
+            "number": 161,
+            "question": "Exam DP-203 topic 2 question 43 discussion"
+        },
+        {
+            "code": 67965,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67965-exam-dp-203-topic-2-question-45-discussion/",
+            "number": 162,
+            "question": "Exam DP-203 topic 2 question 45 discussion"
+        },
+        {
+            "code": 60600,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60600-exam-dp-203-topic-3-question-14-discussion/",
+            "number": 163,
+            "question": "Exam DP-203 topic 3 question 14 discussion"
+        },
+        {
+            "code": 52121,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52121-exam-dp-203-topic-1-question-13-discussion/",
+            "number": 164,
+            "question": "Exam DP-203 topic 1 question 13 discussion"
+        },
+        {
+            "code": 54529,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54529-exam-dp-203-topic-1-question-11-discussion/",
+            "number": 165,
+            "question": "Exam DP-203 topic 1 question 11 discussion"
+        },
+        {
+            "code": 62129,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62129-exam-dp-203-topic-1-question-9-discussion/",
+            "number": 166,
+            "question": "Exam DP-203 topic 1 question 9 discussion"
+        },
+        {
+            "code": 67463,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67463-exam-dp-203-topic-1-question-29-discussion/",
+            "number": 167,
+            "question": "Exam DP-203 topic 1 question 29 discussion"
+        },
+        {
+            "code": 62480,
             "link": "https://www.examtopics.com/discussions/microsoft/view/62480-exam-dp-203-topic-4-question-9-discussion/",
-            "number": 62480,
+            "number": 168,
             "question": "Exam DP-203 topic 4 question 9 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/81139-exam-dp-203-topic-5-question-1-discussion/",
-            "number": 81139,
-            "question": "Exam DP-203 topic 5 question 1 discussion"
+            "code": 67483,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67483-exam-dp-203-topic-2-question-44-discussion/",
+            "number": 169,
+            "question": "Exam DP-203 topic 2 question 44 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74549-exam-dp-203-topic-5-question-1-discussion/",
-            "number": 74549,
-            "question": "Exam DP-203 topic 5 question 1 discussion"
+            "code": 67646,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67646-exam-dp-203-topic-1-question-36-discussion/",
+            "number": 170,
+            "question": "Exam DP-203 topic 1 question 36 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68136-exam-dp-203-topic-5-question-1-discussion/",
-            "number": 68136,
-            "question": "Exam DP-203 topic 5 question 1 discussion"
+            "code": 55467,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55467-exam-dp-203-topic-3-question-28-discussion/",
+            "number": 171,
+            "question": "Exam DP-203 topic 3 question 28 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60504-exam-dp-203-topic-5-question-1-discussion/",
-            "number": 60504,
-            "question": "Exam DP-203 topic 5 question 1 discussion"
+            "code": 68438,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68438-exam-dp-203-topic-3-question-16-discussion/",
+            "number": 172,
+            "question": "Exam DP-203 topic 3 question 16 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52957-exam-dp-203-topic-5-question-1-discussion/",
-            "number": 52957,
-            "question": "Exam DP-203 topic 5 question 1 discussion"
+            "code": 54544,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54544-exam-dp-203-topic-4-question-1-discussion/",
+            "number": 173,
+            "question": "Exam DP-203 topic 4 question 1 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/83272-exam-dp-203-topic-5-question-2-discussion/",
-            "number": 83272,
-            "question": "Exam DP-203 topic 5 question 2 discussion"
+            "code": 81913,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81913-exam-dp-203-topic-4-question-29-discussion/",
+            "number": 174,
+            "question": "Exam DP-203 topic 4 question 29 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75646-exam-dp-203-topic-5-question-2-discussion/",
-            "number": 75646,
-            "question": "Exam DP-203 topic 5 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68983-exam-dp-203-topic-5-question-2-discussion/",
-            "number": 68983,
-            "question": "Exam DP-203 topic 5 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61313-exam-dp-203-topic-5-question-2-discussion/",
-            "number": 61313,
-            "question": "Exam DP-203 topic 5 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54915-exam-dp-203-topic-5-question-2-discussion/",
-            "number": 54915,
-            "question": "Exam DP-203 topic 5 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/86790-exam-dp-203-topic-5-question-3-discussion/",
-            "number": 86790,
-            "question": "Exam DP-203 topic 5 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75645-exam-dp-203-topic-5-question-3-discussion/",
-            "number": 75645,
-            "question": "Exam DP-203 topic 5 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69929-exam-dp-203-topic-5-question-3-discussion/",
-            "number": 69929,
-            "question": "Exam DP-203 topic 5 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61314-exam-dp-203-topic-5-question-3-discussion/",
-            "number": 61314,
-            "question": "Exam DP-203 topic 5 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/56845-exam-dp-203-topic-5-question-3-discussion/",
-            "number": 56845,
-            "question": "Exam DP-203 topic 5 question 3 discussion"
-        },
-        {
+            "code": 80136,
             "link": "https://www.examtopics.com/discussions/microsoft/view/80136-exam-dp-203-topic-5-question-4-discussion/",
-            "number": 80136,
+            "number": 175,
             "question": "Exam DP-203 topic 5 question 4 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/77013-exam-dp-203-topic-5-question-4-discussion/",
-            "number": 77013,
-            "question": "Exam DP-203 topic 5 question 4 discussion"
+            "code": 80798,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80798-exam-dp-203-topic-3-question-29-discussion/",
+            "number": 176,
+            "question": "Exam DP-203 topic 3 question 29 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/67663-exam-dp-203-topic-5-question-4-discussion/",
-            "number": 67663,
-            "question": "Exam DP-203 topic 5 question 4 discussion"
+            "code": 69389,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69389-exam-dp-203-topic-2-question-61-discussion/",
+            "number": 177,
+            "question": "Exam DP-203 topic 2 question 61 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60512-exam-dp-203-topic-5-question-4-discussion/",
-            "number": 60512,
-            "question": "Exam DP-203 topic 5 question 4 discussion"
+            "code": 67969,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67969-exam-dp-203-topic-2-question-52-discussion/",
+            "number": 178,
+            "question": "Exam DP-203 topic 2 question 52 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80996-exam-dp-203-topic-5-question-5-discussion/",
-            "number": 80996,
-            "question": "Exam DP-203 topic 5 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68985-exam-dp-203-topic-5-question-5-discussion/",
-            "number": 68985,
-            "question": "Exam DP-203 topic 5 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74282-exam-dp-203-topic-5-question-5-discussion/",
-            "number": 74282,
-            "question": "Exam DP-203 topic 5 question 5 discussion"
-        },
-        {
+            "code": 81127,
             "link": "https://www.examtopics.com/discussions/microsoft/view/81127-exam-dp-203-topic-5-question-6-discussion/",
-            "number": 81127,
+            "number": 179,
             "question": "Exam DP-203 topic 5 question 6 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/76475-exam-dp-203-topic-5-question-6-discussion/",
-            "number": 76475,
-            "question": "Exam DP-203 topic 5 question 6 discussion"
+            "code": 60841,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60841-exam-dp-203-topic-4-question-13-discussion/",
+            "number": 180,
+            "question": "Exam DP-203 topic 4 question 13 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69985-exam-dp-203-topic-5-question-6-discussion/",
-            "number": 69985,
-            "question": "Exam DP-203 topic 5 question 6 discussion"
+            "code": 79019,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79019-exam-dp-203-topic-1-question-59-discussion/",
+            "number": 181,
+            "question": "Exam DP-203 topic 1 question 59 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/87183-exam-dp-203-topic-5-question-7-discussion/",
-            "number": 87183,
-            "question": "Exam DP-203 topic 5 question 7 discussion"
+            "code": 60710,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60710-exam-dp-203-topic-9-question-2-discussion/",
+            "number": 182,
+            "question": "Exam DP-203 topic 9 question 2 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74511-exam-dp-203-topic-5-question-7-discussion/",
-            "number": 74511,
-            "question": "Exam DP-203 topic 5 question 7 discussion"
+            "code": 62031,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62031-exam-dp-203-topic-1-question-24-discussion/",
+            "number": 183,
+            "question": "Exam DP-203 topic 1 question 24 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62692-exam-dp-203-topic-6-question-1-discussion/",
-            "number": 62692,
-            "question": "Exam DP-203 topic 6 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/53917-exam-dp-203-topic-6-question-1-discussion/",
-            "number": 53917,
-            "question": "Exam DP-203 topic 6 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/68137-exam-dp-203-topic-7-question-1-discussion/",
-            "number": 68137,
-            "question": "Exam DP-203 topic 7 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52628-exam-dp-203-topic-7-question-1-discussion/",
-            "number": 52628,
-            "question": "Exam DP-203 topic 7 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/54727-exam-dp-203-topic-7-question-2-discussion/",
-            "number": 54727,
-            "question": "Exam DP-203 topic 7 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74647-exam-dp-203-topic-8-question-1-discussion/",
-            "number": 74647,
-            "question": "Exam DP-203 topic 8 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/56846-exam-dp-203-topic-8-question-1-discussion/",
-            "number": 56846,
-            "question": "Exam DP-203 topic 8 question 1 discussion"
-        },
-        {
+            "code": 62088,
             "link": "https://www.examtopics.com/discussions/microsoft/view/62088-exam-dp-203-topic-9-question-1-discussion/",
-            "number": 62088,
+            "number": 184,
             "question": "Exam DP-203 topic 9 question 1 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60710-exam-dp-203-topic-9-question-2-discussion/",
-            "number": 60710,
-            "question": "Exam DP-203 topic 9 question 2 discussion"
+            "code": 52742,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52742-exam-dp-203-topic-3-question-27-discussion/",
+            "number": 185,
+            "question": "Exam DP-203 topic 3 question 27 discussion"
+        },
+        {
+            "code": 60393,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60393-exam-dp-203-topic-2-question-6-discussion/",
+            "number": 186,
+            "question": "Exam DP-203 topic 2 question 6 discussion"
+        },
+        {
+            "code": 53073,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53073-exam-dp-203-topic-2-question-88-discussion/",
+            "number": 187,
+            "question": "Exam DP-203 topic 2 question 88 discussion"
+        },
+        {
+            "code": 79113,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79113-exam-dp-203-topic-2-question-84-discussion/",
+            "number": 188,
+            "question": "Exam DP-203 topic 2 question 84 discussion"
+        },
+        {
+            "code": 67477,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67477-exam-dp-203-topic-2-question-14-discussion/",
+            "number": 189,
+            "question": "Exam DP-203 topic 2 question 14 discussion"
+        },
+        {
+            "code": 52573,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52573-exam-dp-203-topic-2-question-21-discussion/",
+            "number": 190,
+            "question": "Exam DP-203 topic 2 question 21 discussion"
+        },
+        {
+            "code": 86576,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86576-exam-dp-203-topic-4-question-30-discussion/",
+            "number": 191,
+            "question": "Exam DP-203 topic 4 question 30 discussion"
+        },
+        {
+            "code": 54675,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54675-exam-dp-203-topic-2-question-36-discussion/",
+            "number": 192,
+            "question": "Exam DP-203 topic 2 question 36 discussion"
+        },
+        {
+            "code": 52954,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52954-exam-dp-203-topic-3-question-2-discussion/",
+            "number": 193,
+            "question": "Exam DP-203 topic 3 question 2 discussion"
+        },
+        {
+            "code": 80943,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80943-exam-dp-203-topic-4-question-28-discussion/",
+            "number": 194,
+            "question": "Exam DP-203 topic 4 question 28 discussion"
+        },
+        {
+            "code": 60391,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60391-exam-dp-203-topic-2-question-12-discussion/",
+            "number": 195,
+            "question": "Exam DP-203 topic 2 question 12 discussion"
+        },
+        {
+            "code": 55538,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55538-exam-dp-203-topic-4-question-4-discussion/",
+            "number": 196,
+            "question": "Exam DP-203 topic 4 question 4 discussion"
+        },
+        {
+            "code": 80747,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80747-exam-dp-203-topic-2-question-89-discussion/",
+            "number": 197,
+            "question": "Exam DP-203 topic 2 question 89 discussion"
+        },
+        {
+            "code": 80744,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80744-exam-dp-203-topic-2-question-86-discussion/",
+            "number": 198,
+            "question": "Exam DP-203 topic 2 question 86 discussion"
+        },
+        {
+            "code": 83033,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83033-exam-dp-203-topic-2-question-82-discussion/",
+            "number": 199,
+            "question": "Exam DP-203 topic 2 question 82 discussion"
+        },
+        {
+            "code": 68281,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68281-exam-dp-203-topic-2-question-55-discussion/",
+            "number": 200,
+            "question": "Exam DP-203 topic 2 question 55 discussion"
+        },
+        {
+            "code": 54533,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54533-exam-dp-203-topic-2-question-26-discussion/",
+            "number": 201,
+            "question": "Exam DP-203 topic 2 question 26 discussion"
+        },
+        {
+            "code": 52628,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52628-exam-dp-203-topic-7-question-1-discussion/",
+            "number": 202,
+            "question": "Exam DP-203 topic 7 question 1 discussion"
+        },
+        {
+            "code": 67583,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67583-exam-dp-203-topic-2-question-39-discussion/",
+            "number": 203,
+            "question": "Exam DP-203 topic 2 question 39 discussion"
+        },
+        {
+            "code": 86591,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86591-exam-dp-203-topic-4-question-34-discussion/",
+            "number": 204,
+            "question": "Exam DP-203 topic 4 question 34 discussion"
+        },
+        {
+            "code": 79440,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79440-exam-dp-203-topic-3-question-13-discussion/",
+            "number": 205,
+            "question": "Exam DP-203 topic 3 question 13 discussion"
+        },
+        {
+            "code": 61795,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61795-exam-dp-203-topic-2-question-9-discussion/",
+            "number": 206,
+            "question": "Exam DP-203 topic 2 question 9 discussion"
+        },
+        {
+            "code": 55088,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55088-exam-dp-203-topic-2-question-27-discussion/",
+            "number": 207,
+            "question": "Exam DP-203 topic 2 question 27 discussion"
+        },
+        {
+            "code": 62049,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62049-exam-dp-203-topic-3-question-7-discussion/",
+            "number": 208,
+            "question": "Exam DP-203 topic 3 question 7 discussion"
+        },
+        {
+            "code": 54801,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54801-exam-dp-203-topic-2-question-37-discussion/",
+            "number": 209,
+            "question": "Exam DP-203 topic 2 question 37 discussion"
+        },
+        {
+            "code": 75450,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75450-exam-dp-203-topic-1-question-55-discussion/",
+            "number": 210,
+            "question": "Exam DP-203 topic 1 question 55 discussion"
+        },
+        {
+            "code": 55089,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55089-exam-dp-203-topic-2-question-30-discussion/",
+            "number": 211,
+            "question": "Exam DP-203 topic 2 question 30 discussion"
+        },
+        {
+            "code": 75193,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75193-exam-dp-203-topic-1-question-53-discussion/",
+            "number": 212,
+            "question": "Exam DP-203 topic 1 question 53 discussion"
+        },
+        {
+            "code": 62041,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62041-exam-dp-203-topic-2-question-7-discussion/",
+            "number": 213,
+            "question": "Exam DP-203 topic 2 question 7 discussion"
+        },
+        {
+            "code": 52955,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52955-exam-dp-203-topic-4-question-32-discussion/",
+            "number": 214,
+            "question": "Exam DP-203 topic 4 question 32 discussion"
+        },
+        {
+            "code": 80883,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80883-exam-dp-203-topic-3-question-30-discussion/",
+            "number": 215,
+            "question": "Exam DP-203 topic 3 question 30 discussion"
+        },
+        {
+            "code": 61988,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61988-exam-dp-203-topic-3-question-11-discussion/",
+            "number": 216,
+            "question": "Exam DP-203 topic 3 question 11 discussion"
+        },
+        {
+            "code": 55525,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55525-exam-dp-203-topic-3-question-3-discussion/",
+            "number": 217,
+            "question": "Exam DP-203 topic 3 question 3 discussion"
+        },
+        {
+            "code": 55434,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55434-exam-dp-203-topic-2-question-19-discussion/",
+            "number": 218,
+            "question": "Exam DP-203 topic 2 question 19 discussion"
+        },
+        {
+            "code": 68958,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68958-exam-dp-203-topic-3-question-19-discussion/",
+            "number": 219,
+            "question": "Exam DP-203 topic 3 question 19 discussion"
+        },
+        {
+            "code": 74334,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74334-exam-dp-203-topic-2-question-64-discussion/",
+            "number": 220,
+            "question": "Exam DP-203 topic 2 question 64 discussion"
+        },
+        {
+            "code": 74446,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74446-exam-dp-203-topic-2-question-67-discussion/",
+            "number": 221,
+            "question": "Exam DP-203 topic 2 question 67 discussion"
+        },
+        {
+            "code": 74282,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74282-exam-dp-203-topic-5-question-5-discussion/",
+            "number": 222,
+            "question": "Exam DP-203 topic 5 question 5 discussion"
+        },
+        {
+            "code": 75646,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75646-exam-dp-203-topic-5-question-2-discussion/",
+            "number": 223,
+            "question": "Exam DP-203 topic 5 question 2 discussion"
+        },
+        {
+            "code": 60716,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60716-exam-dp-203-topic-10-question-1-discussion/",
+            "number": 224,
+            "question": "Exam DP-203 topic 10 question 1 discussion"
+        },
+        {
+            "code": 74647,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74647-exam-dp-203-topic-8-question-1-discussion/",
+            "number": 225,
+            "question": "Exam DP-203 topic 8 question 1 discussion"
+        },
+        {
+            "code": 74511,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74511-exam-dp-203-topic-5-question-7-discussion/",
+            "number": 226,
+            "question": "Exam DP-203 topic 5 question 7 discussion"
+        },
+        {
+            "code": 76475,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76475-exam-dp-203-topic-5-question-6-discussion/",
+            "number": 227,
+            "question": "Exam DP-203 topic 5 question 6 discussion"
+        },
+        {
+            "code": 77013,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77013-exam-dp-203-topic-5-question-4-discussion/",
+            "number": 228,
+            "question": "Exam DP-203 topic 5 question 4 discussion"
+        },
+        {
+            "code": 75645,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75645-exam-dp-203-topic-5-question-3-discussion/",
+            "number": 229,
+            "question": "Exam DP-203 topic 5 question 3 discussion"
+        },
+        {
+            "code": 74549,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74549-exam-dp-203-topic-5-question-1-discussion/",
+            "number": 230,
+            "question": "Exam DP-203 topic 5 question 1 discussion"
+        },
+        {
+            "code": 74281,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74281-exam-dp-203-topic-4-question-24-discussion/",
+            "number": 231,
+            "question": "Exam DP-203 topic 4 question 24 discussion"
+        },
+        {
+            "code": 69803,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69803-exam-dp-203-topic-4-question-20-discussion/",
+            "number": 232,
+            "question": "Exam DP-203 topic 4 question 20 discussion"
+        },
+        {
+            "code": 69251,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69251-exam-dp-203-topic-4-question-19-discussion/",
+            "number": 233,
+            "question": "Exam DP-203 topic 4 question 19 discussion"
+        },
+        {
+            "code": 68471,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68471-exam-dp-203-topic-4-question-18-discussion/",
+            "number": 234,
+            "question": "Exam DP-203 topic 4 question 18 discussion"
+        },
+        {
+            "code": 69248,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69248-exam-dp-203-topic-4-question-16-discussion/",
+            "number": 235,
+            "question": "Exam DP-203 topic 4 question 16 discussion"
+        },
+        {
+            "code": 62062,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62062-exam-dp-203-topic-4-question-7-discussion/",
+            "number": 236,
+            "question": "Exam DP-203 topic 4 question 7 discussion"
+        },
+        {
+            "code": 57163,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57163-exam-dp-203-topic-4-question-5-discussion/",
+            "number": 237,
+            "question": "Exam DP-203 topic 4 question 5 discussion"
+        },
+        {
+            "code": 55298,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55298-exam-dp-203-topic-4-question-33-discussion/",
+            "number": 238,
+            "question": "Exam DP-203 topic 4 question 33 discussion"
+        },
+        {
+            "code": 53900,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53900-exam-dp-203-topic-4-question-31-discussion/",
+            "number": 239,
+            "question": "Exam DP-203 topic 4 question 31 discussion"
+        },
+        {
+            "code": 68574,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68574-exam-dp-203-topic-4-question-1-discussion/",
+            "number": 240,
+            "question": "Exam DP-203 topic 4 question 1 discussion"
+        },
+        {
+            "code": 68573,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68573-exam-dp-203-topic-3-question-21-discussion/",
+            "number": 241,
+            "question": "Exam DP-203 topic 3 question 21 discussion"
+        },
+        {
+            "code": 51988,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51988-exam-dp-203-topic-1-question-2-discussion/",
+            "number": 242,
+            "question": "Exam DP-203 topic 1 question 2 discussion"
+        },
+        {
+            "code": 61989,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61989-exam-dp-203-topic-3-question-16-discussion/",
+            "number": 243,
+            "question": "Exam DP-203 topic 3 question 16 discussion"
+        },
+        {
+            "code": 62050,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62050-exam-dp-203-topic-3-question-8-discussion/",
+            "number": 244,
+            "question": "Exam DP-203 topic 3 question 8 discussion"
+        },
+        {
+            "code": 52952,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52952-exam-dp-203-topic-3-question-1-discussion/",
+            "number": 245,
+            "question": "Exam DP-203 topic 3 question 1 discussion"
+        },
+        {
+            "code": 68731,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68731-exam-dp-203-topic-3-question-26-discussion/",
+            "number": 246,
+            "question": "Exam DP-203 topic 3 question 26 discussion"
+        },
+        {
+            "code": 76468,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76468-exam-dp-203-topic-2-question-73-discussion/",
+            "number": 247,
+            "question": "Exam DP-203 topic 2 question 73 discussion"
+        },
+        {
+            "code": 76974,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76974-exam-dp-203-topic-2-question-72-discussion/",
+            "number": 248,
+            "question": "Exam DP-203 topic 2 question 72 discussion"
+        },
+        {
+            "code": 76198,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76198-exam-dp-203-topic-2-question-70-discussion/",
+            "number": 249,
+            "question": "Exam DP-203 topic 2 question 70 discussion"
+        },
+        {
+            "code": 74336,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74336-exam-dp-203-topic-2-question-66-discussion/",
+            "number": 250,
+            "question": "Exam DP-203 topic 2 question 66 discussion"
+        },
+        {
+            "code": 68559,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68559-exam-dp-203-topic-2-question-60-discussion/",
+            "number": 251,
+            "question": "Exam DP-203 topic 2 question 60 discussion"
+        },
+        {
+            "code": 68558,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68558-exam-dp-203-topic-2-question-56-discussion/",
+            "number": 252,
+            "question": "Exam DP-203 topic 2 question 56 discussion"
+        },
+        {
+            "code": 68447,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68447-exam-dp-203-topic-2-question-51-discussion/",
+            "number": 253,
+            "question": "Exam DP-203 topic 2 question 51 discussion"
+        },
+        {
+            "code": 68629,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68629-exam-dp-203-topic-2-question-47-discussion/",
+            "number": 254,
+            "question": "Exam DP-203 topic 2 question 47 discussion"
+        },
+        {
+            "code": 68627,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68627-exam-dp-203-topic-2-question-40-discussion/",
+            "number": 255,
+            "question": "Exam DP-203 topic 2 question 40 discussion"
+        },
+        {
+            "code": 74092,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74092-exam-dp-203-topic-2-question-32-discussion/",
+            "number": 256,
+            "question": "Exam DP-203 topic 2 question 32 discussion"
+        },
+        {
+            "code": 55510,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55510-exam-dp-203-topic-2-question-31-discussion/",
+            "number": 257,
+            "question": "Exam DP-203 topic 2 question 31 discussion"
+        },
+        {
+            "code": 54890,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54890-exam-dp-203-topic-2-question-18-discussion/",
+            "number": 258,
+            "question": "Exam DP-203 topic 2 question 18 discussion"
+        },
+        {
+            "code": 74417,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74417-exam-dp-203-topic-1-question-48-discussion/",
+            "number": 259,
+            "question": "Exam DP-203 topic 1 question 48 discussion"
+        },
+        {
+            "code": 67469,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67469-exam-dp-203-topic-1-question-44-discussion/",
+            "number": 260,
+            "question": "Exam DP-203 topic 1 question 44 discussion"
+        },
+        {
+            "code": 67454,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67454-exam-dp-203-topic-1-question-32-discussion/",
+            "number": 261,
+            "question": "Exam DP-203 topic 1 question 32 discussion"
+        },
+        {
+            "code": 62528,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62528-exam-dp-203-topic-2-question-10-discussion/",
+            "number": 262,
+            "question": "Exam DP-203 topic 2 question 10 discussion"
+        },
+        {
+            "code": 74509,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74509-exam-dp-203-topic-4-question-25-discussion/",
+            "number": 263,
+            "question": "Exam DP-203 topic 4 question 25 discussion"
+        },
+        {
+            "code": 52911,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52911-exam-dp-203-topic-2-question-50-discussion/",
+            "number": 264,
+            "question": "Exam DP-203 topic 2 question 50 discussion"
+        },
+        {
+            "code": 74225,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74225-exam-dp-203-topic-1-question-2-discussion/",
+            "number": 265,
+            "question": "Exam DP-203 topic 1 question 2 discussion"
+        },
+        {
+            "code": 67663,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67663-exam-dp-203-topic-5-question-4-discussion/",
+            "number": 266,
+            "question": "Exam DP-203 topic 5 question 4 discussion"
+        },
+        {
+            "code": 68653,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68653-exam-dp-203-topic-4-question-28-discussion/",
+            "number": 267,
+            "question": "Exam DP-203 topic 4 question 28 discussion"
+        },
+        {
+            "code": 68983,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68983-exam-dp-203-topic-5-question-2-discussion/",
+            "number": 268,
+            "question": "Exam DP-203 topic 5 question 2 discussion"
+        },
+        {
+            "code": 68136,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/68136-exam-dp-203-topic-5-question-1-discussion/",
+            "number": 269,
+            "question": "Exam DP-203 topic 5 question 1 discussion"
+        },
+        {
+            "code": 69985,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69985-exam-dp-203-topic-5-question-6-discussion/",
+            "number": 270,
+            "question": "Exam DP-203 topic 5 question 6 discussion"
+        },
+        {
+            "code": 69929,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69929-exam-dp-203-topic-5-question-3-discussion/",
+            "number": 271,
+            "question": "Exam DP-203 topic 5 question 3 discussion"
+        },
+        {
+            "code": 51818,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51818-exam-dp-203-topic-1-question-3-discussion/",
+            "number": 272,
+            "question": "Exam DP-203 topic 1 question 3 discussion"
+        },
+        {
+            "code": 60550,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60550-exam-dp-203-topic-2-question-39-discussion/",
+            "number": 273,
+            "question": "Exam DP-203 topic 2 question 39 discussion"
+        },
+        {
+            "code": 60512,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60512-exam-dp-203-topic-5-question-4-discussion/",
+            "number": 274,
+            "question": "Exam DP-203 topic 5 question 4 discussion"
+        },
+        {
+            "code": 60504,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60504-exam-dp-203-topic-5-question-1-discussion/",
+            "number": 275,
+            "question": "Exam DP-203 topic 5 question 1 discussion"
+        },
+        {
+            "code": 56169,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56169-exam-dp-203-topic-2-question-11-discussion/",
+            "number": 276,
+            "question": "Exam DP-203 topic 2 question 11 discussion"
+        },
+        {
+            "code": 61313,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61313-exam-dp-203-topic-5-question-2-discussion/",
+            "number": 277,
+            "question": "Exam DP-203 topic 5 question 2 discussion"
+        },
+        {
+            "code": 55639,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55639-exam-dp-203-topic-1-question-9-discussion/",
+            "number": 278,
+            "question": "Exam DP-203 topic 1 question 9 discussion"
+        },
+        {
+            "code": 52957,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52957-exam-dp-203-topic-5-question-1-discussion/",
+            "number": 279,
+            "question": "Exam DP-203 topic 5 question 1 discussion"
+        },
+        {
+            "code": 61314,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61314-exam-dp-203-topic-5-question-3-discussion/",
+            "number": 280,
+            "question": "Exam DP-203 topic 5 question 3 discussion"
+        },
+        {
+            "code": 53662,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53662-exam-dp-203-topic-1-question-11-discussion/",
+            "number": 281,
+            "question": "Exam DP-203 topic 1 question 11 discussion"
+        },
+        {
+            "code": 53917,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53917-exam-dp-203-topic-6-question-1-discussion/",
+            "number": 282,
+            "question": "Exam DP-203 topic 6 question 1 discussion"
+        },
+        {
+            "code": 56846,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56846-exam-dp-203-topic-8-question-1-discussion/",
+            "number": 283,
+            "question": "Exam DP-203 topic 8 question 1 discussion"
+        },
+        {
+            "code": 56845,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56845-exam-dp-203-topic-5-question-3-discussion/",
+            "number": 284,
+            "question": "Exam DP-203 topic 5 question 3 discussion"
+        },
+        {
+            "code": 54727,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54727-exam-dp-203-topic-7-question-2-discussion/",
+            "number": 285,
+            "question": "Exam DP-203 topic 7 question 2 discussion"
+        },
+        {
+            "code": 54915,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54915-exam-dp-203-topic-5-question-2-discussion/",
+            "number": 286,
+            "question": "Exam DP-203 topic 5 question 2 discussion"
         }
     ]
 }

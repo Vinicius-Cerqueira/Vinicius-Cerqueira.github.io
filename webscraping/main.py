@@ -20,19 +20,21 @@ class Questions:
         for question in soup.find_all(href=re.compile(self.exam)):
             title = " ".join(question.string.split())
             link = 'https://www.examtopics.com'+question['href']
-            # this number is extract using regular expression in python to remove the number from a string like this: /discussions/microsoft/view/51459-exam-az-104-topic-5-question-43-discussion/
-            number = re.search(
+            # this code is extracted using regular expression in python to remove the code from a string like this: /discussions/microsoft/view/51459-exam-az-104-topic-5-question-43-discussion/
+            code = re.search(
                 r"/discussions/microsoft/view/(\d+)-[\w-]+/\Z", question['href']).group(1)
-            self.addQuestion(Question(int(number), title, link))
+            self.addQuestion(
+                Question(int(code), title, link, len(self.questions)+1))
 
     def writeJSON(self):
         return self.file.write(self.toJSON())
 
 
 class Question:
-    def __init__(self, number, question, link):
+    def __init__(self, code, question, link, number):
         self.question = question
         self.link = link
+        self.code = code
         self.number = number
 
 
@@ -83,35 +85,21 @@ if __name__ == '__main__':
         find_questions(page)
         print(page)
 
-    for page in range(1001, 1208):
+    for page in range(1001, 1211):
         find_questions(page)
         print(page)
 
-    ai102.questions.sort(key=lambda x: x.question)
     ai102.writeJSON()
-    az104.questions.sort(key=lambda x: x.question)
     az104.writeJSON()
-    az204.questions.sort(key=lambda x: x.question)
     az204.writeJSON()
-    az220.questions.sort(key=lambda x: x.question)
     az220.writeJSON()
-    az305.questions.sort(key=lambda x: x.question)
     az305.writeJSON()
-    az400.questions.sort(key=lambda x: x.question)
     az400.writeJSON()
-    dp100.questions.sort(key=lambda x: x.question)
     dp100.writeJSON()
-    dp203.questions.sort(key=lambda x: x.question)
     dp203.writeJSON()
-    dp300.questions.sort(key=lambda x: x.question)
     dp300.writeJSON()
-    dp420.questions.sort(key=lambda x: x.question)
     dp420.writeJSON()
-    pl200.questions.sort(key=lambda x: x.question)
     pl200.writeJSON()
-    pl300.questions.sort(key=lambda x: x.question)
     pl300.writeJSON()
-    pl400.questions.sort(key=lambda x: x.question)
     pl400.writeJSON()
-    pl600.questions.sort(key=lambda x: x.question)
     pl600.writeJSON()

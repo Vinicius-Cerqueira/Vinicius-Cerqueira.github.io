@@ -1,16 +1,14 @@
-a {
-  color: black;
+.clicked {
   text-decoration: none;
-}
-
-table {
-  max-width: 1120px;
-  margin: 2rem auto;
+  color: black;
+  font-size: large;
+  display: inline-block;
   padding: 2rem;
-  border: 1px solid black;
+  border-radius: 1rem;
+  transition: 0.3s;
 }
 
-tr:hover {
-  background-color: aqua;
-  border: 1px solid black;
+.clicked:hover {
+  font-weight: bold;
+  background-color: rgb(126, 204, 255);
 }

@@ -29,20 +29,20 @@ const router = createHashRouter([
     element: <App data={ai102Data} />
   },
   {
+    path: "az-220/",
+    element: <App data={az220Data} />
+  },
+  {
+    path: "az-305/",
+    element: <App data={az305Data} />
+  },
+  {
     path: "az-104/",
     element: <App data={az104Data} />
   },
   {
     path: "az-204/",
     element: <App data={az204Data} />
-  },
-  {
-    path: "az-220/",
-    element: <App data={az104Data} />
-  },
-  {
-    path: "az-305/",
-    element: <App data={az104Data} />
   },
   {
     path: "az-400/",

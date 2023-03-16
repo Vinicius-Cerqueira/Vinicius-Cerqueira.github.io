@@ -5,1359 +5,1630 @@
     },
     "questions": [
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/41948-exam-dp-300-topic-1-question-1-discussion/",
-            "number": 41948,
-            "question": "Exam DP-300 topic 1 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60366-exam-dp-300-topic-1-question-10-discussion/",
-            "number": 60366,
-            "question": "Exam DP-300 topic 1 question 10 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60367-exam-dp-300-topic-1-question-11-discussion/",
-            "number": 60367,
-            "question": "Exam DP-300 topic 1 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60368-exam-dp-300-topic-1-question-12-discussion/",
-            "number": 60368,
-            "question": "Exam DP-300 topic 1 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60055-exam-dp-300-topic-1-question-13-discussion/",
-            "number": 60055,
-            "question": "Exam DP-300 topic 1 question 13 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60133-exam-dp-300-topic-1-question-14-discussion/",
-            "number": 60133,
-            "question": "Exam DP-300 topic 1 question 14 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60921-exam-dp-300-topic-1-question-15-discussion/",
-            "number": 60921,
-            "question": "Exam DP-300 topic 1 question 15 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63441-exam-dp-300-topic-1-question-16-discussion/",
-            "number": 63441,
-            "question": "Exam DP-300 topic 1 question 16 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60371-exam-dp-300-topic-1-question-17-discussion/",
-            "number": 60371,
-            "question": "Exam DP-300 topic 1 question 17 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60372-exam-dp-300-topic-1-question-18-discussion/",
-            "number": 60372,
-            "question": "Exam DP-300 topic 1 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63470-exam-dp-300-topic-1-question-19-discussion/",
-            "number": 63470,
-            "question": "Exam DP-300 topic 1 question 19 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/44361-exam-dp-300-topic-1-question-2-discussion/",
-            "number": 44361,
-            "question": "Exam DP-300 topic 1 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63471-exam-dp-300-topic-1-question-20-discussion/",
-            "number": 63471,
-            "question": "Exam DP-300 topic 1 question 20 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60855-exam-dp-300-topic-1-question-21-discussion/",
-            "number": 60855,
-            "question": "Exam DP-300 topic 1 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60331-exam-dp-300-topic-1-question-22-discussion/",
-            "number": 60331,
-            "question": "Exam DP-300 topic 1 question 22 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60273-exam-dp-300-topic-1-question-23-discussion/",
-            "number": 60273,
-            "question": "Exam DP-300 topic 1 question 23 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/66307-exam-dp-300-topic-1-question-24-discussion/",
-            "number": 66307,
-            "question": "Exam DP-300 topic 1 question 24 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/66264-exam-dp-300-topic-1-question-25-discussion/",
-            "number": 66264,
-            "question": "Exam DP-300 topic 1 question 25 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/66265-exam-dp-300-topic-1-question-26-discussion/",
-            "number": 66265,
-            "question": "Exam DP-300 topic 1 question 26 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63619-exam-dp-300-topic-1-question-27-discussion/",
-            "number": 63619,
-            "question": "Exam DP-300 topic 1 question 27 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60475-exam-dp-300-topic-1-question-28-discussion/",
-            "number": 60475,
-            "question": "Exam DP-300 topic 1 question 28 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/77350-exam-dp-300-topic-1-question-29-discussion/",
-            "number": 77350,
-            "question": "Exam DP-300 topic 1 question 29 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62886-exam-dp-300-topic-1-question-29-discussion/",
-            "number": 62886,
-            "question": "Exam DP-300 topic 1 question 29 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63218-exam-dp-300-topic-1-question-3-discussion/",
-            "number": 63218,
-            "question": "Exam DP-300 topic 1 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/34972-exam-dp-300-topic-1-question-3-discussion/",
-            "number": 34972,
-            "question": "Exam DP-300 topic 1 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62887-exam-dp-300-topic-1-question-30-discussion/",
-            "number": 62887,
-            "question": "Exam DP-300 topic 1 question 30 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62149-exam-dp-300-topic-1-question-31-discussion/",
-            "number": 62149,
-            "question": "Exam DP-300 topic 1 question 31 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63048-exam-dp-300-topic-1-question-32-discussion/",
-            "number": 63048,
-            "question": "Exam DP-300 topic 1 question 32 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62882-exam-dp-300-topic-1-question-33-discussion/",
-            "number": 62882,
-            "question": "Exam DP-300 topic 1 question 33 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74584-exam-dp-300-topic-1-question-34-discussion/",
-            "number": 74584,
-            "question": "Exam DP-300 topic 1 question 34 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74711-exam-dp-300-topic-1-question-35-discussion/",
-            "number": 74711,
-            "question": "Exam DP-300 topic 1 question 35 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74710-exam-dp-300-topic-1-question-36-discussion/",
-            "number": 74710,
-            "question": "Exam DP-300 topic 1 question 36 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74712-exam-dp-300-topic-1-question-37-discussion/",
-            "number": 74712,
-            "question": "Exam DP-300 topic 1 question 37 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/86065-exam-dp-300-topic-1-question-38-discussion/",
-            "number": 86065,
-            "question": "Exam DP-300 topic 1 question 38 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/87354-exam-dp-300-topic-1-question-39-discussion/",
-            "number": 87354,
-            "question": "Exam DP-300 topic 1 question 39 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60884-exam-dp-300-topic-1-question-4-discussion/",
-            "number": 60884,
-            "question": "Exam DP-300 topic 1 question 4 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/98777-exam-dp-300-topic-1-question-40-discussion/",
-            "number": 98777,
-            "question": "Exam DP-300 topic 1 question 40 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/99770-exam-dp-300-topic-1-question-41-discussion/",
-            "number": 99770,
-            "question": "Exam DP-300 topic 1 question 41 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/96909-exam-dp-300-topic-1-question-42-discussion/",
-            "number": 96909,
-            "question": "Exam DP-300 topic 1 question 42 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63219-exam-dp-300-topic-1-question-5-discussion/",
-            "number": 63219,
-            "question": "Exam DP-300 topic 1 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/25248-exam-dp-300-topic-1-question-5-discussion/",
-            "number": 25248,
-            "question": "Exam DP-300 topic 1 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/98419-exam-dp-300-topic-1-question-6-discussion/",
-            "number": 98419,
-            "question": "Exam DP-300 topic 1 question 6 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/41946-exam-dp-300-topic-1-question-6-discussion/",
-            "number": 41946,
-            "question": "Exam DP-300 topic 1 question 6 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/41947-exam-dp-300-topic-1-question-7-discussion/",
-            "number": 41947,
-            "question": "Exam DP-300 topic 1 question 7 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60328-exam-dp-300-topic-1-question-8-discussion/",
-            "number": 60328,
-            "question": "Exam DP-300 topic 1 question 8 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60365-exam-dp-300-topic-1-question-9-discussion/",
-            "number": 60365,
-            "question": "Exam DP-300 topic 1 question 9 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65419-exam-dp-300-topic-10-question-1-discussion/",
-            "number": 65419,
-            "question": "Exam DP-300 topic 10 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/39428-exam-dp-300-topic-10-question-1-discussion/",
-            "number": 39428,
-            "question": "Exam DP-300 topic 10 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65420-exam-dp-300-topic-11-question-1-discussion/",
-            "number": 65420,
-            "question": "Exam DP-300 topic 11 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/27152-exam-dp-300-topic-11-question-1-discussion/",
-            "number": 27152,
-            "question": "Exam DP-300 topic 11 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47920-exam-dp-300-topic-11-question-2-discussion/",
-            "number": 47920,
-            "question": "Exam DP-300 topic 11 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47921-exam-dp-300-topic-11-question-3-discussion/",
-            "number": 47921,
-            "question": "Exam DP-300 topic 11 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/59637-exam-dp-300-topic-12-question-1-discussion/",
-            "number": 59637,
-            "question": "Exam DP-300 topic 12 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/45876-exam-dp-300-topic-12-question-1-discussion/",
-            "number": 45876,
-            "question": "Exam DP-300 topic 12 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/48006-exam-dp-300-topic-13-question-1-discussion/",
-            "number": 48006,
-            "question": "Exam DP-300 topic 13 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/53745-exam-dp-300-topic-13-question-2-discussion/",
-            "number": 53745,
-            "question": "Exam DP-300 topic 13 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/49773-exam-dp-300-topic-14-question-1-discussion/",
-            "number": 49773,
-            "question": "Exam DP-300 topic 14 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47122-exam-dp-300-topic-14-question-2-discussion/",
-            "number": 47122,
-            "question": "Exam DP-300 topic 14 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65414-exam-dp-300-topic-15-question-1-discussion/",
-            "number": 65414,
-            "question": "Exam DP-300 topic 15 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47124-exam-dp-300-topic-15-question-1-discussion/",
-            "number": 47124,
-            "question": "Exam DP-300 topic 15 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65415-exam-dp-300-topic-15-question-2-discussion/",
-            "number": 65415,
-            "question": "Exam DP-300 topic 15 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61852-exam-dp-300-topic-15-question-3-discussion/",
-            "number": 61852,
-            "question": "Exam DP-300 topic 15 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/71349-exam-dp-300-topic-16-question-1-discussion/",
-            "number": 71349,
-            "question": "Exam DP-300 topic 16 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/53744-exam-dp-300-topic-16-question-2-discussion/",
-            "number": 53744,
-            "question": "Exam DP-300 topic 16 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/48423-exam-dp-300-topic-17-question-1-discussion/",
-            "number": 48423,
-            "question": "Exam DP-300 topic 17 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60869-exam-dp-300-topic-17-question-2-discussion/",
-            "number": 60869,
-            "question": "Exam DP-300 topic 17 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69175-exam-dp-300-topic-17-question-3-discussion/",
-            "number": 69175,
-            "question": "Exam DP-300 topic 17 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47123-exam-dp-300-topic-18-question-1-discussion/",
-            "number": 47123,
-            "question": "Exam DP-300 topic 18 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/48008-exam-dp-300-topic-19-question-1-discussion/",
-            "number": 48008,
-            "question": "Exam DP-300 topic 19 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/52446-exam-dp-300-topic-19-question-2-discussion/",
-            "number": 52446,
-            "question": "Exam DP-300 topic 19 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62153-exam-dp-300-topic-2-question-1-discussion/",
-            "number": 62153,
-            "question": "Exam DP-300 topic 2 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/39151-exam-dp-300-topic-2-question-1-discussion/",
-            "number": 39151,
-            "question": "Exam DP-300 topic 2 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/66226-exam-dp-300-topic-2-question-10-discussion/",
-            "number": 66226,
-            "question": "Exam DP-300 topic 2 question 10 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63134-exam-dp-300-topic-2-question-11-discussion/",
-            "number": 63134,
-            "question": "Exam DP-300 topic 2 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/66162-exam-dp-300-topic-2-question-12-discussion/",
-            "number": 66162,
-            "question": "Exam DP-300 topic 2 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65623-exam-dp-300-topic-2-question-13-discussion/",
-            "number": 65623,
-            "question": "Exam DP-300 topic 2 question 13 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65490-exam-dp-300-topic-2-question-14-discussion/",
-            "number": 65490,
-            "question": "Exam DP-300 topic 2 question 14 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/66152-exam-dp-300-topic-2-question-15-discussion/",
-            "number": 66152,
-            "question": "Exam DP-300 topic 2 question 15 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65719-exam-dp-300-topic-2-question-16-discussion/",
-            "number": 65719,
-            "question": "Exam DP-300 topic 2 question 16 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62199-exam-dp-300-topic-2-question-17-discussion/",
-            "number": 62199,
-            "question": "Exam DP-300 topic 2 question 17 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/48387-exam-dp-300-topic-2-question-18-discussion/",
-            "number": 48387,
-            "question": "Exam DP-300 topic 2 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/77259-exam-dp-300-topic-2-question-19-discussion/",
-            "number": 77259,
-            "question": "Exam DP-300 topic 2 question 19 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/41949-exam-dp-300-topic-2-question-2-discussion/",
-            "number": 41949,
-            "question": "Exam DP-300 topic 2 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/76579-exam-dp-300-topic-2-question-20-discussion/",
-            "number": 76579,
-            "question": "Exam DP-300 topic 2 question 20 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/87357-exam-dp-300-topic-2-question-21-discussion/",
-            "number": 87357,
-            "question": "Exam DP-300 topic 2 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/84025-exam-dp-300-topic-2-question-22-discussion/",
-            "number": 84025,
-            "question": "Exam DP-300 topic 2 question 22 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/83525-exam-dp-300-topic-2-question-23-discussion/",
-            "number": 83525,
-            "question": "Exam DP-300 topic 2 question 23 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/82730-exam-dp-300-topic-2-question-24-discussion/",
-            "number": 82730,
-            "question": "Exam DP-300 topic 2 question 24 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/97754-exam-dp-300-topic-2-question-25-discussion/",
-            "number": 97754,
-            "question": "Exam DP-300 topic 2 question 25 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/101746-exam-dp-300-topic-2-question-26-discussion/",
-            "number": 101746,
-            "question": "Exam DP-300 topic 2 question 26 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/97756-exam-dp-300-topic-2-question-27-discussion/",
-            "number": 97756,
-            "question": "Exam DP-300 topic 2 question 27 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/96595-exam-dp-300-topic-2-question-28-discussion/",
-            "number": 96595,
-            "question": "Exam DP-300 topic 2 question 28 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/100369-exam-dp-300-topic-2-question-29-discussion/",
-            "number": 100369,
-            "question": "Exam DP-300 topic 2 question 29 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/37270-exam-dp-300-topic-2-question-3-discussion/",
-            "number": 37270,
-            "question": "Exam DP-300 topic 2 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/30419-exam-dp-300-topic-2-question-3-discussion/",
-            "number": 30419,
-            "question": "Exam DP-300 topic 2 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/100177-exam-dp-300-topic-2-question-30-discussion/",
-            "number": 100177,
-            "question": "Exam DP-300 topic 2 question 30 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/96270-exam-dp-300-topic-2-question-31-discussion/",
-            "number": 96270,
-            "question": "Exam DP-300 topic 2 question 31 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/97757-exam-dp-300-topic-2-question-32-discussion/",
-            "number": 97757,
-            "question": "Exam DP-300 topic 2 question 32 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/96743-exam-dp-300-topic-2-question-33-discussion/",
-            "number": 96743,
-            "question": "Exam DP-300 topic 2 question 33 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/96735-exam-dp-300-topic-2-question-34-discussion/",
-            "number": 96735,
-            "question": "Exam DP-300 topic 2 question 34 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/35008-exam-dp-300-topic-2-question-4-discussion/",
-            "number": 35008,
-            "question": "Exam DP-300 topic 2 question 4 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/45609-exam-dp-300-topic-2-question-5-discussion/",
-            "number": 45609,
-            "question": "Exam DP-300 topic 2 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55054-exam-dp-300-topic-2-question-6-discussion/",
-            "number": 55054,
-            "question": "Exam DP-300 topic 2 question 6 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/50795-exam-dp-300-topic-2-question-7-discussion/",
-            "number": 50795,
-            "question": "Exam DP-300 topic 2 question 7 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/56191-exam-dp-300-topic-2-question-8-discussion/",
-            "number": 56191,
-            "question": "Exam DP-300 topic 2 question 8 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/101182-exam-dp-300-topic-2-question-9-discussion/",
-            "number": 101182,
-            "question": "Exam DP-300 topic 2 question 9 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/69174-exam-dp-300-topic-20-question-1-discussion/",
-            "number": 69174,
-            "question": "Exam DP-300 topic 20 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65600-exam-dp-300-topic-20-question-2-discussion/",
-            "number": 65600,
-            "question": "Exam DP-300 topic 20 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/96567-exam-dp-300-topic-21-question-1-discussion/",
-            "number": 96567,
-            "question": "Exam DP-300 topic 21 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47190-exam-dp-300-topic-21-question-1-discussion/",
-            "number": 47190,
-            "question": "Exam DP-300 topic 21 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/28027-exam-dp-300-topic-3-question-1-discussion/",
-            "number": 28027,
-            "question": "Exam DP-300 topic 3 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65833-exam-dp-300-topic-3-question-10-discussion/",
-            "number": 65833,
-            "question": "Exam DP-300 topic 3 question 10 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/59924-exam-dp-300-topic-3-question-10-discussion/",
-            "number": 59924,
-            "question": "Exam DP-300 topic 3 question 10 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/64088-exam-dp-300-topic-3-question-11-discussion/",
-            "number": 64088,
-            "question": "Exam DP-300 topic 3 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65976-exam-dp-300-topic-3-question-12-discussion/",
-            "number": 65976,
-            "question": "Exam DP-300 topic 3 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/26492-exam-dp-300-topic-3-question-12-discussion/",
-            "number": 26492,
-            "question": "Exam DP-300 topic 3 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65977-exam-dp-300-topic-3-question-13-discussion/",
-            "number": 65977,
-            "question": "Exam DP-300 topic 3 question 13 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65973-exam-dp-300-topic-3-question-14-discussion/",
-            "number": 65973,
-            "question": "Exam DP-300 topic 3 question 14 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65974-exam-dp-300-topic-3-question-15-discussion/",
-            "number": 65974,
-            "question": "Exam DP-300 topic 3 question 15 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65975-exam-dp-300-topic-3-question-16-discussion/",
-            "number": 65975,
-            "question": "Exam DP-300 topic 3 question 16 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65835-exam-dp-300-topic-3-question-17-discussion/",
-            "number": 65835,
-            "question": "Exam DP-300 topic 3 question 17 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62200-exam-dp-300-topic-3-question-18-discussion/",
-            "number": 62200,
-            "question": "Exam DP-300 topic 3 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65916-exam-dp-300-topic-3-question-19-discussion/",
-            "number": 65916,
-            "question": "Exam DP-300 topic 3 question 19 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/24804-exam-dp-300-topic-3-question-2-discussion/",
-            "number": 24804,
-            "question": "Exam DP-300 topic 3 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65919-exam-dp-300-topic-3-question-20-discussion/",
-            "number": 65919,
-            "question": "Exam DP-300 topic 3 question 20 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65918-exam-dp-300-topic-3-question-21-discussion/",
-            "number": 65918,
-            "question": "Exam DP-300 topic 3 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62777-exam-dp-300-topic-3-question-22-discussion/",
-            "number": 62777,
-            "question": "Exam DP-300 topic 3 question 22 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65495-exam-dp-300-topic-3-question-23-discussion/",
-            "number": 65495,
-            "question": "Exam DP-300 topic 3 question 23 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60362-exam-dp-300-topic-3-question-24-discussion/",
-            "number": 60362,
-            "question": "Exam DP-300 topic 3 question 24 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65914-exam-dp-300-topic-3-question-25-discussion/",
-            "number": 65914,
-            "question": "Exam DP-300 topic 3 question 25 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65911-exam-dp-300-topic-3-question-26-discussion/",
-            "number": 65911,
-            "question": "Exam DP-300 topic 3 question 26 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65912-exam-dp-300-topic-3-question-27-discussion/",
-            "number": 65912,
-            "question": "Exam DP-300 topic 3 question 27 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65913-exam-dp-300-topic-3-question-28-discussion/",
-            "number": 65913,
-            "question": "Exam DP-300 topic 3 question 28 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74978-exam-dp-300-topic-3-question-29-discussion/",
-            "number": 74978,
-            "question": "Exam DP-300 topic 3 question 29 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/41682-exam-dp-300-topic-3-question-3-discussion/",
-            "number": 41682,
-            "question": "Exam DP-300 topic 3 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/74980-exam-dp-300-topic-3-question-30-discussion/",
-            "number": 74980,
-            "question": "Exam DP-300 topic 3 question 30 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/85170-exam-dp-300-topic-3-question-31-discussion/",
-            "number": 85170,
-            "question": "Exam DP-300 topic 3 question 31 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/45610-exam-dp-300-topic-3-question-32-discussion/",
-            "number": 45610,
-            "question": "Exam DP-300 topic 3 question 32 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/44365-exam-dp-300-topic-3-question-33-discussion/",
-            "number": 44365,
-            "question": "Exam DP-300 topic 3 question 33 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47415-exam-dp-300-topic-3-question-34-discussion/",
-            "number": 47415,
-            "question": "Exam DP-300 topic 3 question 34 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/44019-exam-dp-300-topic-3-question-35-discussion/",
-            "number": 44019,
-            "question": "Exam DP-300 topic 3 question 35 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/97163-exam-dp-300-topic-3-question-36-discussion/",
-            "number": 97163,
-            "question": "Exam DP-300 topic 3 question 36 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/96760-exam-dp-300-topic-3-question-37-discussion/",
-            "number": 96760,
-            "question": "Exam DP-300 topic 3 question 37 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/96761-exam-dp-300-topic-3-question-38-discussion/",
-            "number": 96761,
-            "question": "Exam DP-300 topic 3 question 38 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/99073-exam-dp-300-topic-3-question-39-discussion/",
-            "number": 99073,
-            "question": "Exam DP-300 topic 3 question 39 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47819-exam-dp-300-topic-3-question-4-discussion/",
-            "number": 47819,
-            "question": "Exam DP-300 topic 3 question 4 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/100349-exam-dp-300-topic-3-question-40-discussion/",
-            "number": 100349,
-            "question": "Exam DP-300 topic 3 question 40 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/100352-exam-dp-300-topic-3-question-41-discussion/",
-            "number": 100352,
-            "question": "Exam DP-300 topic 3 question 41 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/97124-exam-dp-300-topic-3-question-42-discussion/",
-            "number": 97124,
-            "question": "Exam DP-300 topic 3 question 42 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/96275-exam-dp-300-topic-3-question-43-discussion/",
-            "number": 96275,
-            "question": "Exam DP-300 topic 3 question 43 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/99074-exam-dp-300-topic-3-question-44-discussion/",
-            "number": 99074,
-            "question": "Exam DP-300 topic 3 question 44 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47272-exam-dp-300-topic-3-question-5-discussion/",
-            "number": 47272,
-            "question": "Exam DP-300 topic 3 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/28408-exam-dp-300-topic-3-question-5-discussion/",
-            "number": 28408,
-            "question": "Exam DP-300 topic 3 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/46842-exam-dp-300-topic-3-question-6-discussion/",
-            "number": 46842,
-            "question": "Exam DP-300 topic 3 question 6 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/33670-exam-dp-300-topic-3-question-7-discussion/",
-            "number": 33670,
-            "question": "Exam DP-300 topic 3 question 7 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/60454-exam-dp-300-topic-3-question-8-discussion/",
-            "number": 60454,
-            "question": "Exam DP-300 topic 3 question 8 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61893-exam-dp-300-topic-3-question-9-discussion/",
-            "number": 61893,
-            "question": "Exam DP-300 topic 3 question 9 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/90938-exam-dp-300-topic-4-question-1-discussion/",
-            "number": 90938,
-            "question": "Exam DP-300 topic 4 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62734-exam-dp-300-topic-4-question-10-discussion/",
-            "number": 62734,
-            "question": "Exam DP-300 topic 4 question 10 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/86023-exam-dp-300-topic-4-question-11-discussion/",
-            "number": 86023,
-            "question": "Exam DP-300 topic 4 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65856-exam-dp-300-topic-4-question-12-discussion/",
-            "number": 65856,
-            "question": "Exam DP-300 topic 4 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65857-exam-dp-300-topic-4-question-13-discussion/",
-            "number": 65857,
-            "question": "Exam DP-300 topic 4 question 13 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62584-exam-dp-300-topic-4-question-14-discussion/",
-            "number": 62584,
-            "question": "Exam DP-300 topic 4 question 14 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65854-exam-dp-300-topic-4-question-15-discussion/",
-            "number": 65854,
-            "question": "Exam DP-300 topic 4 question 15 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65531-exam-dp-300-topic-4-question-15-discussion/",
-            "number": 65531,
-            "question": "Exam DP-300 topic 4 question 15 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65855-exam-dp-300-topic-4-question-16-discussion/",
-            "number": 65855,
-            "question": "Exam DP-300 topic 4 question 16 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/86055-exam-dp-300-topic-4-question-17-discussion/",
-            "number": 86055,
-            "question": "Exam DP-300 topic 4 question 17 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/66410-exam-dp-300-topic-4-question-18-discussion/",
-            "number": 66410,
-            "question": "Exam DP-300 topic 4 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/66411-exam-dp-300-topic-4-question-19-discussion/",
-            "number": 66411,
-            "question": "Exam DP-300 topic 4 question 19 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/25323-exam-dp-300-topic-4-question-2-discussion/",
-            "number": 25323,
-            "question": "Exam DP-300 topic 4 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75004-exam-dp-300-topic-4-question-20-discussion/",
-            "number": 75004,
-            "question": "Exam DP-300 topic 4 question 20 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/64315-exam-dp-300-topic-4-question-21-discussion/",
-            "number": 64315,
-            "question": "Exam DP-300 topic 4 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/28884-exam-dp-300-topic-4-question-21-discussion/",
-            "number": 28884,
-            "question": "Exam DP-300 topic 4 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/39721-exam-dp-300-topic-4-question-22-discussion/",
-            "number": 39721,
-            "question": "Exam DP-300 topic 4 question 22 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/85586-exam-dp-300-topic-4-question-23-discussion/",
-            "number": 85586,
-            "question": "Exam DP-300 topic 4 question 23 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/40369-exam-dp-300-topic-4-question-24-discussion/",
-            "number": 40369,
-            "question": "Exam DP-300 topic 4 question 24 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/44306-exam-dp-300-topic-4-question-3-discussion/",
-            "number": 44306,
-            "question": "Exam DP-300 topic 4 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/30607-exam-dp-300-topic-4-question-3-discussion/",
-            "number": 30607,
-            "question": "Exam DP-300 topic 4 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/45678-exam-dp-300-topic-4-question-4-discussion/",
-            "number": 45678,
-            "question": "Exam DP-300 topic 4 question 4 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47032-exam-dp-300-topic-4-question-5-discussion/",
-            "number": 47032,
-            "question": "Exam DP-300 topic 4 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/25416-exam-dp-300-topic-4-question-5-discussion/",
-            "number": 25416,
-            "question": "Exam DP-300 topic 4 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/48488-exam-dp-300-topic-4-question-6-discussion/",
-            "number": 48488,
-            "question": "Exam DP-300 topic 4 question 6 discussion"
-        },
-        {
+            "code": 51353,
             "link": "https://www.examtopics.com/discussions/microsoft/view/51353-exam-dp-300-topic-4-question-7-discussion/",
-            "number": 51353,
+            "number": 1,
             "question": "Exam DP-300 topic 4 question 7 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/55028-exam-dp-300-topic-4-question-8-discussion/",
-            "number": 55028,
-            "question": "Exam DP-300 topic 4 question 8 discussion"
+            "code": 85170,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/85170-exam-dp-300-topic-3-question-31-discussion/",
+            "number": 2,
+            "question": "Exam DP-300 topic 3 question 31 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/58307-exam-dp-300-topic-4-question-9-discussion/",
-            "number": 58307,
-            "question": "Exam DP-300 topic 4 question 9 discussion"
+            "code": 100369,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100369-exam-dp-300-topic-2-question-29-discussion/",
+            "number": 3,
+            "question": "Exam DP-300 topic 2 question 29 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65801-exam-dp-300-topic-5-question-1-discussion/",
-            "number": 65801,
-            "question": "Exam DP-300 topic 5 question 1 discussion"
+            "code": 63134,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63134-exam-dp-300-topic-2-question-11-discussion/",
+            "number": 4,
+            "question": "Exam DP-300 topic 2 question 11 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65794-exam-dp-300-topic-5-question-10-discussion/",
-            "number": 65794,
-            "question": "Exam DP-300 topic 5 question 10 discussion"
+            "code": 60921,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60921-exam-dp-300-topic-1-question-15-discussion/",
+            "number": 5,
+            "question": "Exam DP-300 topic 1 question 15 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63878-exam-dp-300-topic-5-question-11-discussion/",
-            "number": 63878,
-            "question": "Exam DP-300 topic 5 question 11 discussion"
+            "code": 98419,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98419-exam-dp-300-topic-1-question-6-discussion/",
+            "number": 6,
+            "question": "Exam DP-300 topic 1 question 6 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/62637-exam-dp-300-topic-5-question-12-discussion/",
-            "number": 62637,
-            "question": "Exam DP-300 topic 5 question 12 discussion"
+            "code": 24804,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24804-exam-dp-300-topic-3-question-2-discussion/",
+            "number": 7,
+            "question": "Exam DP-300 topic 3 question 2 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65791-exam-dp-300-topic-5-question-13-discussion/",
-            "number": 65791,
-            "question": "Exam DP-300 topic 5 question 13 discussion"
+            "code": 97756,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97756-exam-dp-300-topic-2-question-27-discussion/",
+            "number": 8,
+            "question": "Exam DP-300 topic 2 question 27 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/78665-exam-dp-300-topic-5-question-14-discussion/",
-            "number": 78665,
-            "question": "Exam DP-300 topic 5 question 14 discussion"
+            "code": 99770,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/99770-exam-dp-300-topic-1-question-41-discussion/",
+            "number": 9,
+            "question": "Exam DP-300 topic 1 question 41 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/86324-exam-dp-300-topic-5-question-15-discussion/",
-            "number": 86324,
-            "question": "Exam DP-300 topic 5 question 15 discussion"
+            "code": 60055,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60055-exam-dp-300-topic-1-question-13-discussion/",
+            "number": 10,
+            "question": "Exam DP-300 topic 1 question 13 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/28723-exam-dp-300-topic-5-question-16-discussion/",
-            "number": 28723,
-            "question": "Exam DP-300 topic 5 question 16 discussion"
+            "code": 87354,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/87354-exam-dp-300-topic-1-question-39-discussion/",
+            "number": 11,
+            "question": "Exam DP-300 topic 1 question 39 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/46064-exam-dp-300-topic-5-question-17-discussion/",
-            "number": 46064,
-            "question": "Exam DP-300 topic 5 question 17 discussion"
+            "code": 101746,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/101746-exam-dp-300-topic-2-question-26-discussion/",
+            "number": 12,
+            "question": "Exam DP-300 topic 2 question 26 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/39365-exam-dp-300-topic-5-question-18-discussion/",
-            "number": 39365,
-            "question": "Exam DP-300 topic 5 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65800-exam-dp-300-topic-5-question-19-discussion/",
-            "number": 65800,
-            "question": "Exam DP-300 topic 5 question 19 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/84824-exam-dp-300-topic-5-question-2-discussion/",
-            "number": 84824,
-            "question": "Exam DP-300 topic 5 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/97202-exam-dp-300-topic-5-question-21-discussion/",
-            "number": 97202,
-            "question": "Exam DP-300 topic 5 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/97203-exam-dp-300-topic-5-question-23-discussion/",
-            "number": 97203,
-            "question": "Exam DP-300 topic 5 question 23 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65796-exam-dp-300-topic-5-question-3-discussion/",
-            "number": 65796,
-            "question": "Exam DP-300 topic 5 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65797-exam-dp-300-topic-5-question-4-discussion/",
-            "number": 65797,
-            "question": "Exam DP-300 topic 5 question 4 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65798-exam-dp-300-topic-5-question-5-discussion/",
-            "number": 65798,
-            "question": "Exam DP-300 topic 5 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65799-exam-dp-300-topic-5-question-6-discussion/",
-            "number": 65799,
-            "question": "Exam DP-300 topic 5 question 6 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65802-exam-dp-300-topic-5-question-6-discussion/",
-            "number": 65802,
-            "question": "Exam DP-300 topic 5 question 6 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65792-exam-dp-300-topic-5-question-7-discussion/",
-            "number": 65792,
-            "question": "Exam DP-300 topic 5 question 7 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65793-exam-dp-300-topic-5-question-8-discussion/",
-            "number": 65793,
-            "question": "Exam DP-300 topic 5 question 8 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65795-exam-dp-300-topic-5-question-9-discussion/",
-            "number": 65795,
-            "question": "Exam DP-300 topic 5 question 9 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/34461-exam-dp-300-topic-6-question-1-discussion/",
-            "number": 34461,
-            "question": "Exam DP-300 topic 6 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/35328-exam-dp-300-topic-6-question-10-discussion/",
-            "number": 35328,
-            "question": "Exam DP-300 topic 6 question 10 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/35329-exam-dp-300-topic-6-question-11-discussion/",
-            "number": 35329,
-            "question": "Exam DP-300 topic 6 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/61544-exam-dp-300-topic-6-question-12-discussion/",
-            "number": 61544,
-            "question": "Exam DP-300 topic 6 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/45712-exam-dp-300-topic-6-question-12-discussion/",
-            "number": 45712,
-            "question": "Exam DP-300 topic 6 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/53322-exam-dp-300-topic-6-question-12-discussion/",
-            "number": 53322,
-            "question": "Exam DP-300 topic 6 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47022-exam-dp-300-topic-6-question-13-discussion/",
-            "number": 47022,
-            "question": "Exam DP-300 topic 6 question 13 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/48421-exam-dp-300-topic-6-question-14-discussion/",
-            "number": 48421,
-            "question": "Exam DP-300 topic 6 question 14 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65477-exam-dp-300-topic-6-question-15-discussion/",
-            "number": 65477,
-            "question": "Exam DP-300 topic 6 question 15 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/66418-exam-dp-300-topic-6-question-16-discussion/",
-            "number": 66418,
-            "question": "Exam DP-300 topic 6 question 16 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75025-exam-dp-300-topic-6-question-17-discussion/",
-            "number": 75025,
-            "question": "Exam DP-300 topic 6 question 17 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75026-exam-dp-300-topic-6-question-18-discussion/",
-            "number": 75026,
-            "question": "Exam DP-300 topic 6 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/47020-exam-dp-300-topic-6-question-18-discussion/",
-            "number": 47020,
-            "question": "Exam DP-300 topic 6 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/35373-exam-dp-300-topic-6-question-2-discussion/",
-            "number": 35373,
-            "question": "Exam DP-300 topic 6 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75030-exam-dp-300-topic-6-question-20-discussion/",
-            "number": 75030,
-            "question": "Exam DP-300 topic 6 question 20 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75031-exam-dp-300-topic-6-question-21-discussion/",
-            "number": 75031,
-            "question": "Exam DP-300 topic 6 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75033-exam-dp-300-topic-6-question-22-discussion/",
-            "number": 75033,
-            "question": "Exam DP-300 topic 6 question 22 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/77924-exam-dp-300-topic-6-question-23-discussion/",
-            "number": 77924,
-            "question": "Exam DP-300 topic 6 question 23 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75028-exam-dp-300-topic-6-question-23-discussion/",
-            "number": 75028,
-            "question": "Exam DP-300 topic 6 question 23 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/28724-exam-dp-300-topic-6-question-24-discussion/",
-            "number": 28724,
-            "question": "Exam DP-300 topic 6 question 24 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/28725-exam-dp-300-topic-6-question-25-discussion/",
-            "number": 28725,
-            "question": "Exam DP-300 topic 6 question 25 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75743-exam-dp-300-topic-6-question-26-discussion/",
-            "number": 75743,
-            "question": "Exam DP-300 topic 6 question 26 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/45028-exam-dp-300-topic-6-question-27-discussion/",
-            "number": 45028,
-            "question": "Exam DP-300 topic 6 question 27 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/87376-exam-dp-300-topic-6-question-28-discussion/",
-            "number": 87376,
-            "question": "Exam DP-300 topic 6 question 28 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/97031-exam-dp-300-topic-6-question-29-discussion/",
-            "number": 97031,
-            "question": "Exam DP-300 topic 6 question 29 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/28726-exam-dp-300-topic-6-question-3-discussion/",
-            "number": 28726,
-            "question": "Exam DP-300 topic 6 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/28790-exam-dp-300-topic-6-question-3-discussion/",
-            "number": 28790,
-            "question": "Exam DP-300 topic 6 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/99217-exam-dp-300-topic-6-question-30-discussion/",
-            "number": 99217,
-            "question": "Exam DP-300 topic 6 question 30 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/101495-exam-dp-300-topic-6-question-31-discussion/",
-            "number": 101495,
-            "question": "Exam DP-300 topic 6 question 31 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/96405-exam-dp-300-topic-6-question-32-discussion/",
-            "number": 96405,
-            "question": "Exam DP-300 topic 6 question 32 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/97372-exam-dp-300-topic-6-question-38-discussion/",
-            "number": 97372,
-            "question": "Exam DP-300 topic 6 question 38 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/101472-exam-dp-300-topic-6-question-39-discussion/",
-            "number": 101472,
-            "question": "Exam DP-300 topic 6 question 39 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63975-exam-dp-300-topic-6-question-4-discussion/",
-            "number": 63975,
-            "question": "Exam DP-300 topic 6 question 4 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/28791-exam-dp-300-topic-6-question-5-discussion/",
-            "number": 28791,
-            "question": "Exam DP-300 topic 6 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/44487-exam-dp-300-topic-6-question-6-discussion/",
-            "number": 44487,
-            "question": "Exam DP-300 topic 6 question 6 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/36992-exam-dp-300-topic-6-question-7-discussion/",
-            "number": 36992,
-            "question": "Exam DP-300 topic 6 question 7 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/29236-exam-dp-300-topic-6-question-8-discussion/",
-            "number": 29236,
-            "question": "Exam DP-300 topic 6 question 8 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/43137-exam-dp-300-topic-6-question-9-discussion/",
-            "number": 43137,
-            "question": "Exam DP-300 topic 6 question 9 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/39603-exam-dp-300-topic-7-question-1-discussion/",
-            "number": 39603,
-            "question": "Exam DP-300 topic 7 question 1 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/75039-exam-dp-300-topic-7-question-10-discussion/",
-            "number": 75039,
-            "question": "Exam DP-300 topic 7 question 10 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/86846-exam-dp-300-topic-7-question-11-discussion/",
-            "number": 86846,
-            "question": "Exam DP-300 topic 7 question 11 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/86393-exam-dp-300-topic-7-question-12-discussion/",
-            "number": 86393,
-            "question": "Exam DP-300 topic 7 question 12 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/87378-exam-dp-300-topic-7-question-13-discussion/",
-            "number": 87378,
-            "question": "Exam DP-300 topic 7 question 13 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/87379-exam-dp-300-topic-7-question-14-discussion/",
-            "number": 87379,
-            "question": "Exam DP-300 topic 7 question 14 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/81193-exam-dp-300-topic-7-question-15-discussion/",
-            "number": 81193,
-            "question": "Exam DP-300 topic 7 question 15 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80789-exam-dp-300-topic-7-question-16-discussion/",
-            "number": 80789,
-            "question": "Exam DP-300 topic 7 question 16 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/86679-exam-dp-300-topic-7-question-17-discussion/",
-            "number": 86679,
-            "question": "Exam DP-300 topic 7 question 17 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/80289-exam-dp-300-topic-7-question-18-discussion/",
-            "number": 80289,
-            "question": "Exam DP-300 topic 7 question 18 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/85048-exam-dp-300-topic-7-question-19-discussion/",
-            "number": 85048,
-            "question": "Exam DP-300 topic 7 question 19 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/25527-exam-dp-300-topic-7-question-2-discussion/",
-            "number": 25527,
-            "question": "Exam DP-300 topic 7 question 2 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/92479-exam-dp-300-topic-7-question-20-discussion/",
-            "number": 92479,
-            "question": "Exam DP-300 topic 7 question 20 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/97376-exam-dp-300-topic-7-question-21-discussion/",
-            "number": 97376,
-            "question": "Exam DP-300 topic 7 question 21 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/31297-exam-dp-300-topic-7-question-3-discussion/",
-            "number": 31297,
-            "question": "Exam DP-300 topic 7 question 3 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/58844-exam-dp-300-topic-7-question-4-discussion/",
-            "number": 58844,
-            "question": "Exam DP-300 topic 7 question 4 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63977-exam-dp-300-topic-7-question-5-discussion/",
-            "number": 63977,
-            "question": "Exam DP-300 topic 7 question 5 discussion"
-        },
-        {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63371-exam-dp-300-topic-7-question-6-discussion/",
-            "number": 63371,
-            "question": "Exam DP-300 topic 7 question 6 discussion"
-        },
-        {
+            "code": 61001,
             "link": "https://www.examtopics.com/discussions/microsoft/view/61001-exam-dp-300-topic-7-question-7-discussion/",
-            "number": 61001,
+            "number": 13,
             "question": "Exam DP-300 topic 7 question 7 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65472-exam-dp-300-topic-7-question-8-discussion/",
-            "number": 65472,
-            "question": "Exam DP-300 topic 7 question 8 discussion"
+            "code": 63371,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63371-exam-dp-300-topic-7-question-6-discussion/",
+            "number": 14,
+            "question": "Exam DP-300 topic 7 question 6 discussion"
         },
         {
+            "code": 63977,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63977-exam-dp-300-topic-7-question-5-discussion/",
+            "number": 15,
+            "question": "Exam DP-300 topic 7 question 5 discussion"
+        },
+        {
+            "code": 96909,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96909-exam-dp-300-topic-1-question-42-discussion/",
+            "number": 16,
+            "question": "Exam DP-300 topic 1 question 42 discussion"
+        },
+        {
+            "code": 101472,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/101472-exam-dp-300-topic-6-question-39-discussion/",
+            "number": 17,
+            "question": "Exam DP-300 topic 6 question 39 discussion"
+        },
+        {
+            "code": 96405,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96405-exam-dp-300-topic-6-question-32-discussion/",
+            "number": 18,
+            "question": "Exam DP-300 topic 6 question 32 discussion"
+        },
+        {
+            "code": 101495,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/101495-exam-dp-300-topic-6-question-31-discussion/",
+            "number": 19,
+            "question": "Exam DP-300 topic 6 question 31 discussion"
+        },
+        {
+            "code": 97031,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97031-exam-dp-300-topic-6-question-29-discussion/",
+            "number": 20,
+            "question": "Exam DP-300 topic 6 question 29 discussion"
+        },
+        {
+            "code": 77924,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77924-exam-dp-300-topic-6-question-23-discussion/",
+            "number": 21,
+            "question": "Exam DP-300 topic 6 question 23 discussion"
+        },
+        {
+            "code": 28726,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28726-exam-dp-300-topic-6-question-3-discussion/",
+            "number": 22,
+            "question": "Exam DP-300 topic 6 question 3 discussion"
+        },
+        {
+            "code": 78665,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78665-exam-dp-300-topic-5-question-14-discussion/",
+            "number": 23,
+            "question": "Exam DP-300 topic 5 question 14 discussion"
+        },
+        {
+            "code": 65795,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65795-exam-dp-300-topic-5-question-9-discussion/",
+            "number": 24,
+            "question": "Exam DP-300 topic 5 question 9 discussion"
+        },
+        {
+            "code": 99074,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/99074-exam-dp-300-topic-3-question-44-discussion/",
+            "number": 25,
+            "question": "Exam DP-300 topic 3 question 44 discussion"
+        },
+        {
+            "code": 65974,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65974-exam-dp-300-topic-3-question-15-discussion/",
+            "number": 26,
+            "question": "Exam DP-300 topic 3 question 15 discussion"
+        },
+        {
+            "code": 96270,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96270-exam-dp-300-topic-2-question-31-discussion/",
+            "number": 27,
+            "question": "Exam DP-300 topic 2 question 31 discussion"
+        },
+        {
+            "code": 86324,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86324-exam-dp-300-topic-5-question-15-discussion/",
+            "number": 28,
+            "question": "Exam DP-300 topic 5 question 15 discussion"
+        },
+        {
+            "code": 62637,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62637-exam-dp-300-topic-5-question-12-discussion/",
+            "number": 29,
+            "question": "Exam DP-300 topic 5 question 12 discussion"
+        },
+        {
+            "code": 101182,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/101182-exam-dp-300-topic-2-question-9-discussion/",
+            "number": 30,
+            "question": "Exam DP-300 topic 2 question 9 discussion"
+        },
+        {
+            "code": 39721,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39721-exam-dp-300-topic-4-question-22-discussion/",
+            "number": 31,
+            "question": "Exam DP-300 topic 4 question 22 discussion"
+        },
+        {
+            "code": 65857,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65857-exam-dp-300-topic-4-question-13-discussion/",
+            "number": 32,
+            "question": "Exam DP-300 topic 4 question 13 discussion"
+        },
+        {
+            "code": 65856,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65856-exam-dp-300-topic-4-question-12-discussion/",
+            "number": 33,
+            "question": "Exam DP-300 topic 4 question 12 discussion"
+        },
+        {
+            "code": 86023,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86023-exam-dp-300-topic-4-question-11-discussion/",
+            "number": 34,
+            "question": "Exam DP-300 topic 4 question 11 discussion"
+        },
+        {
+            "code": 100177,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100177-exam-dp-300-topic-2-question-30-discussion/",
+            "number": 35,
+            "question": "Exam DP-300 topic 2 question 30 discussion"
+        },
+        {
+            "code": 65792,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65792-exam-dp-300-topic-5-question-7-discussion/",
+            "number": 36,
+            "question": "Exam DP-300 topic 5 question 7 discussion"
+        },
+        {
+            "code": 75743,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75743-exam-dp-300-topic-6-question-26-discussion/",
+            "number": 37,
+            "question": "Exam DP-300 topic 6 question 26 discussion"
+        },
+        {
+            "code": 65418,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65418-exam-dp-300-topic-9-question-1-discussion/",
+            "number": 38,
+            "question": "Exam DP-300 topic 9 question 1 discussion"
+        },
+        {
+            "code": 65801,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65801-exam-dp-300-topic-5-question-1-discussion/",
+            "number": 39,
+            "question": "Exam DP-300 topic 5 question 1 discussion"
+        },
+        {
+            "code": 75039,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75039-exam-dp-300-topic-7-question-10-discussion/",
+            "number": 40,
+            "question": "Exam DP-300 topic 7 question 10 discussion"
+        },
+        {
+            "code": 86393,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86393-exam-dp-300-topic-7-question-12-discussion/",
+            "number": 41,
+            "question": "Exam DP-300 topic 7 question 12 discussion"
+        },
+        {
+            "code": 65791,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65791-exam-dp-300-topic-5-question-13-discussion/",
+            "number": 42,
+            "question": "Exam DP-300 topic 5 question 13 discussion"
+        },
+        {
+            "code": 47272,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47272-exam-dp-300-topic-3-question-5-discussion/",
+            "number": 43,
+            "question": "Exam DP-300 topic 3 question 5 discussion"
+        },
+        {
+            "code": 81193,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81193-exam-dp-300-topic-7-question-15-discussion/",
+            "number": 44,
+            "question": "Exam DP-300 topic 7 question 15 discussion"
+        },
+        {
+            "code": 96595,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96595-exam-dp-300-topic-2-question-28-discussion/",
+            "number": 45,
+            "question": "Exam DP-300 topic 2 question 28 discussion"
+        },
+        {
+            "code": 97163,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97163-exam-dp-300-topic-3-question-36-discussion/",
+            "number": 46,
+            "question": "Exam DP-300 topic 3 question 36 discussion"
+        },
+        {
+            "code": 97202,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97202-exam-dp-300-topic-5-question-21-discussion/",
+            "number": 47,
+            "question": "Exam DP-300 topic 5 question 21 discussion"
+        },
+        {
+            "code": 97203,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97203-exam-dp-300-topic-5-question-23-discussion/",
+            "number": 48,
+            "question": "Exam DP-300 topic 5 question 23 discussion"
+        },
+        {
+            "code": 34461,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34461-exam-dp-300-topic-6-question-1-discussion/",
+            "number": 49,
+            "question": "Exam DP-300 topic 6 question 1 discussion"
+        },
+        {
+            "code": 96735,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96735-exam-dp-300-topic-2-question-34-discussion/",
+            "number": 50,
+            "question": "Exam DP-300 topic 2 question 34 discussion"
+        },
+        {
+            "code": 97372,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97372-exam-dp-300-topic-6-question-38-discussion/",
+            "number": 51,
+            "question": "Exam DP-300 topic 6 question 38 discussion"
+        },
+        {
+            "code": 97376,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97376-exam-dp-300-topic-7-question-21-discussion/",
+            "number": 52,
+            "question": "Exam DP-300 topic 7 question 21 discussion"
+        },
+        {
+            "code": 82730,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82730-exam-dp-300-topic-2-question-24-discussion/",
+            "number": 53,
+            "question": "Exam DP-300 topic 2 question 24 discussion"
+        },
+        {
+            "code": 50795,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50795-exam-dp-300-topic-2-question-7-discussion/",
+            "number": 54,
+            "question": "Exam DP-300 topic 2 question 7 discussion"
+        },
+        {
+            "code": 96275,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96275-exam-dp-300-topic-3-question-43-discussion/",
+            "number": 55,
+            "question": "Exam DP-300 topic 3 question 43 discussion"
+        },
+        {
+            "code": 98777,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98777-exam-dp-300-topic-1-question-40-discussion/",
+            "number": 56,
+            "question": "Exam DP-300 topic 1 question 40 discussion"
+        },
+        {
+            "code": 86055,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86055-exam-dp-300-topic-4-question-17-discussion/",
+            "number": 57,
+            "question": "Exam DP-300 topic 4 question 17 discussion"
+        },
+        {
+            "code": 100352,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100352-exam-dp-300-topic-3-question-41-discussion/",
+            "number": 58,
+            "question": "Exam DP-300 topic 3 question 41 discussion"
+        },
+        {
+            "code": 100349,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100349-exam-dp-300-topic-3-question-40-discussion/",
+            "number": 59,
+            "question": "Exam DP-300 topic 3 question 40 discussion"
+        },
+        {
+            "code": 44365,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44365-exam-dp-300-topic-3-question-33-discussion/",
+            "number": 60,
+            "question": "Exam DP-300 topic 3 question 33 discussion"
+        },
+        {
+            "code": 65623,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65623-exam-dp-300-topic-2-question-13-discussion/",
+            "number": 61,
+            "question": "Exam DP-300 topic 2 question 13 discussion"
+        },
+        {
+            "code": 63218,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63218-exam-dp-300-topic-1-question-3-discussion/",
+            "number": 62,
+            "question": "Exam DP-300 topic 1 question 3 discussion"
+        },
+        {
+            "code": 28791,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28791-exam-dp-300-topic-6-question-5-discussion/",
+            "number": 63,
+            "question": "Exam DP-300 topic 6 question 5 discussion"
+        },
+        {
+            "code": 62882,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62882-exam-dp-300-topic-1-question-33-discussion/",
+            "number": 64,
+            "question": "Exam DP-300 topic 1 question 33 discussion"
+        },
+        {
+            "code": 63048,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63048-exam-dp-300-topic-1-question-32-discussion/",
+            "number": 65,
+            "question": "Exam DP-300 topic 1 question 32 discussion"
+        },
+        {
+            "code": 96760,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96760-exam-dp-300-topic-3-question-37-discussion/",
+            "number": 66,
+            "question": "Exam DP-300 topic 3 question 37 discussion"
+        },
+        {
+            "code": 90938,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/90938-exam-dp-300-topic-4-question-1-discussion/",
+            "number": 67,
+            "question": "Exam DP-300 topic 4 question 1 discussion"
+        },
+        {
+            "code": 97124,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97124-exam-dp-300-topic-3-question-42-discussion/",
+            "number": 68,
+            "question": "Exam DP-300 topic 3 question 42 discussion"
+        },
+        {
+            "code": 99073,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/99073-exam-dp-300-topic-3-question-39-discussion/",
+            "number": 69,
+            "question": "Exam DP-300 topic 3 question 39 discussion"
+        },
+        {
+            "code": 44019,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44019-exam-dp-300-topic-3-question-35-discussion/",
+            "number": 70,
+            "question": "Exam DP-300 topic 3 question 35 discussion"
+        },
+        {
+            "code": 99217,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/99217-exam-dp-300-topic-6-question-30-discussion/",
+            "number": 71,
+            "question": "Exam DP-300 topic 6 question 30 discussion"
+        },
+        {
+            "code": 66411,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66411-exam-dp-300-topic-4-question-19-discussion/",
+            "number": 72,
+            "question": "Exam DP-300 topic 4 question 19 discussion"
+        },
+        {
+            "code": 62887,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62887-exam-dp-300-topic-1-question-30-discussion/",
+            "number": 73,
+            "question": "Exam DP-300 topic 1 question 30 discussion"
+        },
+        {
+            "code": 60367,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60367-exam-dp-300-topic-1-question-11-discussion/",
+            "number": 74,
+            "question": "Exam DP-300 topic 1 question 11 discussion"
+        },
+        {
+            "code": 60884,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60884-exam-dp-300-topic-1-question-4-discussion/",
+            "number": 75,
+            "question": "Exam DP-300 topic 1 question 4 discussion"
+        },
+        {
+            "code": 76579,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/76579-exam-dp-300-topic-2-question-20-discussion/",
+            "number": 76,
+            "question": "Exam DP-300 topic 2 question 20 discussion"
+        },
+        {
+            "code": 96743,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96743-exam-dp-300-topic-2-question-33-discussion/",
+            "number": 77,
+            "question": "Exam DP-300 topic 2 question 33 discussion"
+        },
+        {
+            "code": 97757,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97757-exam-dp-300-topic-2-question-32-discussion/",
+            "number": 78,
+            "question": "Exam DP-300 topic 2 question 32 discussion"
+        },
+        {
+            "code": 97754,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97754-exam-dp-300-topic-2-question-25-discussion/",
+            "number": 79,
+            "question": "Exam DP-300 topic 2 question 25 discussion"
+        },
+        {
+            "code": 66152,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66152-exam-dp-300-topic-2-question-15-discussion/",
+            "number": 80,
+            "question": "Exam DP-300 topic 2 question 15 discussion"
+        },
+        {
+            "code": 62153,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62153-exam-dp-300-topic-2-question-1-discussion/",
+            "number": 81,
+            "question": "Exam DP-300 topic 2 question 1 discussion"
+        },
+        {
+            "code": 28027,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28027-exam-dp-300-topic-3-question-1-discussion/",
+            "number": 82,
+            "question": "Exam DP-300 topic 3 question 1 discussion"
+        },
+        {
+            "code": 60273,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60273-exam-dp-300-topic-1-question-23-discussion/",
+            "number": 83,
+            "question": "Exam DP-300 topic 1 question 23 discussion"
+        },
+        {
+            "code": 60366,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60366-exam-dp-300-topic-1-question-10-discussion/",
+            "number": 84,
+            "question": "Exam DP-300 topic 1 question 10 discussion"
+        },
+        {
+            "code": 60454,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60454-exam-dp-300-topic-3-question-8-discussion/",
+            "number": 85,
+            "question": "Exam DP-300 topic 3 question 8 discussion"
+        },
+        {
+            "code": 52446,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52446-exam-dp-300-topic-19-question-2-discussion/",
+            "number": 86,
+            "question": "Exam DP-300 topic 19 question 2 discussion"
+        },
+        {
+            "code": 65798,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65798-exam-dp-300-topic-5-question-5-discussion/",
+            "number": 87,
+            "question": "Exam DP-300 topic 5 question 5 discussion"
+        },
+        {
+            "code": 87357,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/87357-exam-dp-300-topic-2-question-21-discussion/",
+            "number": 88,
+            "question": "Exam DP-300 topic 2 question 21 discussion"
+        },
+        {
+            "code": 96761,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96761-exam-dp-300-topic-3-question-38-discussion/",
+            "number": 89,
+            "question": "Exam DP-300 topic 3 question 38 discussion"
+        },
+        {
+            "code": 96567,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96567-exam-dp-300-topic-21-question-1-discussion/",
+            "number": 90,
+            "question": "Exam DP-300 topic 21 question 1 discussion"
+        },
+        {
+            "code": 83525,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83525-exam-dp-300-topic-2-question-23-discussion/",
+            "number": 91,
+            "question": "Exam DP-300 topic 2 question 23 discussion"
+        },
+        {
+            "code": 75030,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75030-exam-dp-300-topic-6-question-20-discussion/",
+            "number": 92,
+            "question": "Exam DP-300 topic 6 question 20 discussion"
+        },
+        {
+            "code": 47123,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47123-exam-dp-300-topic-18-question-1-discussion/",
+            "number": 93,
+            "question": "Exam DP-300 topic 18 question 1 discussion"
+        },
+        {
+            "code": 92479,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/92479-exam-dp-300-topic-7-question-20-discussion/",
+            "number": 94,
+            "question": "Exam DP-300 topic 7 question 20 discussion"
+        },
+        {
+            "code": 85048,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/85048-exam-dp-300-topic-7-question-19-discussion/",
+            "number": 95,
+            "question": "Exam DP-300 topic 7 question 19 discussion"
+        },
+        {
+            "code": 44306,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44306-exam-dp-300-topic-4-question-3-discussion/",
+            "number": 96,
+            "question": "Exam DP-300 topic 4 question 3 discussion"
+        },
+        {
+            "code": 53744,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53744-exam-dp-300-topic-16-question-2-discussion/",
+            "number": 97,
+            "question": "Exam DP-300 topic 16 question 2 discussion"
+        },
+        {
+            "code": 75033,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75033-exam-dp-300-topic-6-question-22-discussion/",
+            "number": 98,
+            "question": "Exam DP-300 topic 6 question 22 discussion"
+        },
+        {
+            "code": 75025,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75025-exam-dp-300-topic-6-question-17-discussion/",
+            "number": 99,
+            "question": "Exam DP-300 topic 6 question 17 discussion"
+        },
+        {
+            "code": 59637,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/59637-exam-dp-300-topic-12-question-1-discussion/",
+            "number": 100,
+            "question": "Exam DP-300 topic 12 question 1 discussion"
+        },
+        {
+            "code": 35373,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35373-exam-dp-300-topic-6-question-2-discussion/",
+            "number": 101,
+            "question": "Exam DP-300 topic 6 question 2 discussion"
+        },
+        {
+            "code": 37270,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37270-exam-dp-300-topic-2-question-3-discussion/",
+            "number": 102,
+            "question": "Exam DP-300 topic 2 question 3 discussion"
+        },
+        {
+            "code": 35328,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35328-exam-dp-300-topic-6-question-10-discussion/",
+            "number": 103,
+            "question": "Exam DP-300 topic 6 question 10 discussion"
+        },
+        {
+            "code": 48008,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48008-exam-dp-300-topic-19-question-1-discussion/",
+            "number": 104,
+            "question": "Exam DP-300 topic 19 question 1 discussion"
+        },
+        {
+            "code": 61852,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61852-exam-dp-300-topic-15-question-3-discussion/",
+            "number": 105,
+            "question": "Exam DP-300 topic 15 question 3 discussion"
+        },
+        {
+            "code": 80789,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80789-exam-dp-300-topic-7-question-16-discussion/",
+            "number": 106,
+            "question": "Exam DP-300 topic 7 question 16 discussion"
+        },
+        {
+            "code": 87379,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/87379-exam-dp-300-topic-7-question-14-discussion/",
+            "number": 107,
+            "question": "Exam DP-300 topic 7 question 14 discussion"
+        },
+        {
+            "code": 63878,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63878-exam-dp-300-topic-5-question-11-discussion/",
+            "number": 108,
+            "question": "Exam DP-300 topic 5 question 11 discussion"
+        },
+        {
+            "code": 84025,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/84025-exam-dp-300-topic-2-question-22-discussion/",
+            "number": 109,
+            "question": "Exam DP-300 topic 2 question 22 discussion"
+        },
+        {
+            "code": 60855,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60855-exam-dp-300-topic-1-question-21-discussion/",
+            "number": 110,
+            "question": "Exam DP-300 topic 1 question 21 discussion"
+        },
+        {
+            "code": 84824,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/84824-exam-dp-300-topic-5-question-2-discussion/",
+            "number": 111,
+            "question": "Exam DP-300 topic 5 question 2 discussion"
+        },
+        {
+            "code": 25323,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/25323-exam-dp-300-topic-4-question-2-discussion/",
+            "number": 112,
+            "question": "Exam DP-300 topic 4 question 2 discussion"
+        },
+        {
+            "code": 61893,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61893-exam-dp-300-topic-3-question-9-discussion/",
+            "number": 113,
+            "question": "Exam DP-300 topic 3 question 9 discussion"
+        },
+        {
+            "code": 48488,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48488-exam-dp-300-topic-4-question-6-discussion/",
+            "number": 114,
+            "question": "Exam DP-300 topic 4 question 6 discussion"
+        },
+        {
+            "code": 35008,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35008-exam-dp-300-topic-2-question-4-discussion/",
+            "number": 115,
+            "question": "Exam DP-300 topic 2 question 4 discussion"
+        },
+        {
+            "code": 74980,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74980-exam-dp-300-topic-3-question-30-discussion/",
+            "number": 116,
+            "question": "Exam DP-300 topic 3 question 30 discussion"
+        },
+        {
+            "code": 65918,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65918-exam-dp-300-topic-3-question-21-discussion/",
+            "number": 117,
+            "question": "Exam DP-300 topic 3 question 21 discussion"
+        },
+        {
+            "code": 47819,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47819-exam-dp-300-topic-3-question-4-discussion/",
+            "number": 118,
+            "question": "Exam DP-300 topic 3 question 4 discussion"
+        },
+        {
+            "code": 60331,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60331-exam-dp-300-topic-1-question-22-discussion/",
+            "number": 119,
+            "question": "Exam DP-300 topic 1 question 22 discussion"
+        },
+        {
+            "code": 65977,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65977-exam-dp-300-topic-3-question-13-discussion/",
+            "number": 120,
+            "question": "Exam DP-300 topic 3 question 13 discussion"
+        },
+        {
+            "code": 62200,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62200-exam-dp-300-topic-3-question-18-discussion/",
+            "number": 121,
+            "question": "Exam DP-300 topic 3 question 18 discussion"
+        },
+        {
+            "code": 63470,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63470-exam-dp-300-topic-1-question-19-discussion/",
+            "number": 122,
+            "question": "Exam DP-300 topic 1 question 19 discussion"
+        },
+        {
+            "code": 87378,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/87378-exam-dp-300-topic-7-question-13-discussion/",
+            "number": 123,
+            "question": "Exam DP-300 topic 7 question 13 discussion"
+        },
+        {
+            "code": 87376,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/87376-exam-dp-300-topic-6-question-28-discussion/",
+            "number": 124,
+            "question": "Exam DP-300 topic 6 question 28 discussion"
+        },
+        {
+            "code": 60133,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60133-exam-dp-300-topic-1-question-14-discussion/",
+            "number": 125,
+            "question": "Exam DP-300 topic 1 question 14 discussion"
+        },
+        {
+            "code": 65794,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65794-exam-dp-300-topic-5-question-10-discussion/",
+            "number": 126,
+            "question": "Exam DP-300 topic 5 question 10 discussion"
+        },
+        {
+            "code": 77259,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77259-exam-dp-300-topic-2-question-19-discussion/",
+            "number": 127,
+            "question": "Exam DP-300 topic 2 question 19 discussion"
+        },
+        {
+            "code": 65797,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65797-exam-dp-300-topic-5-question-4-discussion/",
+            "number": 128,
+            "question": "Exam DP-300 topic 5 question 4 discussion"
+        },
+        {
+            "code": 60328,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60328-exam-dp-300-topic-1-question-8-discussion/",
+            "number": 129,
+            "question": "Exam DP-300 topic 1 question 8 discussion"
+        },
+        {
+            "code": 66226,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66226-exam-dp-300-topic-2-question-10-discussion/",
+            "number": 130,
+            "question": "Exam DP-300 topic 2 question 10 discussion"
+        },
+        {
+            "code": 65973,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65973-exam-dp-300-topic-3-question-14-discussion/",
+            "number": 131,
+            "question": "Exam DP-300 topic 3 question 14 discussion"
+        },
+        {
+            "code": 86846,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86846-exam-dp-300-topic-7-question-11-discussion/",
+            "number": 132,
+            "question": "Exam DP-300 topic 7 question 11 discussion"
+        },
+        {
+            "code": 86679,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86679-exam-dp-300-topic-7-question-17-discussion/",
+            "number": 133,
+            "question": "Exam DP-300 topic 7 question 17 discussion"
+        },
+        {
+            "code": 63471,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63471-exam-dp-300-topic-1-question-20-discussion/",
+            "number": 134,
+            "question": "Exam DP-300 topic 1 question 20 discussion"
+        },
+        {
+            "code": 60368,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60368-exam-dp-300-topic-1-question-12-discussion/",
+            "number": 135,
+            "question": "Exam DP-300 topic 1 question 12 discussion"
+        },
+        {
+            "code": 65833,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65833-exam-dp-300-topic-3-question-10-discussion/",
+            "number": 136,
+            "question": "Exam DP-300 topic 3 question 10 discussion"
+        },
+        {
+            "code": 65719,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65719-exam-dp-300-topic-2-question-16-discussion/",
+            "number": 137,
+            "question": "Exam DP-300 topic 2 question 16 discussion"
+        },
+        {
+            "code": 64088,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64088-exam-dp-300-topic-3-question-11-discussion/",
+            "number": 138,
+            "question": "Exam DP-300 topic 3 question 11 discussion"
+        },
+        {
+            "code": 66410,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66410-exam-dp-300-topic-4-question-18-discussion/",
+            "number": 139,
+            "question": "Exam DP-300 topic 4 question 18 discussion"
+        },
+        {
+            "code": 65495,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65495-exam-dp-300-topic-3-question-23-discussion/",
+            "number": 140,
+            "question": "Exam DP-300 topic 3 question 23 discussion"
+        },
+        {
+            "code": 86065,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86065-exam-dp-300-topic-1-question-38-discussion/",
+            "number": 141,
+            "question": "Exam DP-300 topic 1 question 38 discussion"
+        },
+        {
+            "code": 65854,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65854-exam-dp-300-topic-4-question-15-discussion/",
+            "number": 142,
+            "question": "Exam DP-300 topic 4 question 15 discussion"
+        },
+        {
+            "code": 74978,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74978-exam-dp-300-topic-3-question-29-discussion/",
+            "number": 143,
+            "question": "Exam DP-300 topic 3 question 29 discussion"
+        },
+        {
+            "code": 65975,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65975-exam-dp-300-topic-3-question-16-discussion/",
+            "number": 144,
+            "question": "Exam DP-300 topic 3 question 16 discussion"
+        },
+        {
+            "code": 65976,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65976-exam-dp-300-topic-3-question-12-discussion/",
+            "number": 145,
+            "question": "Exam DP-300 topic 3 question 12 discussion"
+        },
+        {
+            "code": 48006,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48006-exam-dp-300-topic-13-question-1-discussion/",
+            "number": 146,
+            "question": "Exam DP-300 topic 13 question 1 discussion"
+        },
+        {
+            "code": 65796,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65796-exam-dp-300-topic-5-question-3-discussion/",
+            "number": 147,
+            "question": "Exam DP-300 topic 5 question 3 discussion"
+        },
+        {
+            "code": 85586,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/85586-exam-dp-300-topic-4-question-23-discussion/",
+            "number": 148,
+            "question": "Exam DP-300 topic 4 question 23 discussion"
+        },
+        {
+            "code": 65793,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65793-exam-dp-300-topic-5-question-8-discussion/",
+            "number": 149,
+            "question": "Exam DP-300 topic 5 question 8 discussion"
+        },
+        {
+            "code": 65799,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65799-exam-dp-300-topic-5-question-6-discussion/",
+            "number": 150,
+            "question": "Exam DP-300 topic 5 question 6 discussion"
+        },
+        {
+            "code": 45028,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45028-exam-dp-300-topic-6-question-27-discussion/",
+            "number": 151,
+            "question": "Exam DP-300 topic 6 question 27 discussion"
+        },
+        {
+            "code": 75031,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75031-exam-dp-300-topic-6-question-21-discussion/",
+            "number": 152,
+            "question": "Exam DP-300 topic 6 question 21 discussion"
+        },
+        {
+            "code": 63975,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63975-exam-dp-300-topic-6-question-4-discussion/",
+            "number": 153,
+            "question": "Exam DP-300 topic 6 question 4 discussion"
+        },
+        {
+            "code": 28790,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28790-exam-dp-300-topic-6-question-3-discussion/",
+            "number": 154,
+            "question": "Exam DP-300 topic 6 question 3 discussion"
+        },
+        {
+            "code": 77350,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/77350-exam-dp-300-topic-1-question-29-discussion/",
+            "number": 155,
+            "question": "Exam DP-300 topic 1 question 29 discussion"
+        },
+        {
+            "code": 63619,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63619-exam-dp-300-topic-1-question-27-discussion/",
+            "number": 156,
+            "question": "Exam DP-300 topic 1 question 27 discussion"
+        },
+        {
+            "code": 66265,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66265-exam-dp-300-topic-1-question-26-discussion/",
+            "number": 157,
+            "question": "Exam DP-300 topic 1 question 26 discussion"
+        },
+        {
+            "code": 66264,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66264-exam-dp-300-topic-1-question-25-discussion/",
+            "number": 158,
+            "question": "Exam DP-300 topic 1 question 25 discussion"
+        },
+        {
+            "code": 66307,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66307-exam-dp-300-topic-1-question-24-discussion/",
+            "number": 159,
+            "question": "Exam DP-300 topic 1 question 24 discussion"
+        },
+        {
+            "code": 65911,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65911-exam-dp-300-topic-3-question-26-discussion/",
+            "number": 160,
+            "question": "Exam DP-300 topic 3 question 26 discussion"
+        },
+        {
+            "code": 62777,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62777-exam-dp-300-topic-3-question-22-discussion/",
+            "number": 161,
+            "question": "Exam DP-300 topic 3 question 22 discussion"
+        },
+        {
+            "code": 65912,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65912-exam-dp-300-topic-3-question-27-discussion/",
+            "number": 162,
+            "question": "Exam DP-300 topic 3 question 27 discussion"
+        },
+        {
+            "code": 62734,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62734-exam-dp-300-topic-4-question-10-discussion/",
+            "number": 163,
+            "question": "Exam DP-300 topic 4 question 10 discussion"
+        },
+        {
+            "code": 65600,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65600-exam-dp-300-topic-20-question-2-discussion/",
+            "number": 164,
+            "question": "Exam DP-300 topic 20 question 2 discussion"
+        },
+        {
+            "code": 69174,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69174-exam-dp-300-topic-20-question-1-discussion/",
+            "number": 165,
+            "question": "Exam DP-300 topic 20 question 1 discussion"
+        },
+        {
+            "code": 84536,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/84536-exam-dp-300-topic-8-question-1-discussion/",
+            "number": 166,
+            "question": "Exam DP-300 topic 8 question 1 discussion"
+        },
+        {
+            "code": 65800,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65800-exam-dp-300-topic-5-question-19-discussion/",
+            "number": 167,
+            "question": "Exam DP-300 topic 5 question 19 discussion"
+        },
+        {
+            "code": 65916,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65916-exam-dp-300-topic-3-question-19-discussion/",
+            "number": 168,
+            "question": "Exam DP-300 topic 3 question 19 discussion"
+        },
+        {
+            "code": 65835,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65835-exam-dp-300-topic-3-question-17-discussion/",
+            "number": 169,
+            "question": "Exam DP-300 topic 3 question 17 discussion"
+        },
+        {
+            "code": 80289,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80289-exam-dp-300-topic-7-question-18-discussion/",
+            "number": 170,
+            "question": "Exam DP-300 topic 7 question 18 discussion"
+        },
+        {
+            "code": 48423,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48423-exam-dp-300-topic-17-question-1-discussion/",
+            "number": 171,
+            "question": "Exam DP-300 topic 17 question 1 discussion"
+        },
+        {
+            "code": 60869,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60869-exam-dp-300-topic-17-question-2-discussion/",
+            "number": 172,
+            "question": "Exam DP-300 topic 17 question 2 discussion"
+        },
+        {
+            "code": 31695,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/31695-exam-dp-300-topic-9-question-1-discussion/",
+            "number": 173,
+            "question": "Exam DP-300 topic 9 question 1 discussion"
+        },
+        {
+            "code": 45610,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45610-exam-dp-300-topic-3-question-32-discussion/",
+            "number": 174,
+            "question": "Exam DP-300 topic 3 question 32 discussion"
+        },
+        {
+            "code": 65490,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65490-exam-dp-300-topic-2-question-14-discussion/",
+            "number": 175,
+            "question": "Exam DP-300 topic 2 question 14 discussion"
+        },
+        {
+            "code": 44361,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44361-exam-dp-300-topic-1-question-2-discussion/",
+            "number": 176,
+            "question": "Exam DP-300 topic 1 question 2 discussion"
+        },
+        {
+            "code": 47032,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47032-exam-dp-300-topic-4-question-5-discussion/",
+            "number": 177,
+            "question": "Exam DP-300 topic 4 question 5 discussion"
+        },
+        {
+            "code": 41949,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41949-exam-dp-300-topic-2-question-2-discussion/",
+            "number": 178,
+            "question": "Exam DP-300 topic 2 question 2 discussion"
+        },
+        {
+            "code": 33670,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33670-exam-dp-300-topic-3-question-7-discussion/",
+            "number": 179,
+            "question": "Exam DP-300 topic 3 question 7 discussion"
+        },
+        {
+            "code": 74712,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74712-exam-dp-300-topic-1-question-37-discussion/",
+            "number": 180,
+            "question": "Exam DP-300 topic 1 question 37 discussion"
+        },
+        {
+            "code": 47190,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47190-exam-dp-300-topic-21-question-1-discussion/",
+            "number": 181,
+            "question": "Exam DP-300 topic 21 question 1 discussion"
+        },
+        {
+            "code": 47921,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47921-exam-dp-300-topic-11-question-3-discussion/",
+            "number": 182,
+            "question": "Exam DP-300 topic 11 question 3 discussion"
+        },
+        {
+            "code": 60372,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60372-exam-dp-300-topic-1-question-18-discussion/",
+            "number": 183,
+            "question": "Exam DP-300 topic 1 question 18 discussion"
+        },
+        {
+            "code": 74584,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74584-exam-dp-300-topic-1-question-34-discussion/",
+            "number": 184,
+            "question": "Exam DP-300 topic 1 question 34 discussion"
+        },
+        {
+            "code": 47415,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47415-exam-dp-300-topic-3-question-34-discussion/",
+            "number": 185,
+            "question": "Exam DP-300 topic 3 question 34 discussion"
+        },
+        {
+            "code": 60365,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60365-exam-dp-300-topic-1-question-9-discussion/",
+            "number": 186,
+            "question": "Exam DP-300 topic 1 question 9 discussion"
+        },
+        {
+            "code": 63441,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63441-exam-dp-300-topic-1-question-16-discussion/",
+            "number": 187,
+            "question": "Exam DP-300 topic 1 question 16 discussion"
+        },
+        {
+            "code": 41947,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41947-exam-dp-300-topic-1-question-7-discussion/",
+            "number": 188,
+            "question": "Exam DP-300 topic 1 question 7 discussion"
+        },
+        {
+            "code": 63219,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63219-exam-dp-300-topic-1-question-5-discussion/",
+            "number": 189,
+            "question": "Exam DP-300 topic 1 question 5 discussion"
+        },
+        {
+            "code": 47122,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47122-exam-dp-300-topic-14-question-2-discussion/",
+            "number": 190,
+            "question": "Exam DP-300 topic 14 question 2 discussion"
+        },
+        {
+            "code": 69175,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69175-exam-dp-300-topic-17-question-3-discussion/",
+            "number": 191,
+            "question": "Exam DP-300 topic 17 question 3 discussion"
+        },
+        {
+            "code": 71349,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/71349-exam-dp-300-topic-16-question-1-discussion/",
+            "number": 192,
+            "question": "Exam DP-300 topic 16 question 1 discussion"
+        },
+        {
+            "code": 65414,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65414-exam-dp-300-topic-15-question-1-discussion/",
+            "number": 193,
+            "question": "Exam DP-300 topic 15 question 1 discussion"
+        },
+        {
+            "code": 49773,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49773-exam-dp-300-topic-14-question-1-discussion/",
+            "number": 194,
+            "question": "Exam DP-300 topic 14 question 1 discussion"
+        },
+        {
+            "code": 47920,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47920-exam-dp-300-topic-11-question-2-discussion/",
+            "number": 195,
+            "question": "Exam DP-300 topic 11 question 2 discussion"
+        },
+        {
+            "code": 65420,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65420-exam-dp-300-topic-11-question-1-discussion/",
+            "number": 196,
+            "question": "Exam DP-300 topic 11 question 1 discussion"
+        },
+        {
+            "code": 65419,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65419-exam-dp-300-topic-10-question-1-discussion/",
+            "number": 197,
+            "question": "Exam DP-300 topic 10 question 1 discussion"
+        },
+        {
+            "code": 64778,
             "link": "https://www.examtopics.com/discussions/microsoft/view/64778-exam-dp-300-topic-7-question-9-discussion/",
-            "number": 64778,
+            "number": 198,
             "question": "Exam DP-300 topic 7 question 9 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/84536-exam-dp-300-topic-8-question-1-discussion/",
-            "number": 84536,
-            "question": "Exam DP-300 topic 8 question 1 discussion"
+            "code": 65472,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65472-exam-dp-300-topic-7-question-8-discussion/",
+            "number": 199,
+            "question": "Exam DP-300 topic 7 question 8 discussion"
         },
         {
+            "code": 58844,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58844-exam-dp-300-topic-7-question-4-discussion/",
+            "number": 200,
+            "question": "Exam DP-300 topic 7 question 4 discussion"
+        },
+        {
+            "code": 25527,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/25527-exam-dp-300-topic-7-question-2-discussion/",
+            "number": 201,
+            "question": "Exam DP-300 topic 7 question 2 discussion"
+        },
+        {
+            "code": 39603,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39603-exam-dp-300-topic-7-question-1-discussion/",
+            "number": 202,
+            "question": "Exam DP-300 topic 7 question 1 discussion"
+        },
+        {
+            "code": 75028,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75028-exam-dp-300-topic-6-question-23-discussion/",
+            "number": 203,
+            "question": "Exam DP-300 topic 6 question 23 discussion"
+        },
+        {
+            "code": 75026,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75026-exam-dp-300-topic-6-question-18-discussion/",
+            "number": 204,
+            "question": "Exam DP-300 topic 6 question 18 discussion"
+        },
+        {
+            "code": 66418,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66418-exam-dp-300-topic-6-question-16-discussion/",
+            "number": 205,
+            "question": "Exam DP-300 topic 6 question 16 discussion"
+        },
+        {
+            "code": 65477,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65477-exam-dp-300-topic-6-question-15-discussion/",
+            "number": 206,
+            "question": "Exam DP-300 topic 6 question 15 discussion"
+        },
+        {
+            "code": 47022,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47022-exam-dp-300-topic-6-question-13-discussion/",
+            "number": 207,
+            "question": "Exam DP-300 topic 6 question 13 discussion"
+        },
+        {
+            "code": 75004,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75004-exam-dp-300-topic-4-question-20-discussion/",
+            "number": 208,
+            "question": "Exam DP-300 topic 4 question 20 discussion"
+        },
+        {
+            "code": 58307,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58307-exam-dp-300-topic-4-question-9-discussion/",
+            "number": 209,
+            "question": "Exam DP-300 topic 4 question 9 discussion"
+        },
+        {
+            "code": 60362,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60362-exam-dp-300-topic-3-question-24-discussion/",
+            "number": 210,
+            "question": "Exam DP-300 topic 3 question 24 discussion"
+        },
+        {
+            "code": 41682,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41682-exam-dp-300-topic-3-question-3-discussion/",
+            "number": 211,
+            "question": "Exam DP-300 topic 3 question 3 discussion"
+        },
+        {
+            "code": 74711,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74711-exam-dp-300-topic-1-question-35-discussion/",
+            "number": 212,
+            "question": "Exam DP-300 topic 1 question 35 discussion"
+        },
+        {
+            "code": 74710,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74710-exam-dp-300-topic-1-question-36-discussion/",
+            "number": 213,
+            "question": "Exam DP-300 topic 1 question 36 discussion"
+        },
+        {
+            "code": 65913,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65913-exam-dp-300-topic-3-question-28-discussion/",
+            "number": 214,
+            "question": "Exam DP-300 topic 3 question 28 discussion"
+        },
+        {
+            "code": 46842,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/46842-exam-dp-300-topic-3-question-6-discussion/",
+            "number": 215,
+            "question": "Exam DP-300 topic 3 question 6 discussion"
+        },
+        {
+            "code": 64315,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64315-exam-dp-300-topic-4-question-21-discussion/",
+            "number": 216,
+            "question": "Exam DP-300 topic 4 question 21 discussion"
+        },
+        {
+            "code": 60371,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60371-exam-dp-300-topic-1-question-17-discussion/",
+            "number": 217,
+            "question": "Exam DP-300 topic 1 question 17 discussion"
+        },
+        {
+            "code": 61544,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61544-exam-dp-300-topic-6-question-12-discussion/",
+            "number": 218,
+            "question": "Exam DP-300 topic 6 question 12 discussion"
+        },
+        {
+            "code": 28725,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28725-exam-dp-300-topic-6-question-25-discussion/",
+            "number": 219,
+            "question": "Exam DP-300 topic 6 question 25 discussion"
+        },
+        {
+            "code": 28724,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28724-exam-dp-300-topic-6-question-24-discussion/",
+            "number": 220,
+            "question": "Exam DP-300 topic 6 question 24 discussion"
+        },
+        {
+            "code": 65802,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65802-exam-dp-300-topic-5-question-6-discussion/",
+            "number": 221,
+            "question": "Exam DP-300 topic 5 question 6 discussion"
+        },
+        {
+            "code": 45609,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45609-exam-dp-300-topic-2-question-5-discussion/",
+            "number": 222,
+            "question": "Exam DP-300 topic 2 question 5 discussion"
+        },
+        {
+            "code": 26492,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26492-exam-dp-300-topic-3-question-12-discussion/",
+            "number": 223,
+            "question": "Exam DP-300 topic 3 question 12 discussion"
+        },
+        {
+            "code": 65919,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65919-exam-dp-300-topic-3-question-20-discussion/",
+            "number": 224,
+            "question": "Exam DP-300 topic 3 question 20 discussion"
+        },
+        {
+            "code": 43137,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43137-exam-dp-300-topic-6-question-9-discussion/",
+            "number": 225,
+            "question": "Exam DP-300 topic 6 question 9 discussion"
+        },
+        {
+            "code": 31297,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/31297-exam-dp-300-topic-7-question-3-discussion/",
+            "number": 226,
+            "question": "Exam DP-300 topic 7 question 3 discussion"
+        },
+        {
+            "code": 35329,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35329-exam-dp-300-topic-6-question-11-discussion/",
+            "number": 227,
+            "question": "Exam DP-300 topic 6 question 11 discussion"
+        },
+        {
+            "code": 25416,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/25416-exam-dp-300-topic-4-question-5-discussion/",
+            "number": 228,
+            "question": "Exam DP-300 topic 4 question 5 discussion"
+        },
+        {
+            "code": 41948,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41948-exam-dp-300-topic-1-question-1-discussion/",
+            "number": 229,
+            "question": "Exam DP-300 topic 1 question 1 discussion"
+        },
+        {
+            "code": 62149,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62149-exam-dp-300-topic-1-question-31-discussion/",
+            "number": 230,
+            "question": "Exam DP-300 topic 1 question 31 discussion"
+        },
+        {
+            "code": 60475,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60475-exam-dp-300-topic-1-question-28-discussion/",
+            "number": 231,
+            "question": "Exam DP-300 topic 1 question 28 discussion"
+        },
+        {
+            "code": 30607,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30607-exam-dp-300-topic-4-question-3-discussion/",
+            "number": 232,
+            "question": "Exam DP-300 topic 4 question 3 discussion"
+        },
+        {
+            "code": 30419,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30419-exam-dp-300-topic-2-question-3-discussion/",
+            "number": 233,
+            "question": "Exam DP-300 topic 2 question 3 discussion"
+        },
+        {
+            "code": 48387,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48387-exam-dp-300-topic-2-question-18-discussion/",
+            "number": 234,
+            "question": "Exam DP-300 topic 2 question 18 discussion"
+        },
+        {
+            "code": 25248,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/25248-exam-dp-300-topic-1-question-5-discussion/",
+            "number": 235,
+            "question": "Exam DP-300 topic 1 question 5 discussion"
+        },
+        {
+            "code": 48421,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48421-exam-dp-300-topic-6-question-14-discussion/",
+            "number": 236,
+            "question": "Exam DP-300 topic 6 question 14 discussion"
+        },
+        {
+            "code": 36992,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36992-exam-dp-300-topic-6-question-7-discussion/",
+            "number": 237,
+            "question": "Exam DP-300 topic 6 question 7 discussion"
+        },
+        {
+            "code": 44487,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44487-exam-dp-300-topic-6-question-6-discussion/",
+            "number": 238,
+            "question": "Exam DP-300 topic 6 question 6 discussion"
+        },
+        {
+            "code": 39365,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39365-exam-dp-300-topic-5-question-18-discussion/",
+            "number": 239,
+            "question": "Exam DP-300 topic 5 question 18 discussion"
+        },
+        {
+            "code": 55028,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55028-exam-dp-300-topic-4-question-8-discussion/",
+            "number": 240,
+            "question": "Exam DP-300 topic 4 question 8 discussion"
+        },
+        {
+            "code": 62584,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62584-exam-dp-300-topic-4-question-14-discussion/",
+            "number": 241,
+            "question": "Exam DP-300 topic 4 question 14 discussion"
+        },
+        {
+            "code": 28884,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28884-exam-dp-300-topic-4-question-21-discussion/",
+            "number": 242,
+            "question": "Exam DP-300 topic 4 question 21 discussion"
+        },
+        {
+            "code": 66162,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66162-exam-dp-300-topic-2-question-12-discussion/",
+            "number": 243,
+            "question": "Exam DP-300 topic 2 question 12 discussion"
+        },
+        {
+            "code": 65415,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65415-exam-dp-300-topic-15-question-2-discussion/",
+            "number": 244,
+            "question": "Exam DP-300 topic 15 question 2 discussion"
+        },
+        {
+            "code": 40369,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/40369-exam-dp-300-topic-4-question-24-discussion/",
+            "number": 245,
+            "question": "Exam DP-300 topic 4 question 24 discussion"
+        },
+        {
+            "code": 65914,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65914-exam-dp-300-topic-3-question-25-discussion/",
+            "number": 246,
+            "question": "Exam DP-300 topic 3 question 25 discussion"
+        },
+        {
+            "code": 39428,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39428-exam-dp-300-topic-10-question-1-discussion/",
+            "number": 247,
+            "question": "Exam DP-300 topic 10 question 1 discussion"
+        },
+        {
+            "code": 65417,
             "link": "https://www.examtopics.com/discussions/microsoft/view/65417-exam-dp-300-topic-8-question-1-discussion/",
-            "number": 65417,
+            "number": 248,
             "question": "Exam DP-300 topic 8 question 1 discussion"
         },
         {
+            "code": 45712,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45712-exam-dp-300-topic-6-question-12-discussion/",
+            "number": 249,
+            "question": "Exam DP-300 topic 6 question 12 discussion"
+        },
+        {
+            "code": 65531,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65531-exam-dp-300-topic-4-question-15-discussion/",
+            "number": 250,
+            "question": "Exam DP-300 topic 4 question 15 discussion"
+        },
+        {
+            "code": 65855,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65855-exam-dp-300-topic-4-question-16-discussion/",
+            "number": 251,
+            "question": "Exam DP-300 topic 4 question 16 discussion"
+        },
+        {
+            "code": 62886,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62886-exam-dp-300-topic-1-question-29-discussion/",
+            "number": 252,
+            "question": "Exam DP-300 topic 1 question 29 discussion"
+        },
+        {
+            "code": 62199,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62199-exam-dp-300-topic-2-question-17-discussion/",
+            "number": 253,
+            "question": "Exam DP-300 topic 2 question 17 discussion"
+        },
+        {
+            "code": 55054,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55054-exam-dp-300-topic-2-question-6-discussion/",
+            "number": 254,
+            "question": "Exam DP-300 topic 2 question 6 discussion"
+        },
+        {
+            "code": 59924,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/59924-exam-dp-300-topic-3-question-10-discussion/",
+            "number": 255,
+            "question": "Exam DP-300 topic 3 question 10 discussion"
+        },
+        {
+            "code": 53745,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53745-exam-dp-300-topic-13-question-2-discussion/",
+            "number": 256,
+            "question": "Exam DP-300 topic 13 question 2 discussion"
+        },
+        {
+            "code": 39151,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39151-exam-dp-300-topic-2-question-1-discussion/",
+            "number": 257,
+            "question": "Exam DP-300 topic 2 question 1 discussion"
+        },
+        {
+            "code": 47020,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47020-exam-dp-300-topic-6-question-18-discussion/",
+            "number": 258,
+            "question": "Exam DP-300 topic 6 question 18 discussion"
+        },
+        {
+            "code": 56191,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56191-exam-dp-300-topic-2-question-8-discussion/",
+            "number": 259,
+            "question": "Exam DP-300 topic 2 question 8 discussion"
+        },
+        {
+            "code": 47124,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47124-exam-dp-300-topic-15-question-1-discussion/",
+            "number": 260,
+            "question": "Exam DP-300 topic 15 question 1 discussion"
+        },
+        {
+            "code": 41946,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41946-exam-dp-300-topic-1-question-6-discussion/",
+            "number": 261,
+            "question": "Exam DP-300 topic 1 question 6 discussion"
+        },
+        {
+            "code": 53322,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53322-exam-dp-300-topic-6-question-12-discussion/",
+            "number": 262,
+            "question": "Exam DP-300 topic 6 question 12 discussion"
+        },
+        {
+            "code": 34972,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34972-exam-dp-300-topic-1-question-3-discussion/",
+            "number": 263,
+            "question": "Exam DP-300 topic 1 question 3 discussion"
+        },
+        {
+            "code": 28723,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28723-exam-dp-300-topic-5-question-16-discussion/",
+            "number": 264,
+            "question": "Exam DP-300 topic 5 question 16 discussion"
+        },
+        {
+            "code": 46064,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/46064-exam-dp-300-topic-5-question-17-discussion/",
+            "number": 265,
+            "question": "Exam DP-300 topic 5 question 17 discussion"
+        },
+        {
+            "code": 45876,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45876-exam-dp-300-topic-12-question-1-discussion/",
+            "number": 266,
+            "question": "Exam DP-300 topic 12 question 1 discussion"
+        },
+        {
+            "code": 25650,
             "link": "https://www.examtopics.com/discussions/microsoft/view/25650-exam-dp-300-topic-8-question-1-discussion/",
-            "number": 25650,
+            "number": 267,
             "question": "Exam DP-300 topic 8 question 1 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/65418-exam-dp-300-topic-9-question-1-discussion/",
-            "number": 65418,
-            "question": "Exam DP-300 topic 9 question 1 discussion"
+            "code": 29236,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/29236-exam-dp-300-topic-6-question-8-discussion/",
+            "number": 268,
+            "question": "Exam DP-300 topic 6 question 8 discussion"
         },
         {
-            "link": "https://www.examtopics.com/discussions/microsoft/view/31695-exam-dp-300-topic-9-question-1-discussion/",
-            "number": 31695,
-            "question": "Exam DP-300 topic 9 question 1 discussion"
+            "code": 45678,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45678-exam-dp-300-topic-4-question-4-discussion/",
+            "number": 269,
+            "question": "Exam DP-300 topic 4 question 4 discussion"
+        },
+        {
+            "code": 27152,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/27152-exam-dp-300-topic-11-question-1-discussion/",
+            "number": 270,
+            "question": "Exam DP-300 topic 11 question 1 discussion"
+        },
+        {
+            "code": 28408,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28408-exam-dp-300-topic-3-question-5-discussion/",
+            "number": 271,
+            "question": "Exam DP-300 topic 3 question 5 discussion"
         }
     ]
 }
