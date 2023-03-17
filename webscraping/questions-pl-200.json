@@ -1,0 +1,1272 @@
+{
+    "exam": "pl-200",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "code": 82520,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82520-exam-pl-200-topic-2-question-23-discussion/",
+            "nquestion": 23,
+            "number": 1,
+            "question": "Exam PL-200 topic 2 question 23 discussion",
+            "topic": 2
+        },
+        {
+            "code": 96056,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96056-exam-pl-200-topic-1-question-53-discussion/",
+            "nquestion": 53,
+            "number": 2,
+            "question": "Exam PL-200 topic 1 question 53 discussion",
+            "topic": 1
+        },
+        {
+            "code": 83641,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83641-exam-pl-200-topic-2-question-20-discussion/",
+            "nquestion": 20,
+            "number": 3,
+            "question": "Exam PL-200 topic 2 question 20 discussion",
+            "topic": 2
+        },
+        {
+            "code": 96878,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96878-exam-pl-200-topic-2-question-29-discussion/",
+            "nquestion": 29,
+            "number": 4,
+            "question": "Exam PL-200 topic 2 question 29 discussion",
+            "topic": 2
+        },
+        {
+            "code": 61021,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61021-exam-pl-200-topic-3-question-7-discussion/",
+            "nquestion": 7,
+            "number": 5,
+            "question": "Exam PL-200 topic 3 question 7 discussion",
+            "topic": 3
+        },
+        {
+            "code": 79991,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79991-exam-pl-200-topic-3-question-14-discussion/",
+            "nquestion": 14,
+            "number": 6,
+            "question": "Exam PL-200 topic 3 question 14 discussion",
+            "topic": 3
+        },
+        {
+            "code": 41347,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41347-exam-pl-200-topic-3-question-13-discussion/",
+            "nquestion": 13,
+            "number": 7,
+            "question": "Exam PL-200 topic 3 question 13 discussion",
+            "topic": 3
+        },
+        {
+            "code": 83287,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83287-exam-pl-200-topic-3-question-19-discussion/",
+            "nquestion": 19,
+            "number": 8,
+            "question": "Exam PL-200 topic 3 question 19 discussion",
+            "topic": 3
+        },
+        {
+            "code": 79811,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79811-exam-pl-200-topic-3-question-17-discussion/",
+            "nquestion": 17,
+            "number": 9,
+            "question": "Exam PL-200 topic 3 question 17 discussion",
+            "topic": 3
+        },
+        {
+            "code": 86139,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86139-exam-pl-200-topic-3-question-16-discussion/",
+            "nquestion": 16,
+            "number": 10,
+            "question": "Exam PL-200 topic 3 question 16 discussion",
+            "topic": 3
+        },
+        {
+            "code": 80316,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80316-exam-pl-200-topic-3-question-15-discussion/",
+            "nquestion": 15,
+            "number": 11,
+            "question": "Exam PL-200 topic 3 question 15 discussion",
+            "topic": 3
+        },
+        {
+            "code": 99701,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/99701-exam-pl-200-topic-3-question-24-discussion/",
+            "nquestion": 24,
+            "number": 12,
+            "question": "Exam PL-200 topic 3 question 24 discussion",
+            "topic": 3
+        },
+        {
+            "code": 96046,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96046-exam-pl-200-topic-3-question-22-discussion/",
+            "nquestion": 22,
+            "number": 13,
+            "question": "Exam PL-200 topic 3 question 22 discussion",
+            "topic": 3
+        },
+        {
+            "code": 96205,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96205-exam-pl-200-topic-3-question-29-discussion/",
+            "nquestion": 29,
+            "number": 14,
+            "question": "Exam PL-200 topic 3 question 29 discussion",
+            "topic": 3
+        },
+        {
+            "code": 99709,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/99709-exam-pl-200-topic-3-question-28-discussion/",
+            "nquestion": 28,
+            "number": 15,
+            "question": "Exam PL-200 topic 3 question 28 discussion",
+            "topic": 3
+        },
+        {
+            "code": 95990,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95990-exam-pl-200-topic-3-question-27-discussion/",
+            "nquestion": 27,
+            "number": 16,
+            "question": "Exam PL-200 topic 3 question 27 discussion",
+            "topic": 3
+        },
+        {
+            "code": 96781,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96781-exam-pl-200-topic-3-question-26-discussion/",
+            "nquestion": 26,
+            "number": 17,
+            "question": "Exam PL-200 topic 3 question 26 discussion",
+            "topic": 3
+        },
+        {
+            "code": 96780,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96780-exam-pl-200-topic-3-question-25-discussion/",
+            "nquestion": 25,
+            "number": 18,
+            "question": "Exam PL-200 topic 3 question 25 discussion",
+            "topic": 3
+        },
+        {
+            "code": 43269,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43269-exam-pl-200-topic-4-question-5-discussion/",
+            "nquestion": 5,
+            "number": 19,
+            "question": "Exam PL-200 topic 4 question 5 discussion",
+            "topic": 4
+        },
+        {
+            "code": 63914,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63914-exam-pl-200-topic-4-question-4-discussion/",
+            "nquestion": 4,
+            "number": 20,
+            "question": "Exam PL-200 topic 4 question 4 discussion",
+            "topic": 4
+        },
+        {
+            "code": 62396,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62396-exam-pl-200-topic-4-question-3-discussion/",
+            "nquestion": 3,
+            "number": 21,
+            "question": "Exam PL-200 topic 4 question 3 discussion",
+            "topic": 4
+        },
+        {
+            "code": 59930,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/59930-exam-pl-200-topic-4-question-2-discussion/",
+            "nquestion": 2,
+            "number": 22,
+            "question": "Exam PL-200 topic 4 question 2 discussion",
+            "topic": 4
+        },
+        {
+            "code": 54380,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54380-exam-pl-200-topic-4-question-1-discussion/",
+            "nquestion": 1,
+            "number": 23,
+            "question": "Exam PL-200 topic 4 question 1 discussion",
+            "topic": 4
+        },
+        {
+            "code": 83360,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83360-exam-pl-200-topic-4-question-10-discussion/",
+            "nquestion": 10,
+            "number": 24,
+            "question": "Exam PL-200 topic 4 question 10 discussion",
+            "topic": 4
+        },
+        {
+            "code": 83454,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83454-exam-pl-200-topic-4-question-9-discussion/",
+            "nquestion": 9,
+            "number": 25,
+            "question": "Exam PL-200 topic 4 question 9 discussion",
+            "topic": 4
+        },
+        {
+            "code": 60203,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60203-exam-pl-200-topic-4-question-7-discussion/",
+            "nquestion": 7,
+            "number": 26,
+            "question": "Exam PL-200 topic 4 question 7 discussion",
+            "topic": 4
+        },
+        {
+            "code": 60043,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60043-exam-pl-200-topic-4-question-6-discussion/",
+            "nquestion": 6,
+            "number": 27,
+            "question": "Exam PL-200 topic 4 question 6 discussion",
+            "topic": 4
+        },
+        {
+            "code": 80997,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80997-exam-pl-200-topic-4-question-15-discussion/",
+            "nquestion": 15,
+            "number": 28,
+            "question": "Exam PL-200 topic 4 question 15 discussion",
+            "topic": 4
+        },
+        {
+            "code": 85542,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/85542-exam-pl-200-topic-4-question-14-discussion/",
+            "nquestion": 14,
+            "number": 29,
+            "question": "Exam PL-200 topic 4 question 14 discussion",
+            "topic": 4
+        },
+        {
+            "code": 54495,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54495-exam-pl-200-topic-4-question-13-discussion/",
+            "nquestion": 13,
+            "number": 30,
+            "question": "Exam PL-200 topic 4 question 13 discussion",
+            "topic": 4
+        },
+        {
+            "code": 83455,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83455-exam-pl-200-topic-4-question-11-discussion/",
+            "nquestion": 11,
+            "number": 31,
+            "question": "Exam PL-200 topic 4 question 11 discussion",
+            "topic": 4
+        },
+        {
+            "code": 96621,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96621-exam-pl-200-topic-4-question-20-discussion/",
+            "nquestion": 20,
+            "number": 32,
+            "question": "Exam PL-200 topic 4 question 20 discussion",
+            "topic": 4
+        },
+        {
+            "code": 96480,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96480-exam-pl-200-topic-4-question-19-discussion/",
+            "nquestion": 19,
+            "number": 33,
+            "question": "Exam PL-200 topic 4 question 19 discussion",
+            "topic": 4
+        },
+        {
+            "code": 98026,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98026-exam-pl-200-topic-4-question-18-discussion/",
+            "nquestion": 18,
+            "number": 34,
+            "question": "Exam PL-200 topic 4 question 18 discussion",
+            "topic": 4
+        },
+        {
+            "code": 86799,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86799-exam-pl-200-topic-4-question-17-discussion/",
+            "nquestion": 17,
+            "number": 35,
+            "question": "Exam PL-200 topic 4 question 17 discussion",
+            "topic": 4
+        },
+        {
+            "code": 85544,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/85544-exam-pl-200-topic-4-question-16-discussion/",
+            "nquestion": 16,
+            "number": 36,
+            "question": "Exam PL-200 topic 4 question 16 discussion",
+            "topic": 4
+        },
+        {
+            "code": 96067,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96067-exam-pl-200-topic-4-question-25-discussion/",
+            "nquestion": 25,
+            "number": 37,
+            "question": "Exam PL-200 topic 4 question 25 discussion",
+            "topic": 4
+        },
+        {
+            "code": 96065,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96065-exam-pl-200-topic-4-question-24-discussion/",
+            "nquestion": 24,
+            "number": 38,
+            "question": "Exam PL-200 topic 4 question 24 discussion",
+            "topic": 4
+        },
+        {
+            "code": 97522,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97522-exam-pl-200-topic-4-question-23-discussion/",
+            "nquestion": 23,
+            "number": 39,
+            "question": "Exam PL-200 topic 4 question 23 discussion",
+            "topic": 4
+        },
+        {
+            "code": 96623,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96623-exam-pl-200-topic-4-question-22-discussion/",
+            "nquestion": 22,
+            "number": 40,
+            "question": "Exam PL-200 topic 4 question 22 discussion",
+            "topic": 4
+        },
+        {
+            "code": 98276,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98276-exam-pl-200-topic-4-question-21-discussion/",
+            "nquestion": 21,
+            "number": 41,
+            "question": "Exam PL-200 topic 4 question 21 discussion",
+            "topic": 4
+        },
+        {
+            "code": 54428,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54428-exam-pl-200-topic-5-question-4-discussion/",
+            "nquestion": 4,
+            "number": 42,
+            "question": "Exam PL-200 topic 5 question 4 discussion",
+            "topic": 5
+        },
+        {
+            "code": 42219,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/42219-exam-pl-200-topic-5-question-3-discussion/",
+            "nquestion": 3,
+            "number": 43,
+            "question": "Exam PL-200 topic 5 question 3 discussion",
+            "topic": 5
+        },
+        {
+            "code": 42420,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/42420-exam-pl-200-topic-5-question-2-discussion/",
+            "nquestion": 2,
+            "number": 44,
+            "question": "Exam PL-200 topic 5 question 2 discussion",
+            "topic": 5
+        },
+        {
+            "code": 43014,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43014-exam-pl-200-topic-5-question-1-discussion/",
+            "nquestion": 1,
+            "number": 45,
+            "question": "Exam PL-200 topic 5 question 1 discussion",
+            "topic": 5
+        },
+        {
+            "code": 96624,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96624-exam-pl-200-topic-4-question-26-discussion/",
+            "nquestion": 26,
+            "number": 46,
+            "question": "Exam PL-200 topic 4 question 26 discussion",
+            "topic": 4
+        },
+        {
+            "code": 60165,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60165-exam-pl-200-topic-5-question-9-discussion/",
+            "nquestion": 9,
+            "number": 47,
+            "question": "Exam PL-200 topic 5 question 9 discussion",
+            "topic": 5
+        },
+        {
+            "code": 54399,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54399-exam-pl-200-topic-5-question-8-discussion/",
+            "nquestion": 8,
+            "number": 48,
+            "question": "Exam PL-200 topic 5 question 8 discussion",
+            "topic": 5
+        },
+        {
+            "code": 83456,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83456-exam-pl-200-topic-5-question-7-discussion/",
+            "nquestion": 7,
+            "number": 49,
+            "question": "Exam PL-200 topic 5 question 7 discussion",
+            "topic": 5
+        },
+        {
+            "code": 54206,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54206-exam-pl-200-topic-5-question-6-discussion/",
+            "nquestion": 6,
+            "number": 50,
+            "question": "Exam PL-200 topic 5 question 6 discussion",
+            "topic": 5
+        },
+        {
+            "code": 54951,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54951-exam-pl-200-topic-5-question-5-discussion/",
+            "nquestion": 5,
+            "number": 51,
+            "question": "Exam PL-200 topic 5 question 5 discussion",
+            "topic": 5
+        },
+        {
+            "code": 43126,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43126-exam-pl-200-topic-5-question-14-discussion/",
+            "nquestion": 14,
+            "number": 52,
+            "question": "Exam PL-200 topic 5 question 14 discussion",
+            "topic": 5
+        },
+        {
+            "code": 63960,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63960-exam-pl-200-topic-5-question-13-discussion/",
+            "nquestion": 13,
+            "number": 53,
+            "question": "Exam PL-200 topic 5 question 13 discussion",
+            "topic": 5
+        },
+        {
+            "code": 62989,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62989-exam-pl-200-topic-5-question-12-discussion/",
+            "nquestion": 12,
+            "number": 54,
+            "question": "Exam PL-200 topic 5 question 12 discussion",
+            "topic": 5
+        },
+        {
+            "code": 61546,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61546-exam-pl-200-topic-5-question-11-discussion/",
+            "nquestion": 11,
+            "number": 55,
+            "question": "Exam PL-200 topic 5 question 11 discussion",
+            "topic": 5
+        },
+        {
+            "code": 60846,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60846-exam-pl-200-topic-5-question-10-discussion/",
+            "nquestion": 10,
+            "number": 56,
+            "question": "Exam PL-200 topic 5 question 10 discussion",
+            "topic": 5
+        },
+        {
+            "code": 62447,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62447-exam-pl-200-topic-5-question-19-discussion/",
+            "nquestion": 19,
+            "number": 57,
+            "question": "Exam PL-200 topic 5 question 19 discussion",
+            "topic": 5
+        },
+        {
+            "code": 60497,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60497-exam-pl-200-topic-5-question-18-discussion/",
+            "nquestion": 18,
+            "number": 58,
+            "question": "Exam PL-200 topic 5 question 18 discussion",
+            "topic": 5
+        },
+        {
+            "code": 42138,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/42138-exam-pl-200-topic-5-question-17-discussion/",
+            "nquestion": 17,
+            "number": 59,
+            "question": "Exam PL-200 topic 5 question 17 discussion",
+            "topic": 5
+        },
+        {
+            "code": 43129,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43129-exam-pl-200-topic-5-question-16-discussion/",
+            "nquestion": 16,
+            "number": 60,
+            "question": "Exam PL-200 topic 5 question 16 discussion",
+            "topic": 5
+        },
+        {
+            "code": 41809,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41809-exam-pl-200-topic-5-question-15-discussion/",
+            "nquestion": 15,
+            "number": 61,
+            "question": "Exam PL-200 topic 5 question 15 discussion",
+            "topic": 5
+        },
+        {
+            "code": 80222,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80222-exam-pl-200-topic-5-question-23-discussion/",
+            "nquestion": 23,
+            "number": 62,
+            "question": "Exam PL-200 topic 5 question 23 discussion",
+            "topic": 5
+        },
+        {
+            "code": 83457,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83457-exam-pl-200-topic-5-question-22-discussion/",
+            "nquestion": 22,
+            "number": 63,
+            "question": "Exam PL-200 topic 5 question 22 discussion",
+            "topic": 5
+        },
+        {
+            "code": 65317,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65317-exam-pl-200-topic-5-question-21-discussion/",
+            "nquestion": 21,
+            "number": 64,
+            "question": "Exam PL-200 topic 5 question 21 discussion",
+            "topic": 5
+        },
+        {
+            "code": 66783,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66783-exam-pl-200-topic-5-question-20-discussion/",
+            "nquestion": 20,
+            "number": 65,
+            "question": "Exam PL-200 topic 5 question 20 discussion",
+            "topic": 5
+        },
+        {
+            "code": 96037,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96037-exam-pl-200-topic-5-question-29-discussion/",
+            "nquestion": 29,
+            "number": 66,
+            "question": "Exam PL-200 topic 5 question 29 discussion",
+            "topic": 5
+        },
+        {
+            "code": 96036,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96036-exam-pl-200-topic-5-question-28-discussion/",
+            "nquestion": 28,
+            "number": 67,
+            "question": "Exam PL-200 topic 5 question 28 discussion",
+            "topic": 5
+        },
+        {
+            "code": 96144,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96144-exam-pl-200-topic-5-question-27-discussion/",
+            "nquestion": 27,
+            "number": 68,
+            "question": "Exam PL-200 topic 5 question 27 discussion",
+            "topic": 5
+        },
+        {
+            "code": 96979,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96979-exam-pl-200-topic-5-question-26-discussion/",
+            "nquestion": 26,
+            "number": 69,
+            "question": "Exam PL-200 topic 5 question 26 discussion",
+            "topic": 5
+        },
+        {
+            "code": 84806,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/84806-exam-pl-200-topic-5-question-25-discussion/",
+            "nquestion": 25,
+            "number": 70,
+            "question": "Exam PL-200 topic 5 question 25 discussion",
+            "topic": 5
+        },
+        {
+            "code": 83030,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83030-exam-pl-200-topic-6-question-5-discussion/",
+            "nquestion": 5,
+            "number": 71,
+            "question": "Exam PL-200 topic 6 question 5 discussion",
+            "topic": 6
+        },
+        {
+            "code": 80527,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80527-exam-pl-200-topic-6-question-4-discussion/",
+            "nquestion": 4,
+            "number": 72,
+            "question": "Exam PL-200 topic 6 question 4 discussion",
+            "topic": 6
+        },
+        {
+            "code": 80526,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80526-exam-pl-200-topic-6-question-3-discussion/",
+            "nquestion": 3,
+            "number": 73,
+            "question": "Exam PL-200 topic 6 question 3 discussion",
+            "topic": 6
+        },
+        {
+            "code": 85754,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/85754-exam-pl-200-topic-6-question-2-discussion/",
+            "nquestion": 2,
+            "number": 74,
+            "question": "Exam PL-200 topic 6 question 2 discussion",
+            "topic": 6
+        },
+        {
+            "code": 96717,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96717-exam-pl-200-topic-1-question-54-discussion/",
+            "nquestion": 54,
+            "number": 75,
+            "question": "Exam PL-200 topic 1 question 54 discussion",
+            "topic": 1
+        },
+        {
+            "code": 95989,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95989-exam-pl-200-topic-1-question-51-discussion/",
+            "nquestion": 51,
+            "number": 76,
+            "question": "Exam PL-200 topic 1 question 51 discussion",
+            "topic": 1
+        },
+        {
+            "code": 60492,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60492-exam-pl-200-topic-6-question-1-discussion/",
+            "nquestion": 1,
+            "number": 77,
+            "question": "Exam PL-200 topic 6 question 1 discussion",
+            "topic": 6
+        },
+        {
+            "code": 95993,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95993-exam-pl-200-topic-6-question-10-discussion/",
+            "nquestion": 10,
+            "number": 78,
+            "question": "Exam PL-200 topic 6 question 10 discussion",
+            "topic": 6
+        },
+        {
+            "code": 96042,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96042-exam-pl-200-topic-6-question-9-discussion/",
+            "nquestion": 9,
+            "number": 79,
+            "question": "Exam PL-200 topic 6 question 9 discussion",
+            "topic": 6
+        },
+        {
+            "code": 79353,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79353-exam-pl-200-topic-6-question-8-discussion/",
+            "nquestion": 8,
+            "number": 80,
+            "question": "Exam PL-200 topic 6 question 8 discussion",
+            "topic": 6
+        },
+        {
+            "code": 79352,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79352-exam-pl-200-topic-6-question-6-discussion/",
+            "nquestion": 6,
+            "number": 81,
+            "question": "Exam PL-200 topic 6 question 6 discussion",
+            "topic": 6
+        },
+        {
+            "code": 96285,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96285-exam-pl-200-topic-6-question-15-discussion/",
+            "nquestion": 15,
+            "number": 82,
+            "question": "Exam PL-200 topic 6 question 15 discussion",
+            "topic": 6
+        },
+        {
+            "code": 96133,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96133-exam-pl-200-topic-6-question-14-discussion/",
+            "nquestion": 14,
+            "number": 83,
+            "question": "Exam PL-200 topic 6 question 14 discussion",
+            "topic": 6
+        },
+        {
+            "code": 95994,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95994-exam-pl-200-topic-6-question-13-discussion/",
+            "nquestion": 13,
+            "number": 84,
+            "question": "Exam PL-200 topic 6 question 13 discussion",
+            "topic": 6
+        },
+        {
+            "code": 96044,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96044-exam-pl-200-topic-6-question-11-discussion/",
+            "nquestion": 11,
+            "number": 85,
+            "question": "Exam PL-200 topic 6 question 11 discussion",
+            "topic": 6
+        },
+        {
+            "code": 62057,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62057-exam-pl-200-topic-8-question-2-discussion/",
+            "nquestion": 2,
+            "number": 86,
+            "question": "Exam PL-200 topic 8 question 2 discussion",
+            "topic": 8
+        },
+        {
+            "code": 65986,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65986-exam-pl-200-topic-8-question-1-discussion/",
+            "nquestion": 1,
+            "number": 87,
+            "question": "Exam PL-200 topic 8 question 1 discussion",
+            "topic": 8
+        },
+        {
+            "code": 83460,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83460-exam-pl-200-topic-7-question-3-discussion/",
+            "nquestion": 3,
+            "number": 88,
+            "question": "Exam PL-200 topic 7 question 3 discussion",
+            "topic": 7
+        },
+        {
+            "code": 83459,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83459-exam-pl-200-topic-7-question-2-discussion/",
+            "nquestion": 2,
+            "number": 89,
+            "question": "Exam PL-200 topic 7 question 2 discussion",
+            "topic": 7
+        },
+        {
+            "code": 83393,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83393-exam-pl-200-topic-9-question-2-discussion/",
+            "nquestion": 2,
+            "number": 90,
+            "question": "Exam PL-200 topic 9 question 2 discussion",
+            "topic": 9
+        },
+        {
+            "code": 83461,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83461-exam-pl-200-topic-9-question-1-discussion/",
+            "nquestion": 1,
+            "number": 91,
+            "question": "Exam PL-200 topic 9 question 1 discussion",
+            "topic": 9
+        },
+        {
+            "code": 87333,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/87333-exam-pl-200-topic-8-question-5-discussion/",
+            "nquestion": 5,
+            "number": 92,
+            "question": "Exam PL-200 topic 8 question 5 discussion",
+            "topic": 8
+        },
+        {
+            "code": 60816,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60816-exam-pl-200-topic-8-question-4-discussion/",
+            "nquestion": 4,
+            "number": 93,
+            "question": "Exam PL-200 topic 8 question 4 discussion",
+            "topic": 8
+        },
+        {
+            "code": 81451,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81451-exam-pl-200-topic-8-question-3-discussion/",
+            "nquestion": 3,
+            "number": 94,
+            "question": "Exam PL-200 topic 8 question 3 discussion",
+            "topic": 8
+        },
+        {
+            "code": 62640,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62640-exam-pl-200-topic-10-question-1-discussion/",
+            "nquestion": 1,
+            "number": 95,
+            "question": "Exam PL-200 topic 10 question 1 discussion",
+            "topic": 10
+        },
+        {
+            "code": 80543,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80543-exam-pl-200-topic-9-question-5-discussion/",
+            "nquestion": 5,
+            "number": 96,
+            "question": "Exam PL-200 topic 9 question 5 discussion",
+            "topic": 9
+        },
+        {
+            "code": 83396,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83396-exam-pl-200-topic-9-question-4-discussion/",
+            "nquestion": 4,
+            "number": 97,
+            "question": "Exam PL-200 topic 9 question 4 discussion",
+            "topic": 9
+        },
+        {
+            "code": 83392,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83392-exam-pl-200-topic-9-question-3-discussion/",
+            "nquestion": 3,
+            "number": 98,
+            "question": "Exam PL-200 topic 9 question 3 discussion",
+            "topic": 9
+        },
+        {
+            "code": 54352,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54352-exam-pl-200-topic-1-question-14-discussion/",
+            "nquestion": 14,
+            "number": 99,
+            "question": "Exam PL-200 topic 1 question 14 discussion",
+            "topic": 1
+        },
+        {
+            "code": 96695,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96695-exam-pl-200-topic-2-question-32-discussion/",
+            "nquestion": 32,
+            "number": 100,
+            "question": "Exam PL-200 topic 2 question 32 discussion",
+            "topic": 2
+        },
+        {
+            "code": 79404,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79404-exam-pl-200-topic-11-question-1-discussion/",
+            "nquestion": 1,
+            "number": 101,
+            "question": "Exam PL-200 topic 11 question 1 discussion",
+            "topic": 11
+        },
+        {
+            "code": 64138,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64138-exam-pl-200-topic-10-question-5-discussion/",
+            "nquestion": 5,
+            "number": 102,
+            "question": "Exam PL-200 topic 10 question 5 discussion",
+            "topic": 10
+        },
+        {
+            "code": 62448,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62448-exam-pl-200-topic-10-question-4-discussion/",
+            "nquestion": 4,
+            "number": 103,
+            "question": "Exam PL-200 topic 10 question 4 discussion",
+            "topic": 10
+        },
+        {
+            "code": 62202,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62202-exam-pl-200-topic-10-question-3-discussion/",
+            "nquestion": 3,
+            "number": 104,
+            "question": "Exam PL-200 topic 10 question 3 discussion",
+            "topic": 10
+        },
+        {
+            "code": 64137,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64137-exam-pl-200-topic-10-question-2-discussion/",
+            "nquestion": 2,
+            "number": 105,
+            "question": "Exam PL-200 topic 10 question 2 discussion",
+            "topic": 10
+        },
+        {
+            "code": 79413,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79413-exam-pl-200-topic-13-question-1-discussion/",
+            "nquestion": 1,
+            "number": 106,
+            "question": "Exam PL-200 topic 13 question 1 discussion",
+            "topic": 13
+        },
+        {
+            "code": 65848,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65848-exam-pl-200-topic-12-question-4-discussion/",
+            "nquestion": 4,
+            "number": 107,
+            "question": "Exam PL-200 topic 12 question 4 discussion",
+            "topic": 12
+        },
+        {
+            "code": 66708,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/66708-exam-pl-200-topic-12-question-1-discussion/",
+            "nquestion": 1,
+            "number": 108,
+            "question": "Exam PL-200 topic 12 question 1 discussion",
+            "topic": 12
+        },
+        {
+            "code": 83463,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83463-exam-pl-200-topic-13-question-2-discussion/",
+            "nquestion": 2,
+            "number": 109,
+            "question": "Exam PL-200 topic 13 question 2 discussion",
+            "topic": 13
+        },
+        {
+            "code": 79701,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79701-exam-pl-200-topic-1-question-34-discussion/",
+            "nquestion": 34,
+            "number": 110,
+            "question": "Exam PL-200 topic 1 question 34 discussion",
+            "topic": 1
+        },
+        {
+            "code": 81624,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81624-exam-pl-200-topic-1-question-33-discussion/",
+            "nquestion": 33,
+            "number": 111,
+            "question": "Exam PL-200 topic 1 question 33 discussion",
+            "topic": 1
+        },
+        {
+            "code": 81623,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81623-exam-pl-200-topic-1-question-32-discussion/",
+            "nquestion": 32,
+            "number": 112,
+            "question": "Exam PL-200 topic 1 question 32 discussion",
+            "topic": 1
+        },
+        {
+            "code": 96051,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96051-exam-pl-200-topic-1-question-50-discussion/",
+            "nquestion": 50,
+            "number": 113,
+            "question": "Exam PL-200 topic 1 question 50 discussion",
+            "topic": 1
+        },
+        {
+            "code": 60498,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60498-exam-pl-200-topic-1-question-31-discussion/",
+            "nquestion": 31,
+            "number": 114,
+            "question": "Exam PL-200 topic 1 question 31 discussion",
+            "topic": 1
+        },
+        {
+            "code": 79704,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79704-exam-pl-200-topic-1-question-39-discussion/",
+            "nquestion": 39,
+            "number": 115,
+            "question": "Exam PL-200 topic 1 question 39 discussion",
+            "topic": 1
+        },
+        {
+            "code": 83259,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83259-exam-pl-200-topic-1-question-38-discussion/",
+            "nquestion": 38,
+            "number": 116,
+            "question": "Exam PL-200 topic 1 question 38 discussion",
+            "topic": 1
+        },
+        {
+            "code": 81443,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81443-exam-pl-200-topic-1-question-37-discussion/",
+            "nquestion": 37,
+            "number": 117,
+            "question": "Exam PL-200 topic 1 question 37 discussion",
+            "topic": 1
+        },
+        {
+            "code": 96345,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96345-exam-pl-200-topic-1-question-48-discussion/",
+            "nquestion": 48,
+            "number": 118,
+            "question": "Exam PL-200 topic 1 question 48 discussion",
+            "topic": 1
+        },
+        {
+            "code": 80239,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80239-exam-pl-200-topic-1-question-41-discussion/",
+            "nquestion": 41,
+            "number": 119,
+            "question": "Exam PL-200 topic 1 question 41 discussion",
+            "topic": 1
+        },
+        {
+            "code": 81645,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81645-exam-pl-200-topic-1-question-43-discussion/",
+            "nquestion": 43,
+            "number": 120,
+            "question": "Exam PL-200 topic 1 question 43 discussion",
+            "topic": 1
+        },
+        {
+            "code": 80242,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80242-exam-pl-200-topic-1-question-42-discussion/",
+            "nquestion": 42,
+            "number": 121,
+            "question": "Exam PL-200 topic 1 question 42 discussion",
+            "topic": 1
+        },
+        {
+            "code": 81627,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81627-exam-pl-200-topic-1-question-36-discussion/",
+            "nquestion": 36,
+            "number": 122,
+            "question": "Exam PL-200 topic 1 question 36 discussion",
+            "topic": 1
+        },
+        {
+            "code": 81518,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81518-exam-pl-200-topic-1-question-45-discussion/",
+            "nquestion": 45,
+            "number": 123,
+            "question": "Exam PL-200 topic 1 question 45 discussion",
+            "topic": 1
+        },
+        {
+            "code": 81517,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81517-exam-pl-200-topic-1-question-44-discussion/",
+            "nquestion": 44,
+            "number": 124,
+            "question": "Exam PL-200 topic 1 question 44 discussion",
+            "topic": 1
+        },
+        {
+            "code": 96867,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96867-exam-pl-200-topic-1-question-49-discussion/",
+            "nquestion": 49,
+            "number": 125,
+            "question": "Exam PL-200 topic 1 question 49 discussion",
+            "topic": 1
+        },
+        {
+            "code": 95988,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95988-exam-pl-200-topic-1-question-47-discussion/",
+            "nquestion": 47,
+            "number": 126,
+            "question": "Exam PL-200 topic 1 question 47 discussion",
+            "topic": 1
+        },
+        {
+            "code": 81519,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81519-exam-pl-200-topic-1-question-46-discussion/",
+            "nquestion": 46,
+            "number": 127,
+            "question": "Exam PL-200 topic 1 question 46 discussion",
+            "topic": 1
+        },
+        {
+            "code": 96881,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96881-exam-pl-200-topic-1-question-55-discussion/",
+            "nquestion": 55,
+            "number": 128,
+            "question": "Exam PL-200 topic 1 question 55 discussion",
+            "topic": 1
+        },
+        {
+            "code": 96880,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96880-exam-pl-200-topic-1-question-52-discussion/",
+            "nquestion": 52,
+            "number": 129,
+            "question": "Exam PL-200 topic 1 question 52 discussion",
+            "topic": 1
+        },
+        {
+            "code": 42126,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/42126-exam-pl-200-topic-2-question-2-discussion/",
+            "nquestion": 2,
+            "number": 130,
+            "question": "Exam PL-200 topic 2 question 2 discussion",
+            "topic": 2
+        },
+        {
+            "code": 41345,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41345-exam-pl-200-topic-2-question-3-discussion/",
+            "nquestion": 3,
+            "number": 131,
+            "question": "Exam PL-200 topic 2 question 3 discussion",
+            "topic": 2
+        },
+        {
+            "code": 60298,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60298-exam-pl-200-topic-2-question-1-discussion/",
+            "nquestion": 1,
+            "number": 132,
+            "question": "Exam PL-200 topic 2 question 1 discussion",
+            "topic": 2
+        },
+        {
+            "code": 60102,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60102-exam-pl-200-topic-1-question-17-discussion/",
+            "nquestion": 17,
+            "number": 133,
+            "question": "Exam PL-200 topic 1 question 17 discussion",
+            "topic": 1
+        },
+        {
+            "code": 96882,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96882-exam-pl-200-topic-1-question-57-discussion/",
+            "nquestion": 57,
+            "number": 134,
+            "question": "Exam PL-200 topic 1 question 57 discussion",
+            "topic": 1
+        },
+        {
+            "code": 96058,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96058-exam-pl-200-topic-1-question-56-discussion/",
+            "nquestion": 56,
+            "number": 135,
+            "question": "Exam PL-200 topic 1 question 56 discussion",
+            "topic": 1
+        },
+        {
+            "code": 79710,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79710-exam-pl-200-topic-2-question-8-discussion/",
+            "nquestion": 8,
+            "number": 136,
+            "question": "Exam PL-200 topic 2 question 8 discussion",
+            "topic": 2
+        },
+        {
+            "code": 63420,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63420-exam-pl-200-topic-2-question-6-discussion/",
+            "nquestion": 6,
+            "number": 137,
+            "question": "Exam PL-200 topic 2 question 6 discussion",
+            "topic": 2
+        },
+        {
+            "code": 60506,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60506-exam-pl-200-topic-2-question-5-discussion/",
+            "nquestion": 5,
+            "number": 138,
+            "question": "Exam PL-200 topic 2 question 5 discussion",
+            "topic": 2
+        },
+        {
+            "code": 41777,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41777-exam-pl-200-topic-2-question-4-discussion/",
+            "nquestion": 4,
+            "number": 139,
+            "question": "Exam PL-200 topic 2 question 4 discussion",
+            "topic": 2
+        },
+        {
+            "code": 81768,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81768-exam-pl-200-topic-2-question-12-discussion/",
+            "nquestion": 12,
+            "number": 140,
+            "question": "Exam PL-200 topic 2 question 12 discussion",
+            "topic": 2
+        },
+        {
+            "code": 80261,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80261-exam-pl-200-topic-2-question-11-discussion/",
+            "nquestion": 11,
+            "number": 141,
+            "question": "Exam PL-200 topic 2 question 11 discussion",
+            "topic": 2
+        },
+        {
+            "code": 79711,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79711-exam-pl-200-topic-2-question-10-discussion/",
+            "nquestion": 10,
+            "number": 142,
+            "question": "Exam PL-200 topic 2 question 10 discussion",
+            "topic": 2
+        },
+        {
+            "code": 54310,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54310-exam-pl-200-topic-2-question-9-discussion/",
+            "nquestion": 9,
+            "number": 143,
+            "question": "Exam PL-200 topic 2 question 9 discussion",
+            "topic": 2
+        },
+        {
+            "code": 60445,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60445-exam-pl-200-topic-2-question-18-discussion/",
+            "nquestion": 18,
+            "number": 144,
+            "question": "Exam PL-200 topic 2 question 18 discussion",
+            "topic": 2
+        },
+        {
+            "code": 61453,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61453-exam-pl-200-topic-2-question-17-discussion/",
+            "nquestion": 17,
+            "number": 145,
+            "question": "Exam PL-200 topic 2 question 17 discussion",
+            "topic": 2
+        },
+        {
+            "code": 41519,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41519-exam-pl-200-topic-2-question-16-discussion/",
+            "nquestion": 16,
+            "number": 146,
+            "question": "Exam PL-200 topic 2 question 16 discussion",
+            "topic": 2
+        },
+        {
+            "code": 83286,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83286-exam-pl-200-topic-2-question-22-discussion/",
+            "nquestion": 22,
+            "number": 147,
+            "question": "Exam PL-200 topic 2 question 22 discussion",
+            "topic": 2
+        },
+        {
+            "code": 60489,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60489-exam-pl-200-topic-1-question-11-discussion/",
+            "nquestion": 11,
+            "number": 148,
+            "question": "Exam PL-200 topic 1 question 11 discussion",
+            "topic": 1
+        },
+        {
+            "code": 83766,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83766-exam-pl-200-topic-2-question-21-discussion/",
+            "nquestion": 21,
+            "number": 149,
+            "question": "Exam PL-200 topic 2 question 21 discussion",
+            "topic": 2
+        },
+        {
+            "code": 41771,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41771-exam-pl-200-topic-1-question-10-discussion/",
+            "nquestion": 10,
+            "number": 150,
+            "question": "Exam PL-200 topic 1 question 10 discussion",
+            "topic": 1
+        },
+        {
+            "code": 63133,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63133-exam-pl-200-topic-2-question-19-discussion/",
+            "nquestion": 19,
+            "number": 151,
+            "question": "Exam PL-200 topic 2 question 19 discussion",
+            "topic": 2
+        },
+        {
+            "code": 79989,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79989-exam-pl-200-topic-2-question-28-discussion/",
+            "nquestion": 28,
+            "number": 152,
+            "question": "Exam PL-200 topic 2 question 28 discussion",
+            "topic": 2
+        },
+        {
+            "code": 84248,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/84248-exam-pl-200-topic-2-question-26-discussion/",
+            "nquestion": 26,
+            "number": 153,
+            "question": "Exam PL-200 topic 2 question 26 discussion",
+            "topic": 2
+        },
+        {
+            "code": 83266,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83266-exam-pl-200-topic-2-question-25-discussion/",
+            "nquestion": 25,
+            "number": 154,
+            "question": "Exam PL-200 topic 2 question 25 discussion",
+            "topic": 2
+        },
+        {
+            "code": 81903,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81903-exam-pl-200-topic-2-question-24-discussion/",
+            "nquestion": 24,
+            "number": 155,
+            "question": "Exam PL-200 topic 2 question 24 discussion",
+            "topic": 2
+        },
+        {
+            "code": 96694,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96694-exam-pl-200-topic-2-question-31-discussion/",
+            "nquestion": 31,
+            "number": 156,
+            "question": "Exam PL-200 topic 2 question 31 discussion",
+            "topic": 2
+        },
+        {
+            "code": 96692,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96692-exam-pl-200-topic-2-question-30-discussion/",
+            "nquestion": 30,
+            "number": 157,
+            "question": "Exam PL-200 topic 2 question 30 discussion",
+            "topic": 2
+        },
+        {
+            "code": 41351,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41351-exam-pl-200-topic-3-question-4-discussion/",
+            "nquestion": 4,
+            "number": 158,
+            "question": "Exam PL-200 topic 3 question 4 discussion",
+            "topic": 3
+        }
+    ]
+}

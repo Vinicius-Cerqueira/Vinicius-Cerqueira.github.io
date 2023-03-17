@@ -1,0 +1,56 @@
+{
+    "exam": "az-305",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "code": 78934,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78934-exam-az-305-topic-1-question-30-discussion/",
+            "nquestion": 30,
+            "number": 1,
+            "question": "Exam AZ-305 topic 1 question 30 discussion",
+            "topic": 1
+        },
+        {
+            "code": 78933,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78933-exam-az-305-topic-1-question-25-discussion/",
+            "nquestion": 25,
+            "number": 2,
+            "question": "Exam AZ-305 topic 1 question 25 discussion",
+            "topic": 1
+        },
+        {
+            "code": 81933,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81933-exam-az-305-topic-1-question-23-discussion/",
+            "nquestion": 23,
+            "number": 3,
+            "question": "Exam AZ-305 topic 1 question 23 discussion",
+            "topic": 1
+        },
+        {
+            "code": 79215,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79215-exam-az-305-topic-1-question-22-discussion/",
+            "nquestion": 22,
+            "number": 4,
+            "question": "Exam AZ-305 topic 1 question 22 discussion",
+            "topic": 1
+        },
+        {
+            "code": 100772,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100772-exam-az-305-topic-4-question-87-discussion/",
+            "nquestion": 87,
+            "number": 5,
+            "question": "Exam AZ-305 topic 4 question 87 discussion",
+            "topic": 4
+        },
+        {
+            "code": 69209,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69209-exam-az-305-topic-4-question-6-discussion/",
+            "nquestion": 6,
+            "number": 6,
+            "question": "Exam AZ-305 topic 4 question 6 discussion",
+            "topic": 4
+        }
+    ]
+}

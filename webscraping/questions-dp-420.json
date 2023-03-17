@@ -1,0 +1,24 @@
+{
+    "exam": "dp-420",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "code": 75713,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75713-exam-dp-420-topic-1-question-25-discussion/",
+            "nquestion": 25,
+            "number": 1,
+            "question": "Exam DP-420 topic 1 question 25 discussion",
+            "topic": 1
+        },
+        {
+            "code": 86875,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86875-exam-dp-420-topic-1-question-22-discussion/",
+            "nquestion": 22,
+            "number": 2,
+            "question": "Exam DP-420 topic 1 question 22 discussion",
+            "topic": 1
+        }
+    ]
+}

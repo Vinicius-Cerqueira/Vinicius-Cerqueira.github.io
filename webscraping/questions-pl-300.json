@@ -1,0 +1,120 @@
+{
+    "exam": "pl-300",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "code": 80557,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80557-exam-pl-300-topic-1-question-10-discussion/",
+            "nquestion": 10,
+            "number": 1,
+            "question": "Exam PL-300 topic 1 question 10 discussion",
+            "topic": 1
+        },
+        {
+            "code": 85095,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/85095-exam-pl-300-topic-3-question-12-discussion/",
+            "nquestion": 12,
+            "number": 2,
+            "question": "Exam PL-300 topic 3 question 12 discussion",
+            "topic": 3
+        },
+        {
+            "code": 82470,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82470-exam-pl-300-topic-2-question-32-discussion/",
+            "nquestion": 32,
+            "number": 3,
+            "question": "Exam PL-300 topic 2 question 32 discussion",
+            "topic": 2
+        },
+        {
+            "code": 79840,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79840-exam-pl-300-topic-2-question-29-discussion/",
+            "nquestion": 29,
+            "number": 4,
+            "question": "Exam PL-300 topic 2 question 29 discussion",
+            "topic": 2
+        },
+        {
+            "code": 81784,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81784-exam-pl-300-topic-3-question-3-discussion/",
+            "nquestion": 3,
+            "number": 5,
+            "question": "Exam PL-300 topic 3 question 3 discussion",
+            "topic": 3
+        },
+        {
+            "code": 80707,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80707-exam-pl-300-topic-2-question-21-discussion/",
+            "nquestion": 21,
+            "number": 6,
+            "question": "Exam PL-300 topic 2 question 21 discussion",
+            "topic": 2
+        },
+        {
+            "code": 80607,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80607-exam-pl-300-topic-2-question-8-discussion/",
+            "nquestion": 8,
+            "number": 7,
+            "question": "Exam PL-300 topic 2 question 8 discussion",
+            "topic": 2
+        },
+        {
+            "code": 94598,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94598-exam-pl-300-topic-1-question-17-discussion/",
+            "nquestion": 17,
+            "number": 8,
+            "question": "Exam PL-300 topic 1 question 17 discussion",
+            "topic": 1
+        },
+        {
+            "code": 79961,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79961-exam-pl-300-topic-1-question-1-discussion/",
+            "nquestion": 1,
+            "number": 9,
+            "question": "Exam PL-300 topic 1 question 1 discussion",
+            "topic": 1
+        },
+        {
+            "code": 94648,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94648-exam-pl-300-topic-2-question-54-discussion/",
+            "nquestion": 54,
+            "number": 10,
+            "question": "Exam PL-300 topic 2 question 54 discussion",
+            "topic": 2
+        },
+        {
+            "code": 86032,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86032-exam-pl-300-topic-3-question-47-discussion/",
+            "nquestion": 47,
+            "number": 11,
+            "question": "Exam PL-300 topic 3 question 47 discussion",
+            "topic": 3
+        },
+        {
+            "code": 79453,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79453-exam-pl-300-topic-2-question-15-discussion/",
+            "nquestion": 15,
+            "number": 12,
+            "question": "Exam PL-300 topic 2 question 15 discussion",
+            "topic": 2
+        },
+        {
+            "code": 80518,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80518-exam-pl-300-topic-1-question-3-discussion/",
+            "nquestion": 3,
+            "number": 13,
+            "question": "Exam PL-300 topic 1 question 3 discussion",
+            "topic": 1
+        },
+        {
+            "code": 80551,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80551-exam-pl-300-topic-2-question-2-discussion/",
+            "nquestion": 2,
+            "number": 14,
+            "question": "Exam PL-300 topic 2 question 2 discussion",
+            "topic": 2
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "exam": "dp-300",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "code": 41948,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41948-exam-dp-300-topic-1-question-1-discussion/",
+            "nquestion": 1,
+            "number": 1,
+            "question": "Exam DP-300 topic 1 question 1 discussion",
+            "topic": 1
+        },
+        {
+            "code": 96270,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96270-exam-dp-300-topic-2-question-31-discussion/",
+            "nquestion": 31,
+            "number": 2,
+            "question": "Exam DP-300 topic 2 question 31 discussion",
+            "topic": 2
+        },
+        {
+            "code": 98419,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98419-exam-dp-300-topic-1-question-6-discussion/",
+            "nquestion": 6,
+            "number": 3,
+            "question": "Exam DP-300 topic 1 question 6 discussion",
+            "topic": 1
+        },
+        {
+            "code": 96275,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96275-exam-dp-300-topic-3-question-43-discussion/",
+            "nquestion": 43,
+            "number": 4,
+            "question": "Exam DP-300 topic 3 question 43 discussion",
+            "topic": 3
+        },
+        {
+            "code": 97124,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97124-exam-dp-300-topic-3-question-42-discussion/",
+            "nquestion": 42,
+            "number": 5,
+            "question": "Exam DP-300 topic 3 question 42 discussion",
+            "topic": 3
+        },
+        {
+            "code": 100349,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100349-exam-dp-300-topic-3-question-40-discussion/",
+            "nquestion": 40,
+            "number": 6,
+            "question": "Exam DP-300 topic 3 question 40 discussion",
+            "topic": 3
+        }
+    ]
+}

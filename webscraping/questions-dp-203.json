@@ -1,0 +1,80 @@
+{
+    "exam": "dp-203",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "code": 80948,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80948-exam-dp-203-topic-4-question-35-discussion/",
+            "nquestion": 35,
+            "number": 1,
+            "question": "Exam DP-203 topic 4 question 35 discussion",
+            "topic": 4
+        },
+        {
+            "code": 60841,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60841-exam-dp-203-topic-4-question-13-discussion/",
+            "nquestion": 13,
+            "number": 2,
+            "question": "Exam DP-203 topic 4 question 13 discussion",
+            "topic": 4
+        },
+        {
+            "code": 54230,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54230-exam-dp-203-topic-2-question-20-discussion/",
+            "nquestion": 20,
+            "number": 3,
+            "question": "Exam DP-203 topic 2 question 20 discussion",
+            "topic": 2
+        },
+        {
+            "code": 95404,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95404-exam-dp-203-topic-2-question-91-discussion/",
+            "nquestion": 91,
+            "number": 4,
+            "question": "Exam DP-203 topic 2 question 91 discussion",
+            "topic": 2
+        },
+        {
+            "code": 74670,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74670-exam-dp-203-topic-1-question-50-discussion/",
+            "nquestion": 50,
+            "number": 5,
+            "question": "Exam DP-203 topic 1 question 50 discussion",
+            "topic": 1
+        },
+        {
+            "code": 67485,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67485-exam-dp-203-topic-2-question-46-discussion/",
+            "nquestion": 46,
+            "number": 6,
+            "question": "Exam DP-203 topic 2 question 46 discussion",
+            "topic": 2
+        },
+        {
+            "code": 60470,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60470-exam-dp-203-topic-2-question-13-discussion/",
+            "nquestion": 13,
+            "number": 7,
+            "question": "Exam DP-203 topic 2 question 13 discussion",
+            "topic": 2
+        },
+        {
+            "code": 81557,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81557-exam-dp-203-topic-2-question-85-discussion/",
+            "nquestion": 85,
+            "number": 8,
+            "question": "Exam DP-203 topic 2 question 85 discussion",
+            "topic": 2
+        },
+        {
+            "code": 74669,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74669-exam-dp-203-topic-1-question-49-discussion/",
+            "nquestion": 49,
+            "number": 9,
+            "question": "Exam DP-203 topic 1 question 49 discussion",
+            "topic": 1
+        }
+    ]
+}

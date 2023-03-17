@@ -1,0 +1,32 @@
+{
+    "exam": "az-400",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "code": 56295,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56295-exam-az-400-topic-2-question-4-discussion/",
+            "nquestion": 4,
+            "number": 1,
+            "question": "Exam AZ-400 topic 2 question 4 discussion",
+            "topic": 2
+        },
+        {
+            "code": 79298,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79298-exam-az-400-topic-4-question-54-discussion/",
+            "nquestion": 54,
+            "number": 2,
+            "question": "Exam AZ-400 topic 4 question 54 discussion",
+            "topic": 4
+        },
+        {
+            "code": 57178,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57178-exam-az-400-topic-1-question-24-discussion/",
+            "nquestion": 24,
+            "number": 3,
+            "question": "Exam AZ-400 topic 1 question 24 discussion",
+            "topic": 1
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "exam": "az-204",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "code": 78733,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78733-exam-az-204-topic-1-question-3-discussion/",
+            "nquestion": 3,
+            "number": 1,
+            "question": "Exam AZ-204 topic 1 question 3 discussion",
+            "topic": 1
+        },
+        {
+            "code": 95361,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95361-exam-az-204-topic-4-question-62-discussion/",
+            "nquestion": 62,
+            "number": 2,
+            "question": "Exam AZ-204 topic 4 question 62 discussion",
+            "topic": 4
+        },
+        {
+            "code": 47656,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47656-exam-az-204-topic-8-question-2-discussion/",
+            "nquestion": 2,
+            "number": 3,
+            "question": "Exam AZ-204 topic 8 question 2 discussion",
+            "topic": 8
+        }
+    ]
+}

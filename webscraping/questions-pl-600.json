@@ -1,0 +1,48 @@
+{
+    "exam": "pl-600",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "code": 74617,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74617-exam-pl-600-topic-2-question-2-discussion/",
+            "nquestion": 2,
+            "number": 1,
+            "question": "Exam PL-600 topic 2 question 2 discussion",
+            "topic": 2
+        },
+        {
+            "code": 102848,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102848-exam-pl-600-topic-2-question-41-discussion/",
+            "nquestion": 41,
+            "number": 2,
+            "question": "Exam PL-600 topic 2 question 41 discussion",
+            "topic": 2
+        },
+        {
+            "code": 102849,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102849-exam-pl-600-topic-2-question-42-discussion/",
+            "nquestion": 42,
+            "number": 3,
+            "question": "Exam PL-600 topic 2 question 42 discussion",
+            "topic": 2
+        },
+        {
+            "code": 100417,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100417-exam-pl-600-topic-2-question-37-discussion/",
+            "nquestion": 37,
+            "number": 4,
+            "question": "Exam PL-600 topic 2 question 37 discussion",
+            "topic": 2
+        },
+        {
+            "code": 74582,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74582-exam-pl-600-topic-2-question-3-discussion/",
+            "nquestion": 3,
+            "number": 5,
+            "question": "Exam PL-600 topic 2 question 3 discussion",
+            "topic": 2
+        }
+    ]
+}

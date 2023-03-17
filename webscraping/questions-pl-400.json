@@ -1,0 +1,72 @@
+{
+    "exam": "pl-400",
+    "file": {
+        "mode": "w"
+    },
+    "questions": [
+        {
+            "code": 81736,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81736-exam-pl-400-topic-28-question-2-discussion/",
+            "nquestion": 2,
+            "number": 1,
+            "question": "Exam PL-400 topic 28 question 2 discussion",
+            "topic": 28
+        },
+        {
+            "code": 85487,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/85487-exam-pl-400-topic-24-question-4-discussion/",
+            "nquestion": 4,
+            "number": 2,
+            "question": "Exam PL-400 topic 24 question 4 discussion",
+            "topic": 24
+        },
+        {
+            "code": 59975,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/59975-exam-pl-400-topic-1-question-10-discussion/",
+            "nquestion": 10,
+            "number": 3,
+            "question": "Exam PL-400 topic 1 question 10 discussion",
+            "topic": 1
+        },
+        {
+            "code": 59971,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/59971-exam-pl-400-topic-1-question-8-discussion/",
+            "nquestion": 8,
+            "number": 4,
+            "question": "Exam PL-400 topic 1 question 8 discussion",
+            "topic": 1
+        },
+        {
+            "code": 88806,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/88806-exam-pl-400-topic-1-question-7-discussion/",
+            "nquestion": 7,
+            "number": 5,
+            "question": "Exam PL-400 topic 1 question 7 discussion",
+            "topic": 1
+        },
+        {
+            "code": 59953,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/59953-exam-pl-400-topic-1-question-6-discussion/",
+            "nquestion": 6,
+            "number": 6,
+            "question": "Exam PL-400 topic 1 question 6 discussion",
+            "topic": 1
+        },
+        {
+            "code": 54211,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54211-exam-pl-400-topic-1-question-5-discussion/",
+            "nquestion": 5,
+            "number": 7,
+            "question": "Exam PL-400 topic 1 question 5 discussion",
+            "topic": 1
+        },
+        {
+            "code": 56000,
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56000-exam-pl-400-topic-1-question-4-discussion/",
+            "nquestion": 4,
+            "number": 8,
+            "question": "Exam PL-400 topic 1 question 4 discussion",
+            "topic": 1
+        }
+    ]
+}
