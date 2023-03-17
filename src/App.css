@@ -1,4 +1,5 @@
 .clicked {
+  width: 1rem;
   text-decoration: none;
   color: black;
   font-size: large;
@@ -6,6 +7,7 @@
   padding: 2rem;
   border-radius: 1rem;
   transition: 0.3s;
+  text-align: center;
 }
 
 .clicked:hover {
