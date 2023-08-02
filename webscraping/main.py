@@ -23,19 +23,25 @@ class Questions:
             # this code is extracted using regular expression in python to remove the code from a string like this: /discussions/microsoft/view/51459-exam-az-104-topic-5-question-43-discussion/
             code = re.search(
                 r"/discussions/microsoft/view/(\d+)-[\w-]+/\Z", question['href']).group(1)
-            self.addQuestion(
-                Question(int(code), title, link, len(self.questions)+1))
+            topic = re.search(r"topic-(\d+)", question['href']).group(1)
+            number = re.search(
+                r"question-(\d+)", question['href']).group(1)
+
+            self.addQuestion(Question(int(code), title, link,
+                             len(self.questions)+1, int(topic), int(number)))
 
     def writeJSON(self):
         return self.file.write(self.toJSON())
 
 
 class Question:
-    def __init__(self, code, question, link, number):
+    def __init__(self, code, question, link, number, topic, nquestion):
         self.question = question
         self.link = link
         self.code = code
         self.number = number
+        self.topic = topic
+        self.nquestion = nquestion
 
 
 ai102 = Questions("ai-102")
@@ -77,7 +83,7 @@ def find_questions(page):
 
 if __name__ == '__main__':
 
-    for page in range(1, 500):
+    for page in range(1, 20):
         find_questions(page)
         print(page)
 
@@ -89,17 +95,17 @@ if __name__ == '__main__':
         find_questions(page)
         print(page)
 
-    ai102.writeJSON()
-    az104.writeJSON()
-    az204.writeJSON()
-    az220.writeJSON()
-    az305.writeJSON()
-    az400.writeJSON()
-    dp100.writeJSON()
-    dp203.writeJSON()
-    dp300.writeJSON()
-    dp420.writeJSON()
-    pl200.writeJSON()
-    pl300.writeJSON()
-    pl400.writeJSON()
-    pl600.writeJSON()
+ai102.writeJSON()
+az104.writeJSON()
+az204.writeJSON()
+az220.writeJSON()
+az305.writeJSON()
+az400.writeJSON()
+dp100.writeJSON()
+dp203.writeJSON()
+dp300.writeJSON()
+dp420.writeJSON()
+pl200.writeJSON()
+pl300.writeJSON()
+pl400.writeJSON()
+pl600.writeJSON()
